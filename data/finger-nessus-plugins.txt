@@ -1,0 +1,22 @@
+10038	cfingerd Wildcard Argument Information Disclosure	Finger abuses
+10068	Finger Service Remote Information Disclosure	Finger abuses
+10069	Finger 0@host Unused Account Disclosure	Finger abuses
+10070	Finger Backdoor Detection	Backdoors
+10071	Multiple Web Server finger CGI Information Disclosure	CGI abuses
+10072	Finger .@host Unused Account Disclosure	Finger abuses
+10073	Finger Recursive Request Arbitrary Site Redirection	Finger abuses
+10126	in.fingerd Pipe Input Arbitrary Command Execution	Finger abuses
+10380	rsh Unauthenticated Access (via finger Information)	Gain a shell remotely
+10534	FreeBSD 4.1.1 Finger Arbitrary Remote File Access	Finger abuses
+10651	cfingerd Version Detection	Finger abuses
+10652	cfingerd < 1.4.4 Multiple Vulnerabilities	Finger abuses
+10788	Solaris in.fingerd Unused Accounts Disclosure	Finger abuses
+11193	akfingerd 0.5 Multiple Vulnerabilities	Finger abuses
+11421	smtpscan SMTP Fingerprinting	SMTP problems
+11919	HMAP Web Server Fingerprinting	Web Servers
+11951	DNS Server Fingerprinting	DNS
+14886	[DSA049] DSA-049-1 cfingerd	Debian Local Security Checks
+14903	[DSA066] DSA-066-1 cfingerd	Debian Local Security Checks
+17141	fingerd Remote Overflow	Finger abuses
+20108	Web Server / Application favicon.ico Vendor Fingerprinting	Web Servers
+29229	FreeBSD : GNU finger vulnerability (1745)	FreeBSD Local Security Checks

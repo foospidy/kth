@@ -1,0 +1,31 @@
+10411	Kerberos klogind Remote Overflow	Gain a shell remotely
+10472	SSH with Kerberos NFS Share Ticket Disclosure	Misc.
+10640	Kerberos Server Spoofed Packet Amplification DoS (PingPong)	Misc.
+10954	OpenSSH Kerberos TGT/AFS Token Passing Remote Overflow	Gain a shell remotely
+11511	Kerberos 4 Realm Principle Impersonation	Misc.
+11512	Kerberos 5 < 1.3.5 Multiple Vulnerabilities	Misc.
+14509	[GLSA-200405-23] Heimdal: Kerberos 4 buffer overflow in kadmin	Gentoo Local Security Checks
+17351	Kerberos configuration	Settings
+18686	[GLSA-200507-11] MIT Kerberos 5: Multiple vulnerabilities	Gentoo Local Security Checks
+19405	MS05-042: Vulnerability in Kerberos Could Allow Denial of Service, Information Disclosure and Spoofing (899587)	Windows : Microsoft Bulletins
+22214	[GLSA-200608-15] MIT Kerberos 5: Multiple local privilege escalation vulnerabilities	Gentoo Local Security Checks
+24257	[GLSA-200701-21] MIT Kerberos 5: Arbitrary Remote Code Execution	Gentoo Local Security Checks
+24935	[GLSA-200704-02] MIT Kerberos 5: Arbitrary remote code execution	Gentoo Local Security Checks
+24998	Kerberos telnet Crafted Username Remote Authentication Bypass	Gain a shell remotely
+25793	[GLSA-200707-11] MIT Kerberos 5: Arbitrary remote code execution	Gentoo Local Security Checks
+26041	[GLSA-200709-01] MIT Kerberos 5: Multiple vulnerabilities	Gentoo Local Security Checks
+28115	USN511-1 : Kerberos vulnerability	Ubuntu Local Security Checks
+28116	USN511-2 : Kerberos vulnerability	Ubuntu Local Security Checks
+29491	SuSE Security Update: Security update for Kerberos5 (krb5-2440)	SuSE Local Security Checks
+29492	SuSE Security Update: Security update for Kerberos 5 (krb5-3046)	SuSE Local Security Checks
+29494	SuSE Security Update: Security update for Kerberos (krb5-4192)	SuSE Local Security Checks
+29495	SuSE Security Update: Security update for Kerberos 5 (krb5-4249)	SuSE Local Security Checks
+29992	SuSE Security Update: Security update for Kerberos (krb5-4852)	SuSE Local Security Checks
+31624	SuSE Security Update: Security update for Kerberos 5 (krb5-5082)	SuSE Local Security Checks
+31625	USN587-1 : Kerberos vulnerabilities	Ubuntu Local Security Checks
+31671	[GLSA-200803-31] MIT Kerberos 5: Multiple vulnerabilities	Gentoo Local Security Checks
+36137	[GLSA-200904-09] MIT Kerberos 5: Multiple vulnerabilities	Gentoo Local Security Checks
+41542	SuSE Security Update: Security update for Kerberos (krb5-6140)	SuSE Local Security Checks
+42468	CUPS < 1.4.2 kerberos Parameter XSS	CGI abuses : XSS
+43829	Kerberos Information Disclosure	Misc.
+44093	SuSE Security Update: Security update for Kerberos 5 (krb5-6775)	SuSE Local Security Checks

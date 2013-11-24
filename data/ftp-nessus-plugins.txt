@@ -1,0 +1,388 @@
+10009	AIX FTPd libc Library Remote Buffer Overflow	FTP
+10079	Anonymous FTP Enabled	FTP
+10080	Linux FTP Server Backdoor	Backdoors
+10081	FTP Privileged Port Bounce Scan	FTP
+10082	FTPd CWD Command Account Enumeration	FTP
+10083	Multiple FTP CWD ~root Command Privilege Escalation	FTP
+10084	Multiple FTP Server Command Handling Overflow	FTP
+10085	Multiple Vendor FTP Multiple PASV Command Port Exhaustion DoS	FTP
+10086	WU-FTPD QUOTE PASV Forced Core Dump Information Disclosure	FTP
+10087	Multiple FTP Server QUOTE CWD Command Home Path Disclosure	FTP
+10088	Anonymous FTP Writeable root Directory	FTP
+10090	WU-FTPD SITE EXEC Arbitrary Local Command Execution	FTP
+10091	FTPGate Web Proxy Traversal Arbitrary File Access	Web Servers
+10092	FTP Server Detection	Service detection
+10118	Microsoft IIS FTP Server NLST Command Overflow DoS	FTP
+10166	Windows NT FTP 'guest' Account Present	FTP
+10189	ProFTPD mkdir Buffer Overflow	FTP
+10190	ProFTPD 1.2.0pre4 mkdir Command Directory Name Handling Remote Overflow	FTP
+10191	ProFTPD NLST Command Argument Handling Remote Overflow	FTP
+10293	Vermillion FTPD Long CWD Commands DoS	FTP
+10305	WFTP Unpassworded Guest Account	FTP
+10318	WU-FTPD Multiple Vulnerabilities (OF, Priv Esc)	FTP
+10319	WU-FTPD SITE NEWER Command Memory Exhaustion DoS	FTP
+10450	Dragon FTP USER Command Remote Overflow	FTP
+10452	WU-FTPD site_exec() Function Remote Format String	FTP
+10464	ProFTPD Multiple Remote Overflows (palmetto)	FTP
+10466	WFTPD Out of Sequence RNTO Command Remote DoS	FTP
+10467	Virtual Visions FTP ftp.pl dir Parameter Traversal Arbitrary File Access	CGI abuses
+10471	GuildFTPd Traversal Arbitrary File Enumeration	FTP
+10487	WFTPD 2.41 rc11 Unauthenticated MLST Command Remote DoS	FTP
+10490	HP-UX FTP Daemon PASS Command Remote Format String	FTP
+10508	PFTP Default Unpassworded Account	FTP
+10510	EFTP Newline String Handling Remote DoS	FTP
+10556	Broker FTP Multiple Command Arbitrary File/Directory Manipulation	FTP
+10568	bftpd NLST Command Output Format String	FTP
+10579	bftpd Multiple Command Remote Overflow	FTP
+10634	ProFTPD STAT Command Remote DoS	FTP
+10648	BSD Based FTP Server Multiple glob Function Remote Overflow	FTP
+10653	Solaris FTP Daemon CWD Command Account Enumeration	FTP
+10690	GoodTech FTP Server Connection Saturation DoS	FTP
+10692	QNX RTP FTP stat Command strtok() Function Overflow	FTP
+10733	InterScan VirusWall /interscan/cgi-bin/FtpSave.dll Unauthenticated Remote Configuration Manipulation	CGI abuses
+10821	Multiple FTPD glob Command Arbitrary Command Execution	FTP
+10822	Multiple Vendor FTPD on Windows Floppy Request CPU Consumption DoS	FTP
+10923	Squid FTP URL Special Character Handling Remote Overflow	Firewalls
+10928	EFTP .lnk File Handling Remote Overflow	FTP
+10929	Windows 98 FTP MS/DOS Device Name Request DoS	FTP
+10933	EFTP Multiple Command Traversal Arbitrary Directory Listing	FTP
+10934	MS02-018: Microsoft IIS FTP Status Request DoS (uncredentialed check)	FTP
+10990	Multiple Vendor Embedded FTP Service Any Username Authentication Bypass	FTP
+11045	Zaurus PDA FTP Server Unpassworded root Account	FTP
+11056	Cisco TFTP Server Long Filename DoS (CSCdy03429)	CISCO
+11093	EFTP Nonexistent File Request Installation Directory Disclosure	FTP
+11094	WS_FTP Multiple Command Long Argument Overflow	FTP
+11097	TYPSoft FTP Server Malformed STOR / RETR Command DoS	FTP
+11098	WS_FTP Server SITE CPWD Command Remote Overflow	FTP
+11112	FTP Server Traversal Arbitrary File Access	FTP
+11160	Windows FTP Server NULL Administrator Password	FTP
+11184	3Com NBX ftpd CEL Command Remote Overflow (2)	FTP
+11185	3Com NBX ftpd CEL Command Remote Overflow (1)	FTP
+11200	PlatinumFTPServer Multiple Vulnerabilities	FTP
+11205	WarFTPd CWD/MKD Command Overflow	FTP
+11206	WarFTPd dir Command Traversal Arbitrary Directory Listing	FTP
+11207	WarFTPd USER/PASS Command Remote Overflow	FTP
+11258	Default Password (glftpd) for 'glftpd' Account	Default Unix Accounts
+11331	WU-FTPD Debug Mode Client Hostname Remote Format String	FTP
+11332	WU-FTPD Unspecified Security Issue	FTP
+11371	BSD ftpd Single Byte Buffer Overflow	FTP
+11372	HP-UX ftpd glob() Expansion STAT Buffer Overflow	FTP
+11373	SunFTP GET Request Remote Overflow	FTP
+11374	SunFTP Multiple Command Traversal Arbitrary File Creation/Deletion	FTP
+11391	Multiple FTP Server setproctitle Function Arbitrary Command Execution	FTP
+11407	ProFTPD 1.2.0rc2 Malformed cwd Command Format String	FTP
+11450	ProFTPD on Debian Linux postinst Installation Privilege Escalation	FTP
+11466	Multiple FTP Server Traversal Arbitrary File/Directory Access	FTP
+11539	NetComm NB1300 Router FTP Default Admin Account	FTP
+11565	FTP Server root Directory .forward File Present	FTP
+11566	FTP Server root Directory .rhosts File Present	FTP
+11573	smallftpd Multiple Vulnerabilities (Traversal, DoS)	FTP
+11584	WebWeaver FTP Aborted RETR Command Remote DoS	FTP
+11614	Novell NetWare FTPServ Malformed Input Remote DoS	Netware
+11640	CesarFTP settings.ini Authentication Credential Cleartext Disclosure	Windows
+11648	BlackMoon FTP Login Error Message User Enumeration	FTP
+11649	BlackMoon FTP Server blackmoon.mdb Cleartext Password Disclosure	Windows
+11677	ST FTP Service Arbitrary File/Directory Access	FTP
+11679	Multiple FTP Server quote stat Command Traversal Arbitrary Directory Access	FTP
+11687	Crob FTP Server user Field Remote Format String	FTP
+11693	PFTP Cleartext Local Password Disclosure	Windows
+11701	HP-UX FTPD REST Command Remote Arbitrary Memory Disclosure	FTP
+11705	LeapFTP < 2.7.4.x PASV Reply Remote Overflow	Windows
+11709	SmartFTP Multiple Command Response Overflow	Windows
+11711	FTP Voyager LIST Command File List Handling Remote Overflow	Windows
+11755	CesarFTP Multiple Vulnerabilities (OF, File Access, more)	FTP
+11756	CuteFTP < 5.0.2.0 Multiple Vulnerabilities	Windows
+11757	NGC Active FTPServer 2002 Multiple Command Remote DoS	FTP
+11768	PostgreSQL Authentication Module (mod_sql) for ProFTPD USER Name Variable SQL Injection	FTP
+11779	FTP Server Copyrighted Material Present	FTP
+11811	WU-FTPD fb_realpath() Function Off-by-one Overflow	FTP
+11819	TFTP Daemon Detection	Service detection
+11849	ProFTPD File Transfer Newline Character Overflow	FTP
+11912	WU-FTPD fileutils/coreutils ls -w Argument Memory Consumption DoS	FTP
+12056	Xlight FTP Server Multiple Remote Overflows	FTP
+12060	Crob FTP Server Connection Saturation Remote DoS	FTP
+12061	Sami FTP Server Multiple DoS	FTP
+12072	smallftpd 1.0.3 Crafted Traversal Sequence Remote DoS	FTP
+12075	TYPSoft FTP Server 1.10 Invalid Path Request DoS	FTP
+12082	Robo-FTP Pre-authentication Command Execution DoS	FTP
+12083	WFTP 3.21 Multiple Vulnerabilities (OF, DoS)	FTP
+12086	DreamFTP Server username Remote Format String	FTP
+12098	WU-FTPD restricted-gid Directory Access Restriction Bypass	FTP
+12108	WS_FTP Pro Client ASCII Mode Directory Listing Handling Overflow	Windows
+12125	oftpd PORT Command Remote DoS	FTP
+12441	RHSA-2003-404: lftp	Red Hat Local Security Checks
+12551	FreeBSD : hsftp format string vulnerabilities (68)	FreeBSD Local Security Checks
+12560	FreeBSD : lftp HTML parsing vulnerability (89)	FreeBSD Local Security Checks
+12587	FreeBSD : oftpd denial-of-service vulnerability (PORT command) (130)	FreeBSD Local Security Checks
+12604	FreeBSD : proftpd IP address access control list breakage (155)	FreeBSD Local Security Checks
+12605	FreeBSD : ProFTPD ASCII translation bug resulting in remote root compromise (156)	FreeBSD Local Security Checks
+12622	FreeBSD : wu-ftpd ftpaccess `restricted-uid'/`restricted-gid' directive may be bypassed (201)	FreeBSD Local Security Checks
+13667	Fedora Core 1 2003-034: lftp	Fedora Local Security Checks
+13801	SUSE-SA:2003:032: wuftpd	SuSE Local Security Checks
+13819	SuSE-SA:2003:051: lftp	SuSE Local Security Checks
+13863	MDKSA-2001:044: gftp	Mandriva Local Security Checks
+13903	MDKSA-2001:090: wu-ftpd	Mandriva Local Security Checks
+13913	MDKSA-2002:005: proftpd	Mandriva Local Security Checks
+14077	MDKSA-2003:095-1: proftpd	Mandriva Local Security Checks
+14098	MDKSA-2003:116: lftp	Mandriva Local Security Checks
+14140	MDKSA-2004:041: proftpd	Mandriva Local Security Checks
+14179	OpenFTPD SITE MSG FTP Command Format String	FTP
+14195	4D WebStar Pre-authentication FTP Overflow	FTP
+14256	BlackJumboDog FTP Server Multiple Command Overflow	FTP
+14271	FreeBSD : Arbitrary code execution via a format string vulnerability in jftpgw (82)	FreeBSD Local Security Checks
+14297	FreeBSD : tnftpd -- remotely exploitable vulnerability (194)	FreeBSD Local Security Checks
+14301	WU-FTPD ABOR Command Arbitrary File Access	FTP
+14302	WU-FTPD rnfr File Overwrite	FTP
+14371	WU-FTPD MAIL_ADMIN Function Remote Overflow	FTP
+14372	WU-FTPD S/KEY Authentication ftpd.c skey_challenge Function Remote Overflow	FTP
+14459	[GLSA-200403-08] oftpd DoS vulnerability	Gentoo Local Security Checks
+14495	[GLSA-200405-09] ProFTPD Access Control List bypass vulnerability	Gentoo Local Security Checks
+14537	[GLSA-200407-04] Pure-FTPd: Potential DoS when maximum connections is reached	Gentoo Local Security Checks
+14584	WS_FTP Server Path Parsing Remote DoS	FTP
+14585	WS_FTP Server STAT Command Remote Overflow	FTP
+14586	WS_FTP Server CWD Command Remote DoS	FTP
+14591	Titan FTP Server Multiple Command Remote Overflow	FTP
+14597	WS_FTP Pro Client Weak Password Encrypted	Windows
+14598	WS_FTP Server Multiple Vulnerabilities (OF, DoS, Cmd Exec)	FTP
+14599	WS_FTP Server Multiple Vulnerabilities (Bounce, PASV Hijacking)	FTP
+14659	Titan FTP Server quote stat Command Traversal Arbitrary Directory Listing	FTP
+14699	TYPSoft FTP Server Crafted RETR Command Sequence Remote DoS	FTP
+14706	TYPSoft FTP Server LIST Command Traversal Arbitrary Directory Listing	FTP
+14707	TYPSoft FTP Server Empty Username DoS	FTP
+14709	FTP Serv-U 4.x-5.x STOU Command MS-DOS Argument Remote DoS	FTP
+14745	[GLSA-200409-19] Heimdal: ftpd root escalation	Gentoo Local Security Checks
+14790	[GLSA-200409-27] glFTPd: Local buffer overflow vulnerability	Gentoo Local Security Checks
+14853	[DSA016] DSA-016-3 wu-ftpd	Debian Local Security Checks
+14866	[DSA029] DSA-029-2 proftpd	Debian Local Security Checks
+14869	[DSA032] DSA-032-1 proftpd	Debian Local Security Checks
+14894	[DSA057] DSA-057-1 gftp	Debian Local Security Checks
+14921	[DSA084] DSA-084-1 gftp	Debian Local Security Checks
+14924	[DSA087] DSA-087-1 wu-ftpd	Debian Local Security Checks
+15118	[DSA281] DSA-281-1 moxftp	Debian Local Security Checks
+15151	[DSA314] DSA-314-1 atftp	Debian Local Security Checks
+15175	[DSA338] DSA-338-1 proftpd	Debian Local Security Checks
+15194	[DSA357] DSA-357-1 wu-ftpd	Debian Local Security Checks
+15214	[DSA377] DSA-377-1 wu-ftpd	Debian Local Security Checks
+15243	[DSA406] DSA-406-1 lftp	Debian Local Security Checks
+15284	[DSA447] DSA-447-1 hsftp	Debian Local Security Checks
+15294	[DSA457] DSA-457-1 wu-ftpd	Debian Local Security Checks
+15310	[DSA473] DSA-473-1 oftpd	Debian Local Security Checks
+15347	[DSA510] DSA-510-1 jftpgw	Debian Local Security Checks
+15388	[DSA551] DSA-551-1 lukemftpd	Debian Local Security Checks
+15439	ArGoSoft FTP Server XCWD Remote Overflow	FTP
+15484	ProFTPD Login Timing Account Name Enumeration	FTP
+15613	Hummingbird Connectivity FTP Service XCWD Command Overflow	FTP
+15623	ArGoSoft FTP Server .lnk Shortcut Upload Arbitrary File Manipulation	FTP
+15628	Ability FTP Server Multiple Command Remote Buffer Overflows	FTP
+15704	SlimFTPd Multiple Command Handling Overflow	FTP
+15764	Fastream NETFile FTP/Web Server HEAD Request Saturation DoS	Web Servers
+15816	FreeBSD : wzdftpd -- remote DoS (202)	FreeBSD Local Security Checks
+15851	GuildFTPd Long SITE Command Overflow	FTP
+15857	WS_FTP Server Multiple Command Remote Overflow DoS	FTP
+15860	CuteFTP Professional FTP Command Response Remote Overflow	Windows
+16094	ArGoSoft FTP Server USER Command Account Enumeration	FTP
+16194	UMN Gopherd Unauthorized FTP Proxy	Firewalls
+16270	WarFTPd CWD Command Remote DoS	FTP
+16321	3Com 3CServer/3CDaemon FTP Server Multiple Vulnerabilities (OF, FS, PD, DoS)	FTP
+16334	ArGoSoft FTP Server < 1.4.2.8 Multiple .LNK File Handling Vulnerabilities	FTP
+16409	[GLSA-200501-18] KDE FTP KIOslave: Command injection	Gentoo Local Security Checks
+16415	[GLSA-200501-24] tnftp: Arbitrary file overwriting	Gentoo Local Security Checks
+17136	[DSA686] DSA-686-1 gftp	Debian Local Security Checks
+17145	[GLSA-200502-26] GProFTPD: gprostats format string vulnerability	Gentoo Local Security Checks
+17153	[GLSA-200502-27] gFTP: Directory traversal vulnerability	Gentoo Local Security Checks
+17245	glFTPd Multiple Script ZIP File Handling Arbitrary File / Directory Access	FTP
+17279	MDKSA-2005:050: gftp	Mandriva Local Security Checks
+17303	ArGoSoft FTP Server DELE Command Remote Buffer Overrun	FTP
+17321	PlatinumFTPServer username Multiple Connection Handling Remote Format String	FTP
+17341	Cisco IOS Device TFTP Certificate Authority (CA) File Detection	Misc.
+17342	Cisco IOS TFTP File Disclosure	Misc.
+17593	FileZilla FTP Server Multiple DoS	FTP
+17602	WU-FTPD wu_fnmatch() Function File Globbing Remote DoS	FTP
+18000	SurgeFTP LEAK Command Remote DoS	FTP
+18010	[DSA705] DSA-705-1 wu-ftpd	Debian Local Security Checks
+18037	XAMPP Default FTP Account	FTP
+18142	Intersoft NetTerm Netftpd USER Command Remote Overflow	FTP
+18194	Golden FTP Server Pro GET Traversal Arbitrary File Access	FTP
+18223	NETFile FTP/Web Server Directory Traversal Arbitrary File Access	CGI abuses
+18224	RaidenFTPD Multiple Command Traversal Arbitrary File Access	FTP
+18225	RaidenFTPD urlget Command Traversal Arbitrary File Access	FTP
+18262	TFTP Traversal Arbitrary File Access	Misc.
+18263	TFTP Backdoor Detection	Backdoors
+18264	TFTPD Server Filename Handling Remote Overflow	Gain a shell remotely
+18295	NETFile FTP/Web Server FTP Bounce Attack	FTP
+18334	Fedora Core 2 2005-310: gftp	Fedora Local Security Checks
+18402	Hummingbird InetD FTP Component (ftpdw.exe) Command Overflow	FTP
+18470	RHSA-2005-410: gftp	Red Hat Local Security Checks
+18493	TFTPD small overflow	Gain a shell remotely
+18587	Inframail FTP Server NLST Command Remote Overflow	FTP
+18611	PlanetFileServer mshftp.dll Data Processing Remote Overflow	FTP
+18615	Golden FTP Server <= 2.60 LS Command Traversal Information Disclosure	FTP
+18627	GlobalSCAPE Secure FTP Server User Input Overflow	FTP
+18725	SSA-2003-346-01 lftp security update 	Slackware Local Security Checks
+18726	SSA-2003-259-03 WU-FTPD Security Advisory 	Slackware Local Security Checks
+18733	SSA-2003-259-02 ProFTPD Security Advisory 	Slackware Local Security Checks
+18796	SSA-2005-135-02 ncftp 	Slackware Local Security Checks
+18888	FreeBSD : gftp -- directory traversal vulnerability (1505)	FreeBSD Local Security Checks
+18996	FreeBSD : mozilla -- NULL bytes in FTP URLs (1900)	FreeBSD Local Security Checks
+19008	FreeBSD : kdelibs3 -- konqueror FTP command injection vulnerability (1932)	FreeBSD Local Security Checks
+19057	FreeBSD : putty -- pscp/psftp heap corruption vulnerabilities (2093)	FreeBSD Local Security Checks
+19154	FreeBSD : pure-ftpd (2410)	FreeBSD Local Security Checks
+19162	FreeBSD : wu-ftpd -- remote globbing DoS vulnerability (2430)	FreeBSD Local Security Checks
+19181	FreeBSD : tnftp -- mget does not check for directory escapes (2490)	FreeBSD Local Security Checks
+19236	Crob FTP Server < 3.6.1 build 263 Multiple Vulnerabilities	FTP
+19300	FtpLocate flsearch.pl fsite Parameter Remote File Inclusion	CGI abuses
+19302	ProFTPD < 1.3.0rc2 Multiple Remote Format Strings	FTP
+19303	FTPshell Server 3.38 Malformed PORT/QUIT DoS	FTP
+19364	[GLSA-200508-02] ProFTPD: Format string vulnerabilities	Gentoo Local Security Checks
+19501	Home FTP Server Multiple Vulnerabilities	FTP
+19507	Cisco CallManager TFTP File Detection	Misc.
+19508	HP Ignite-UX TFTP File Access Information Disclosure	Misc.
+19509	HP Ignite-UX TFTP /etc/pass File Disclosure	Misc.
+19510	HP-UX Ignite-UX TFTP Service Remote File Manipulation	Misc.
+19565	[DSA795] DSA-795-2 proftpd	Debian Local Security Checks
+19588	SlimFTPd Username/Password Overflow Remote DoS	FTP
+19647	Fedora Core 3 2005-309: gftp	Fedora Local Security Checks
+19782	FTP Writable Directories	FTP
+19897	MDKSA-2005:140: proftpd	Mandriva Local Security Checks
+19997	MS05-044: Vulnerability in the Windows FTP Client Could Allow File Transfer Location Tampering (905495)	Windows : Microsoft Bulletins
+20012	TYPSoft FTP Server <= 1.10 Multiple DoS Vulnerabilities	FTP
+20198	[GLSA-200511-11] linux-ftpd-ssl: Remote buffer overflow	Gentoo Local Security Checks
+20247	freeFTPd Multiple Command Malformed Argument Remote DoS	FTP
+20344	Golden FTP Server APPE Command Remote Overflow	FTP
+20729	VMware vmnat.exe/vmnet-natd Multiple FTP Command Remote Overflow	Windows
+20754	Farmers WIFE FTP Server Multiple Command Traversal Arbitrary File Creation	FTP
+20755	Tftpd32 Error Message Format String	Gain a shell remotely
+20902	AttachmateWRQ Reflection for Secure IT Server SFTP Format String	Misc.
+20927	SSH Tectia Server SFTP Filename Logging Format String	Misc.
+20957	eStara SoftPhone Detection	Misc.
+20958	eStara SoftPhone SIP Packet SDP Data attribute Field Overflow	Misc.
+21126	[GLSA-200603-19] cURL/libcurl: Buffer overflow in the handling of TFTP URLs	Gentoo Local Security Checks
+21188	GlobalSCAPE Secure FTP Server (gsftps) Custom Command Long Parameter DoS	FTP
+21238	phpWebFTP index.php language Parameter Local File Inclusion	CGI abuses
+21324	Gene6 FTP Server Multiple Command Remote Overflows	FTP
+21325	Golden FTP Server Pro Multiple Command Remote Overflow DoS	FTP
+21326	ArGoSoft FTP Server RNTO Command Remote Buffer Overflow	FTP
+21338	XM Easy FTP Server USER Command Buffer Overflow	FTP
+21393	FreeBSD : squid -- FTP server response handling denial of service (1416)	FreeBSD Local Security Checks
+21431	FreeBSD : SSH.COM SFTP server -- format string vulnerability (1707)	FreeBSD Local Security Checks
+21501	FreeBSD : curl -- TFTP packet buffer overflow vulnerability (2201)	FreeBSD Local Security Checks
+21507	FreeBSD : proftpd -- format string vulnerabilities (2241)	FreeBSD Local Security Checks
+21519	FreeBSD : phpwebftp -- 'language' Local File Inclusion (2344)	FreeBSD Local Security Checks
+21565	FileZilla FTP Client Unspecified Overflow	Windows
+21567	FileZilla FTP Server MLSD Command Overflow	Windows
+21625	wodSFTP ActiveX Arbitrary File Access	Windows
+22317	RaidenHTTPD check.php SoftParserFileXml Parameter Remote File Inclusion	CGI abuses
+22548	[DSA1006] DSA-1006-1 wzdftpd	Debian Local Security Checks
+22762	[DSA896] DSA-896-1 linux-ftpd-ssl	Debian Local Security Checks
+22870	Ariel FTP Server Default 'document' Account	FTP
+23642	DataWizard FTPXQ Default Accounts	FTP
+23650	Tftpd32 GET/PUT Command File Name Handling Overflow	Windows
+23667	FreeBSD : proftpd -- Remote Code Execution Vulnerability (2290)	FreeBSD Local Security Checks
+23670	[GLSA-200611-05] Netkit FTP Server: Privilege escalation	Gentoo Local Security Checks
+23703	[DSA1217] DSA-1217-1 linux-ftpd	Debian Local Security Checks
+23704	[DSA1218] DSA-1218-1 proftpd	Debian Local Security Checks
+23735	3CTftpSvc Long Transport Mode Remote Overflow	Windows
+23736	AT-TFTP Server Filename Handling Remote Overflow	Gain a shell remotely
+23757	[DSA1222] DSA-1222-2 proftpd	Debian Local Security Checks
+23762	[GLSA-200611-26] ProFTPD: Remote execution of arbitrary code	Gentoo Local Security Checks
+23821	Modicon PLC Default FTP Password	SCADA
+23831	FileZilla FTP Server < 0.9.22 Wildcard Handling Remote DoS	Windows
+23852	FreeBSD : tnftpd -- Remote root Exploit (2400)	FreeBSD Local Security Checks
+23952	FreeBSD : proftpd -- remote code execution vulnerabilities (1602)	FreeBSD Local Security Checks
+24016	FileZilla FTP Client < 2.2.30a Multiple Buffer Overflows	Windows
+24020	Sambar FTP Server Malformed SIZE Command DoS	FTP
+24021	Easy File Sharing FTP Server PASS Command Overflow	FTP
+24207	[GLSA-200701-09] oftpd: Denial of Service	Gentoo Local Security Checks
+24351	[GLSA-200702-02] ProFTPD: Local privilege escalation	Gentoo Local Security Checks
+24602	MDKSA-2006:217-1: proftpd	Mandriva Local Security Checks
+24615	MDKSA-2006:232: proftpd	Mandriva Local Security Checks
+24660	SSA-2006-335-02 proftpd 	Slackware Local Security Checks
+24671	WFTPD APPE Command Buffer Overflow	FTP
+24747	Kiwi CatTools < 3.2.9 TFTP Server Traversal Arbitrary File Manipulation	Misc.
+24830	[GLSA-200703-13] SSH Communications Security's Secure Shell Server: SFTP privilege escalation	Gentoo Local Security Checks
+25039	FileZilla FTP Client < 2.2.32 Multiple Format Strings	Windows
+25040	ProFTPD Auth API Multiple Auth Module Authentication Bypass	FTP
+25339	[DSA1245] DSA-1245-1 proftpd	Debian Local Security Checks
+25565	MDKSA-2007:130: proftpd	Mandriva Local Security Checks
+25738	IBM Tivoli Provisioning Manager for OS Deployment TFTPD Malformed PRQ Request DoS	Windows
+26005	MDKA-2007:089: proftpd	Mandriva Local Security Checks
+27055	ProFTPD src/support.c sreplace Function Remote Overflow	FTP
+27452	SuSE Security Update: squid: Fix for two denial-of-service bugs in conjunction with ftp URLs and external ACLs (squid-2504)	SuSE Local Security Checks
+27611	[GLSA-200711-01] gFTP: Multiple vulnerabilities	Gentoo Local Security Checks
+27641	FreeBSD : gftp -- multiple vulnerabilities (2487)	FreeBSD Local Security Checks
+27781	Fedora 7 2007-2613: proftpd	Fedora Local Security Checks
+29340	FreeBSD : smbftpd -- format string vulnerability (2172)	FreeBSD Local Security Checks
+29861	[DSA1452] DSA-1452-1 wzdftpd	Debian Local Security Checks
+30208	Ipswitch WS_FTP Server Manager /WSFTPSVR/FTPLogServer/LogViewer.asp Authentication Bypass	CGI abuses
+30242	[GLSA-200801-17] Netkit FTP Server: Denial of Service	Gentoo Local Security Checks
+31348	EDraw Office Viewer ActiveX (EDraw.OfficeViewer) FtpDownloadFile Method Overflow	Windows
+31357	eScan Server Management Console (eserv.exe) FTP Server Arbitrary File Download	FTP
+31467	PacketTrap pt360 TFTP Server < 1.0.3302.0 Multiple Vulnerabilities	Windows
+32373	FTP Server Any Command Accepted (possible backdoor/proxy)	FTP
+32374	FTP Server No Command Accepted (possible backdoor/proxy)	FTP
+32375	FTP Server Bad Command Sequence Accepted (possible backdoor/proxy)	FTP
+32376	Fake SMTP/FTP Server Detection (possible backdoor)	Backdoors
+32422	RHSA-2008-0295: vsftpd	Red Hat Local Security Checks
+32436	Fedora 8 2008-4347: vsftpd	Fedora Local Security Checks
+32437	Fedora 9 2008-4362: vsftpd	Fedora Local Security Checks
+32438	Fedora 7 2008-4373: vsftpd	Fedora Local Security Checks
+33108	CA Secure Content Manager HTTP Gateway Service FTP Vulnerabilities	Windows
+33218	3D-FTP Multiple Directory Traversal Vulnerabilities	Windows
+33580	RHSA-2008-0579: vsftpd	Red Hat Local Security Checks
+33582	RHSA-2008-0680: vsftpd	Red Hat Local Security Checks
+33899	HP-UX ftpd PAM Authentication Configuration Weakness Authentication Bypass	FTP
+33937	Serv-U 7.x < 7.2.0.1 SFTP Directory Creation Logging DoS	FTP
+34079	SuSE Security Update: Security update for vsftpd (vsftpd-5388)	SuSE Local Security Checks
+34256	FreeBSD : proftpd -- Long Command Processing Vulnerability (1349)	FreeBSD Local Security Checks
+34265	ProFTPD Command Truncation Cross-Site Request Forgery	FTP
+34324	FTP Supports Clear Text Authentication	FTP
+34433	Apache mod_proxy_ftp Directory Component Wildcard Character Globbing XSS	Web Servers
+34434	Titan FTP Server SITE WHO Command Resource Consumption DoS	FTP
+35252	[DSA1689] DSA-1689-1 proftpd-dfsg	Debian Local Security Checks
+35389	Fedora 9 2009-0064: proftpd	Fedora Local Security Checks
+35393	Fedora 8 2009-0195: proftpd	Fedora Local Security Checks
+35658	OS Identification : FTP	General
+35690	ProFTPD Username Variable Substitution SQL Injection	FTP
+35739	[DSA1727] DSA-1727-1 proftpd-dfsg	Debian Local Security Checks
+35755	[DSA1730] DSA-1730-1 proftpd-dfsg	Debian Local Security Checks
+35917	[GLSA-200903-27] ProFTPD: Multiple vulnerabilities	Gentoo Local Security Checks
+35941	FreeBSD : proftpd -- multiple sql injection vulnerabilities (2275)	FreeBSD Local Security Checks
+36051	Xlight FTP Server Authentication SQL Injection Vulnerability	FTP
+36240	FreeBSD : tnftpd -- remotely exploitable vulnerability (2251)	FreeBSD Local Security Checks
+36637	FreeBSD : proftpd IP address access control list breakage (2284)	FreeBSD Local Security Checks
+36864	FreeBSD : oftpd denial-of-service vulnerability (PORT command) (1486)	FreeBSD Local Security Checks
+36878	FreeBSD : wzdftpd -- remote DoS (2363)	FreeBSD Local Security Checks
+37015	FreeBSD : ProFTPD ASCII translation bug resulting in remote root compromise (2303)	FreeBSD Local Security Checks
+37229	FreeBSD : hsftp format string vulnerabilities (1532)	FreeBSD Local Security Checks
+37354	MDVSA-2009:061: proftpd	Mandriva Local Security Checks
+37480	FreeBSD : wu-ftpd ftpaccess `restricted-uid'/`restricted-gid' directive may be bypassed (1582)	FreeBSD Local Security Checks
+37525	Fedora 10 2009-0089: proftpd	Fedora Local Security Checks
+37677	FreeBSD : lftp HTML parsing vulnerability (2332)	FreeBSD Local Security Checks
+38086	FreeBSD : Arbitrary code execution via a format string vulnerability in jftpgw (1774)	FreeBSD Local Security Checks
+38128	MDVSA-2008:018: gftp	Mandriva Local Security Checks
+39519	Backported Security Patch Detection (FTP)	General
+40332	Wyse Device Manager Default FTP Account	FTP
+40770	Ipswitch WS_FTP Server Version Detection (credentialed check)	FTP
+40771	Ipswitch WS_FTP Server < 6.1.1 Multiple Vulnerabilities	FTP
+40772	Ipswitch WS_FTP Server < 6.1.1 Multiple Vulnerabilities (uncredentialed check)	FTP
+40820	Cerberus FTP Server Detection	FTP
+40821	Cerberus FTP Server Command Processing DoS	FTP
+40825	MS09-053: Microsoft IIS FTPd NLST Command Remote Buffer Overflow (975191) (uncredentialed check)	FTP
+40836	RHSA-2009-1278: lftp	Red Hat Local Security Checks
+40858	FreeBSD : dnsmasq -- TFTP server remote code injection vulnerability (5163)	FreeBSD Local Security Checks
+40875	dnsmasq < 2.50 Multiple Remote TFTP Vulnerabilities	DNS
+40927	Total Commander FTP Client Traversal Arbitrary File Overwrite	Windows
+41220	SuSE9 Security Update: Security update for vsftpd (12192)	SuSE Local Security Checks
+41334	SuSE9 Security Update: Security update for tftp (9445)	SuSE Local Security Checks
+41609	Fedora 10 2009-9386: proftpd	Fedora Local Security Checks
+41997	SuSE Security Update: dnsmasq: remote buffer overflow in TFTP server code (dnsmasq-6459)	SuSE Local Security Checks
+42109	MS09-053: Vulnerabilities in FTP Service for Internet Information Services Could Allow Remote Code Execution (975254)	Windows : Microsoft Bulletins
+42149	FTP Service AUTH TLS Command Support	FTP
+42240	MDVSA-2009:288: proftpd	Mandriva Local Security Checks
+42845	Fedora 11 2009-11649: proftpd	Fedora Local Security Checks
+42846	Fedora 10 2009-11666: proftpd	Fedora Local Security Checks
+43393	MDVSA-2009:337: proftpd	Mandriva Local Security Checks
+43603	Fedora 11 2009-13236: proftpd	Fedora Local Security Checks
+43604	Fedora 12 2009-13250: proftpd	Fedora Local Security Checks
+43877	TurboFTP Server < 1.00.720 DoS	FTP
+44046	WS_FTP Pro HTTP Server Response Format String	Windows

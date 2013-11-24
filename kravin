@@ -1,0 +1,137 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd $DIR;
+
+source etc/kth.cfg;
+
+if [ -z ${1} ]
+then
+	echo Service must be specified. Use one of the following known services:
+	cat $SERVICES_FILE | awk '{ print $1 }';
+
+	echo '';
+	echo Current running target hunts:
+	ps -ef  | grep nmap | grep -v grep | wc -l
+
+	echo '';
+	echo Current running vulnerability hunts:
+	ps -ef | grep nessuscmd | grep -v grep | wc -l
+
+	exit;
+fi
+
+if [ "-c" == "${1}" ]
+then
+	cat data/$GEOIP_FILE | sed -e 's/"//g' | awk -F ',' '{ print $5"\t"$6 }' | sort -u; 
+	exit;
+fi
+
+if [ ! -z ${2} ]
+then
+	if [ ${2} -eq ${2} 2> /dev/null ]
+	then
+		TARGETS=${2};
+	else
+		echo Parameter 2 must be a number \(number of targets\).;
+	fi
+fi
+
+if [ ! -z ${3} ]
+then
+	COUNTRY=${3};
+
+	if [ `grep -e "${3}" data/$GEOIP_FILE | wc -l` -eq 0 ]
+	then
+		echo "No country found for ${3}";
+		exit;
+	fi
+else
+	COUNTRY='CN';
+fi
+
+if [ "all" == "${1}" ]
+then
+	echo "Hunt them all..."; 
+	for svc in `cat $SERVICES_FILE | awk '{ print $1 }'`
+	do
+		./kravin $svc $TARGETS $COUNTRY;
+	done
+	exit;
+fi
+
+COUNTRY_NAME=`grep -m 1 -e "${COUNTRY}" data/$GEOIP_FILE | sed -e 's/"//g' | awk -F ',' '{ print $6; }'`
+
+i=0;
+for range in `cat data/$GEOIP_FILE | sed -e 's/"//g' | awk -F ',' -v c=$COUNTRY '{ if ($5 == c) print $1"-"$2; }'`;
+do
+	IFS='-', read -a tmprange <<< "$range";
+	low[$i]=${tmprange[0]};
+	high[$i]=${tmprange[1]};
+	(( i++ ));
+	#echo $i $range;
+done;
+
+iplist='';
+
+for (( i=1; i <= $TARGETS; i++ ))
+do
+	# get a random number between one and the number of elements in the array
+	j=`shuf -i 1-${#low[@]} -n 1`
+	(( j-- ));
+	IFS='.', read -a tmplow <<< "${low[$j]}";
+	IFS='.', read -a tmphigh <<< "${high[$j]}";
+
+	#echo ${low[$j]} ${high[$j]};
+
+	one=`shuf -i ${tmplow[0]}-${tmphigh[0]} -n 1`;
+
+	if [ `expr ${tmphigh[0]} - ${tmplow[0]}` -gt 0 ]
+	then
+		two=`shuf -i ${tmplow[1]}-255 -n 1`;
+		two_diff=`expr ${tmphigh[1]} - $two`;
+
+	else
+		two=`shuf -i ${tmplow[1]}-${tmphigh[1]} -n 1`;
+		two_diff=`expr ${tmphigh[1]} - ${tmplow[1]}`;
+
+	fi
+
+
+	if [ $two_diff -gt 0 ]
+	then
+		thr=`shuf -i ${tmplow[2]}-255 -n 1`;
+		thr_diff=`expr ${tmphigh[2]} - $thr`;
+
+	else
+		thr=`shuf -i ${tmplow[2]}-${tmphigh[2]} -n 1`;
+		thr_diff=`expr ${tmphigh[2]} - ${tmplow[2]}`;
+
+	fi
+
+	if [ $thr_diff -gt 0 ]
+        then
+                fou=`shuf -i ${tmplow[3]}-255 -n 1`;
+        else
+                fou=`shuf -i ${tmplow[3]}-${tmphigh[3]} -n 1`;
+        fi
+
+	#echo ${one}.${two}.${thr}.${fou};
+	iplist="${iplist} ${one}.${two}.${thr}.${fou}";
+done;
+
+if grep -q -w "^${1}" $SERVICES_FILE 
+then
+	port=`grep -w ${1} $SERVICES_FILE | awk '{ print $2 }'`;
+	echo Hunting ${1} on ${TARGETS} targets in $COUNTRY_NAME...;
+	#echo Oh you wike to wan $COUNTRY_NAME, wery wery goood!
+	#nohup nmap -P0 -iR ${TARGETS} -oG data/${1}-targets.txt --append-output -p ${port} $iplist > /dev/null  &
+        nohup nmap -P0 -oG data/${1}-targets.txt --append-output -p ${port} $iplist 2> /dev/null &
+	#pid=`ps -ef | grep "nmap -P0 -iR ${TARGETS} -oG data/${1}-targets.txt --append-output -p ${port}" | grep -v grep | awk '{ print $2 }'`;
+	pid=$!;
+	echo To kill the hunt, run: kill ${pid};
+else
+	echo Service unkown. Use one of the following known services:
+	cat $SERVICES_FILE | awk '{ print $1 }'; 
+fi

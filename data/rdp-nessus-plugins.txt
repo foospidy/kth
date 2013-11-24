@@ -1,0 +1,2 @@
+19404	MS05-041: Vulnerability in Remote Desktop Protocol Could Allow Denial of Service (899591)	Windows : Microsoft Bulletins
+40565	MS09-044: Vulnerabilities in Remote Desktop Connection Could Allow Remote Code Execution (970927)	Windows : Microsoft Bulletins

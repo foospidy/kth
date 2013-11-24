@@ -1,0 +1,77 @@
+10042	NetManage Chameleon SMTPd Remote Overflow DoS	SMTP problems
+10136	MDaemon SMTP HELO Command Remote Overflow DoS	SMTP problems
+10162	Lotus Notes SMTP Server HELO Command Overflow DoS	SMTP problems
+10263	SMTP Server Detection	Service detection
+10284	TFS SMTP 3.2 MAIL FROM overflow	SMTP problems
+10324	XtraMail SMTP HELO Command Remote Overflow	SMTP problems
+10353	Interscan 3.32 SMTP HELO Command Remote Overflow DoS	SMTP problems
+10419	Lotus Domino SMTP MAIL FROM Command Remote Overflow	SMTP problems
+10424	NAI WebShield SMTP GET_CONFIG Information Disclosure	Misc.
+10425	NAI WebShield SMTP Management Agent SET_CONFIG Overflow	Gain a shell remotely
+10435	Imate SMTP Server HELO Command Remote Overflow DoS	SMTP problems
+10438	NetWin DSMTP (Dmail) ETRN Command Overflow	SMTP problems
+10520	Cisco PIX Firewall Mailguard Feature SMTP Content Filter Bypass	Firewalls
+10543	Lotus Domino SMTP ENVID Variable Handling Remote Overflow	SMTP problems
+10557	McAfee WebShield SMTP 4.5 Multiple Vulnerabilities	SMTP problems
+10620	MERCUR SMTP Server EXPN Command Remote Overflow	SMTP problems
+10703	Microsoft Windows SMTP Incorrect Credentials Authentication Bypass	SMTP problems
+10885	Microsoft Windows SMTP Service Malformed BDAT Request Remote DoS	SMTP problems
+10994	IPSwitch IMail SMTP Multiple Vulnerabilities (OF, DoS)	SMTP problems
+11038	SMTP settings	Settings
+11100	eXtremail Multiple SMTP Command flog Function Format String	SMTP problems
+11270	Multiple Anti-Virus SMTP Message Long Line Parsing DoS	SMTP problems
+11308	Microsoft Windows SMTP Service NTLM Null Session Authorization Bypass (uncredentialed check)	SMTP problems
+11421	smtpscan SMTP Fingerprinting	SMTP problems
+11650	MAILsweeper for SMTP PowerPoint Document Processing DoS	SMTP problems
+11674	BaSoMail SMTP Multiple Command Remote Overflow DoS	SMTP problems
+11717	Lotus Domino SMTP Server Forged Localhost Mail Header DoS	SMTP problems
+11772	SMTP Generic Overflow Detection	SMTP problems
+11828	Exim < 4.22 smtp_in.c HELO/EHLO Remote Overflow	SMTP problems
+11910	MERCUR Mailserver SMTP / IMAP / POP3 Servers Remote Overflows	Windows
+12065	ASN.1 Multiple Integer Overflows (SMTP check)	SMTP problems
+14483	[GLSA-200404-18] Multiple Vulnerabilities in ssmtp	Gentoo Local Security Checks
+14712	MailEnable SMTP Connector Service DNS MX Response DoS	SMTP problems
+14819	Canon ImageRUNNER SMTP Arbitrary Content Printing	SMTP problems
+15322	[DSA485] DSA-485-1 ssmtp	Debian Local Security Checks
+15464	Microsoft Windows/Exchange SMTP DNS Lookup Overflow (885881)	SMTP problems
+15902	MailCarrier < 3.0.1 SMTP EHLO Command Remote Overflow	SMTP problems
+17232	[DSA690] DSA-690-1 bsmtpd	Debian Local Security Checks
+17364	MailEnable Standard SMTP mailto: Request Format String	SMTP problems
+17974	MailEnable IMAP / SMTP Multiple Remote Vulnerabilities	Windows
+17976	MS04-035: Vulnerability in SMTP Could Allow Remote Code Execution (885881)	Windows : Microsoft Bulletins
+18024	MS05-021: Vulnerability in SMTP Could Allow Remote Code Execution (894549)	Windows : Microsoft Bulletins
+18391	SMTP Server Non-standard Port Detection	Backdoors
+18433	GoodTech SMTP Server Malformed RCPT TO Command DoS	SMTP problems
+18528	SMTP Server Connection Check	SMTP problems
+18588	Inframail SMTP MAIL FROM Command Remote Overflow DoS	SMTP problems
+18855	FreeBSD : smtpproxy (1408)	FreeBSD Local Security Checks
+19357	FreeBSD : nbsmtp -- format string vulnerability (2359)	FreeBSD Local Security Checks
+19365	BusinessMail Multiple SMTP Command Remote Buffer Overflows	SMTP problems
+19366	[GLSA-200508-03] nbSMTP: Format string vulnerability	Gentoo Local Security Checks
+19384	GoodTech SMTP Server < 5.17 Multiple Buffer Overflows	SMTP problems
+20319	Ipswitch Collaboration Suite / IMail SMTPD Multiple Commands Format String	SMTP problems
+20885	MS02-012: Malformed Data Transfer Request can Cause Windows SMTP Service to Fail (313450)	Windows : Microsoft Bulletins
+21771	MailEnable SMTP Server HELO Command Remote DoS	SMTP problems
+21778	IBM Lotus Domino SMTP Server Malformed Meeting Request (vCal) DoS	SMTP problems
+22314	Ipswitch IMail Server SMTP Service Crafted RCPT String Remote Overflow	SMTP problems
+22411	MailEnable SMTP Connector Service SPF Record Crafted Lookup DoS	SMTP problems
+22483	MailEnable SMTP Connector Multiple NTLM Authentication Vulnerabilities	SMTP problems
+24755	Symantec Mail Security for SMTP Message Handling Arbitrary Code Execution	Windows
+24756	Symantec Mail Security for SMTP Admin Center Default Credentials	CGI abuses
+25663	Symantec Mail Security for SMTP libdayzero.dll Executable Parsing DoS	Windows
+25879	WinGate Invalid SMTP State Format String DoS	Windows
+25928	Mercury SMTP Server AUTH CRAM-MD5 Remote Buffer Overflow	SMTP problems
+26185	EasyMail SMTP Object ActiveX Control Multiple Buffer Overflows	Windows
+27586	Symantec Mail Security for SMTP File Parsing Vulnerabilities	Windows
+30123	Citadel SMTP makeuserkey Function RCPT TO Command Remote Overflow	SMTP problems
+32376	Fake SMTP/FTP Server Detection (possible backdoor)	Backdoors
+34203	Fedora 8 2008-8040: ssmtp	Fedora Local Security Checks
+34204	Fedora 9 2008-8069: ssmtp	Fedora Local Security Checks
+35058	FreeBSD : wireshark -- SMTP Processing Denial of Service Vulnerability (2209)	FreeBSD Local Security Checks
+35352	Symantec Mail Security for SMTP < 5.0.1 Patch 200 Unspecified DoS	Windows
+40870	Symantec Mail Security for SMTP Detection	Windows
+40871	Symantec Mail Security for SMTP KeyView Excel SST Parsing Integer Overflow	Windows
+42088	SMTP Service STARTTLS Command Support	SMTP problems
+44087	SuSE 11.0 Security Update: msmtp (2010-01-18)	SuSE Local Security Checks
+44089	SuSE 11.1 Security Update: msmtp (2010-01-18)	SuSE Local Security Checks
+44091	SuSE 11.2 Security Update: msmtp (2010-01-17)	SuSE Local Security Checks

@@ -1,0 +1,110 @@
+11343	OpenSSH Client Unauthorized X11 Remote Forwarding	Misc.
+11814	TrueType Font Server for X11 (xfstt) Malformed Packet Remote Overflow	Gain a shell remotely
+15635	MDKSA-2004:124: xorg-x11	Mandriva Local Security Checks
+15747	Fedora Core 2 2004-433: xorg-x11	Fedora Local Security Checks
+15748	Fedora Core 3 2004-434: xorg-x11	Fedora Local Security Checks
+15755	SUSE-SA:2004:041: xshared, XFree86-libs, xorg-x11-libs	SuSE Local Security Checks
+18328	Fedora Core 2 2005-272: xorg-x11	Fedora Local Security Checks
+19641	Fedora Core 3 2005-273: xorg-x11	Fedora Local Security Checks
+19739	Fedora Core 3 2005-893: xorg-x11	Fedora Local Security Checks
+19740	Fedora Core 4 2005-894: xorg-x11	Fedora Local Security Checks
+19935	SUSE-SA:2005:056: XFree86-server,xorg-x11-server	SuSE Local Security Checks
+19948	X11 Server Unauthenticated Access	Misc.
+21101	Fedora Core 5 2006-172: xorg-x11-server	Fedora Local Security Checks
+21114	MDKSA-2006:056: xorg-x11	Mandriva Local Security Checks
+21137	SUSE-SA:2006:016: xorg-x11-server	SuSE Local Security Checks
+21356	MDKSA-2006:081-1: xorg-x11	Mandriva Local Security Checks
+21368	SUSE-SA:2006:023: xorg-x11-server	SuSE Local Security Checks
+21490	FreeBSD : X11 server -- pixmap allocation vulnerability (724)	FreeBSD Local Security Checks
+22099	SSA-2006-207-02 x11 	Slackware Local Security Checks
+22171	[GLSA-200608-12] x11vnc: Authentication bypass in included LibVNCServer code	Gentoo Local Security Checks
+22212	FreeBSD : x11vnc -- authentication bypass vulnerability (2068)	FreeBSD Local Security Checks
+22420	SSA-2006-259-01 x11 	Slackware Local Security Checks
+22927	[DSA1200] DSA-1200-1 qt-x11-free	Debian Local Security Checks
+23895	MDKSA-2006:148: xorg-x11	Mandriva Local Security Checks
+23904	MDKSA-2006:160: xorg-x11	Mandriva Local Security Checks
+23908	MDKSA-2006:164-1: xorg-x11	Mandriva Local Security Checks
+24084	Fedora 5 2006-483: xorg-x11-server	Fedora Local Security Checks
+24085	Fedora 4 2006-484: xorg-x11	Fedora Local Security Checks
+24191	Fedora 6 2007-035: xorg-x11-server	Fedora Local Security Checks
+24192	Fedora 5 2007-036: xorg-x11-server	Fedora Local Security Checks
+24462	SUSE-SA:2007:008: XFree86-server,xorg-x11-server,xloader	SuSE Local Security Checks
+24493	MDKA-2006:006: xorg-x11	Mandriva Local Security Checks
+24509	MDKA-2006:027: xorg-x11	Mandriva Local Security Checks
+24584	MDKSA-2006:199: libx11	Mandriva Local Security Checks
+24621	MDKSA-2007:005: xorg-x11	Mandriva Local Security Checks
+24788	SSA-2007-066-02 x11 	Slackware Local Security Checks
+24945	MDKSA-2007:079-1: xorg-x11	Mandriva Local Security Checks
+25027	Fedora 5 2007-424: xorg-x11-server	Fedora Local Security Checks
+25028	Fedora 6 2007-425: xorg-x11-server	Fedora Local Security Checks
+25029	Fedora 6 2007-426: libX11	Fedora Local Security Checks
+25030	Fedora 5 2007-427: libX11	Fedora Local Security Checks
+25061	MDKA-2007:025: x11-data-xkbdata	Mandriva Local Security Checks
+25094	SSA-2007-110-01 Slackware 11.0 x11-6.9.0 patch fix 	Slackware Local Security Checks
+25160	[GLSA-200705-06] X.Org X11 library: Multiple integer overflows	Gentoo Local Security Checks
+25229	[DSA1292] DSA-1292-1 qt4-x11	Debian Local Security Checks
+25308	MDKA-2007:047: x11-driver-video-sis	Mandriva Local Security Checks
+25309	MDKA-2007:049: x11-server-xgl	Mandriva Local Security Checks
+25597	MDKA-2007:069: x11-driver-video-vesa	Mandriva Local Security Checks
+25720	MDKA-2007:081: x11-server	Mandriva Local Security Checks
+25864	Fedora 6 2007-659: xorg-x11-xinit	Fedora Local Security Checks
+26045	MDKSA-2007:178: x11-server	Mandriva Local Security Checks
+27492	SuSE Security Update: xorg-x11-libs: This update fixes a off-by-one buffer overflow (xorg-x11-devel-4483)	SuSE Local Security Checks
+27493	SuSE Security Update: Securityfix for Xserver crashes when reading PCF fonts. (xorg-x11-server-1914)	SuSE Local Security Checks
+27494	SuSE Security Update: xorg-x11-server: Fix for integer overflow vulnerability (xorg-x11-server-2056)	SuSE Local Security Checks
+27495	SuSE Security Update: X server: ProcRenderAddGlyphs/ProcDbeGetVisualInfo/ProcDbeSwapBuffers Memory Corruption Vulnerabilities. (xorg-x11-server-2453)	SuSE Local Security Checks
+27496	SuSE Security Update: X.org security update (xorg-x11-server-3082)	SuSE Local Security Checks
+27714	Fedora 7 2007-1409: xorg-x11-xinit	Fedora Local Security Checks
+29261	[DSA1426] DSA-1426-1 qt-x11-free	Debian Local Security Checks
+29278	Fedora 7 2007-4263: xorg-x11-xfs	Fedora Local Security Checks
+29287	Fedora 6 2007-763: xorg-x11-xfs	Fedora Local Security Checks
+29603	SuSE Security Update: Security update for X.org X11 (xorg-x11-4485)	SuSE Local Security Checks
+29604	SuSE Security Update: Security update for xorg-x11-server (xorg-x11-server-1913)	SuSE Local Security Checks
+29605	SuSE Security Update: Security update for xorg-x11-server (xorg-x11-server-2062)	SuSE Local Security Checks
+29606	SuSE Security Update: Security update for xorg-x11-server (xorg-x11-server-2449)	SuSE Local Security Checks
+29607	SuSE Security Update: Security update for Xorg X11 (xorg-x11-server-3083)	SuSE Local Security Checks
+30017	SuSE Security Update: Various Xserver security issues fixed (xorg-x11-Xnest-4859)	SuSE Local Security Checks
+30040	SuSE Security Update: Security update for xorg-x11-Xnest (xorg-x11-Xnest-4875)	SuSE Local Security Checks
+30041	SuSE Security Update: Security update for X11 libs and server (xorg-x11-libs-4860)	SuSE Local Security Checks
+30073	Fedora 8 2008-0760: xorg-x11-server	Fedora Local Security Checks
+30076	Fedora 7 2008-0831: xorg-x11-server	Fedora Local Security Checks
+30082	Fedora 8 2008-0930: xorg-x11-server	Fedora Local Security Checks
+30083	Fedora 7 2008-0956: xorg-x11-server	Fedora Local Security Checks
+30101	SuSE Security Update: Security update for X.org X11 (xorg-x11-Xnest-4927)	SuSE Local Security Checks
+30102	SuSE Security Update: xorg-x11 security update (xorg-x11-Xnest-4928)	SuSE Local Security Checks
+30103	SuSE Security Update: xorg-x11 security update (xorg-x11-Xvnc-4933)	SuSE Local Security Checks
+30104	SuSE Security Update: Security update for xorg-x11-Xvnc (xorg-x11-Xvnc-4939)	SuSE Local Security Checks
+31737	OpenSSH X11 Forwarding Session Hijacking	Misc.
+32151	[GLSA-200805-03] Multiple X11 terminals: Local privilege escalation	Gentoo Local Security Checks
+33164	SuSE Security Update: Security update for X.org (xorg-x11-Xnest-5321)	SuSE Local Security Checks
+33165	SuSE Security Update: Multiple Xorg vulnerabilities reported by iDefense (xorg-x11-Xvnc-5317)	SuSE Local Security Checks
+33166	SuSE Security Update: Multiple Xorg vulnerabilities reported by iDefense (xorg-x11-server-5316)	SuSE Local Security Checks
+33179	Fedora 9 2008-5254: xorg-x11-server	Fedora Local Security Checks
+33180	Fedora 8 2008-5279: xorg-x11-server	Fedora Local Security Checks
+33181	Fedora 7 2008-5285: xorg-x11-server	Fedora Local Security Checks
+36353	MDVA-2008:059: drakx-kbd-mouse-x11	Mandriva Local Security Checks
+36375	MDVA-2008:117: x11-server	Mandriva Local Security Checks
+36456	MDVA-2008:023: x11-driver-video-via	Mandriva Local Security Checks
+36622	MDVA-2008:022: x11-data-xkbdata	Mandriva Local Security Checks
+36650	MDVA-2008:072: x11-server	Mandriva Local Security Checks
+36696	MDVA-2008:104: x11-driver-input-evdev	Mandriva Local Security Checks
+36825	MDVA-2009:005: x11-server	Mandriva Local Security Checks
+36934	MDVA-2008:031: x11-driver-video-openchrome	Mandriva Local Security Checks
+37034	MDVA-2008:143: x11-driver-video-intel	Mandriva Local Security Checks
+37272	MDVA-2008:050: x11-driver-video-mga	Mandriva Local Security Checks
+37492	MDKA-2007:048-1: x11-server	Mandriva Local Security Checks
+37514	MDVA-2008:126: x11-server	Mandriva Local Security Checks
+37567	MDVSA-2008:023: x11-server	Mandriva Local Security Checks
+37628	MDVA-2008:108: x11-server	Mandriva Local Security Checks
+37710	MDVSA-2008:025: x11-server-xgl	Mandriva Local Security Checks
+37736	MDVA-2008:127: x11-driver-video-ati	Mandriva Local Security Checks
+37798	MDVA-2008:048: x11-driver-video	Mandriva Local Security Checks
+38091	MDKA-2007:048: x11-server	Mandriva Local Security Checks
+38138	MDVSA-2008:116: x11-server	Mandriva Local Security Checks
+38190	MDVA-2009:056: x11-driver-video-intel	Mandriva Local Security Checks
+38841	MDVA-2009:074: x11-server	Mandriva Local Security Checks
+39592	Fedora 10 2009-3651: xorg-x11-xfs	Fedora Local Security Checks
+39593	Fedora 9 2009-3666: xorg-x11-xfs	Fedora Local Security Checks
+40158	SuSE 11.0 Security Update: xorg-x11-Xvnc (2008-06-16)	SuSE Local Security Checks
+40944	USN829-1 : qt4-x11 vulnerability	Ubuntu Local Security Checks
+42467	USN857-1 : qt4-x11 vulnerabilities	Ubuntu Local Security Checks

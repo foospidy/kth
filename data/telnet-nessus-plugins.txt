@@ -1,0 +1,70 @@
+10026	BFTelnet Username Handling Remote Overflow DoS	Windows
+10163	Novell BorderManager Port 2000 Telnet DoS	Firewalls
+10183	Real Video Server Telnet Malformed Data Remote DoS	Windows
+10200	RealServer G2 Malformed Telnet Data Remote Overflow	Gain a shell remotely
+10272	Solaris ^D Character Remote Telnet Service DoS	Denial of Service
+10280	Telnet Service Detection	Service detection
+10281	Telnet Server Detection	Service detection
+10310	WinGate Telnet Proxy localhost Connection Saturation DoS	Windows
+10451	Dragon Telnet Server Login Name Handling Remote Overflow DoS	Windows
+10519	MS00-067: Telnet Client NTLM Authentication Vulnerability (272743)	Windows : Microsoft Bulletins
+10675	Check Point FireWall-1 Telnet Client Authentication Detection	Firewalls
+10709	BSD Based telnetd telrcv Function Remote Command Execution	Gain a shell remotely
+10714	ZyXEL Router Default Telnet Password Present	Misc.
+10827	SysV /bin/login Environment Remote Overflow (telnet check)	Gain a shell remotely
+10978	Cisco Catalyst Telnetd Authentication Failure Saturation Memory Leak Remote DoS (CSCds66191)	CISCO
+10981	Cisco 6400 NRP2 Unauthenticated Telnet Access (CSCdt65960)	CISCO
+10986	Cisco CatOS Telnet Option Handling Overflow (CSCdw19195)	CISCO
+11014	Cisco Aironet Telnet Invalid Username/Password DoS	CISCO
+11096	Avirt Gateway Suite Telnet Proxy Arbitrary Command Execution	Gain a shell remotely
+11124	mldonkey Detection (telnet check)	Peer-To-Peer File Sharing
+11203	Motorola Vanguard with No Password (telnet check)	Misc.
+11314	MS02-004: Microsoft Telnet Server Protocol Option Handling Remote Overflow (307298) (intrusive check)	Windows
+11925	Quagga / Zebra Malformed Telnet Command Denial of Service	Denial of Service
+11974	Jordan's Windows Telnet Server Password Handling Remote Overflow	Windows
+11983	KpyM Telnet Server DoS	Windows
+12617	FreeBSD : Format string vulnerability in SSLtelnet (4aec9d58-ce7b-11d8-858d-000d610a3b12)	FreeBSD Local Security Checks
+13883	Mandrake Linux Security Advisory : telnet (MDKSA-2001:068)	Mandriva Local Security Checks
+14505	GLSA-200405-19 : Opera telnet URI handler file creation/truncation vulnerability	Gentoo Local Security Checks
+14907	Debian DSA-070-1 : netkit-telnet - remote exploit	Debian Local Security Checks
+14912	Debian DSA-075-1 : netkit-telnet-ssl - remote exploit	Debian Local Security Checks
+15366	Debian DSA-529-1 : netkit-telnet-ssl - format string	Debian Local Security Checks
+15424	GLSA-200410-03 : NetKit-telnetd: buffer overflows in telnet and telnetd	Gentoo Local Security Checks
+15627	Cisco IOS Telnet Service DoS (CSCef46191)	CISCO
+15654	Debian DSA-556-2 : netkit-telnet - invalid free(3)	Debian Local Security Checks
+15667	Debian DSA-569-1 : netkit-telnet-ssl - invalid free(3)	Debian Local Security Checks
+15820	SecureCRT telnet URI Arbitrary Configuration Folder Remote Command Execution	Windows
+16047	Debian DSA-616-1 : netkit-telnet-ssl - format string	Debian Local Security Checks
+17639	Debian DSA-697-1 : netkit-telnet - buffer overflow	Debian Local Security Checks
+17641	Debian DSA-699-1 : netkit-telnet-ssl - buffer overflow	Debian Local Security Checks
+17645	RHEL 2.1 / 3 / 4 : telnet (RHSA-2005-327)	Red Hat Local Security Checks
+17663	BayTech RPC-3 Telnet Daemon Remote Authentication Bypass	Gain a shell remotely
+17666	GLSA-200503-36 : netkit-telnetd: Buffer overflow	Gentoo Local Security Checks
+17675	GLSA-200504-01 : telnet-bsd: Multiple buffer overflows	Gentoo Local Security Checks
+17978	GLSA-200504-04 : mit-krb5: Multiple buffer overflows in telnet client	Gentoo Local Security Checks
+18208	602LAN SUITE Open Telnet Proxy	Firewalls
+18330	Fedora Core 2 : telnet-0.17-28.FC2.1 (2005-277)	Fedora Local Security Checks
+18486	MS05-033: Vulnerability in Telnet Client Could Allow Information Disclosure (896428)	Windows : Microsoft Bulletins
+18501	RHEL 2.1 / 3 / 4 : telnet (RHSA-2005-504)	Red Hat Local Security Checks
+19115	FreeBSD : SSLtelnet (2263)	FreeBSD Local Security Checks
+19642	Fedora Core 3 : telnet-0.17-32.FC3.2 (2005-274)	Fedora Local Security Checks
+19857	Slackware 10.0 / 10.1 / 8.1 / 9.0 / 9.1 / current : telnet client (SSA:2005-210-01)	Slackware Local Security Checks
+20392	WinProxy < 6.1a Telnet Proxy Remote DoS	Windows
+20487	Ubuntu 4.10 : netkit-telnet vulnerabilities (USN-101-1)	Ubuntu Local Security Checks
+23827	Modicon Quantum Telnet Server Default Credentials	SCADA
+24323	Solaris 10 Forced Login Telnet Authentication Bypass	Gain a shell remotely
+24998	Kerberos telnet Crafted Username Remote Authentication Bypass	Gain a shell remotely
+29831	OS Identification : Telnet	General
+30213	MikroTik RouterOS with Blank Password (telnet check)	Misc.
+35700	FreeBSD telnetd sys_term.c Environment Variable Handling Privilege Escalation (FreeBSD-SA-09:05)	Gain a shell remotely
+40354	OpenWrt Router with a Blank Password (telnet check)	CGI abuses
+40561	MS09-042: Vulnerability in Telnet Could Allow Remote Code Execution (960859)	Windows : Microsoft Bulletins
+41074	SuSE9 Security Update : telnet (YOU Patch Number 10238)	SuSE Local Security Checks
+42263	Unencrypted Telnet Server	Misc.
+48948	Cisco IOS Software TELNET Option Handling Vulnerability - Cisco Systems	CISCO
+48977	Cisco Telnet Denial of Service Vulnerability - Cisco Systems	CISCO
+48988	Cisco IOS Firewall Authentication Proxy for FTP and Telnet Sessions Buffer Overflow	CISCO
+51890	Telnet Service START_TLS Support	Misc.
+57403	FreeBSD : krb5-appl -- telnetd code execution vulnerability (4ddc78dc-300a-11e1-a2aa-0016ce01e285)	FreeBSD Local Security Checks
+57462	FreeBSD 'telnetd' Daemon Remote Buffer Overflow	Gain a shell remotely
+66381	Android Emulator Telnet Port on Remote Host	Misc.

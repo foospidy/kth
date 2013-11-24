@@ -1,0 +1,36 @@
+10342	VNC Software Detection	Service detection
+10553	SMB Registry : Permissions of WinVNC's Key	Windows
+10758	VNC HTTP Server Detection	Service detection
+12339	RHSA-2002-287: vnc	Red Hat Local Security Checks
+12370	RHSA-2003-068: vnc	Red Hat Local Security Checks
+14007	MDKSA-2003:022: vnc	Mandriva Local Security Checks
+19288	VNC Server Security Type Detection	Service detection
+19289	UltraVNC w/ DSM Plugin Detection	Service detection
+21564	VNC Security Type Enforcement Failure Remote Authentication Bypass	Misc.
+21574	FreeBSD : vnc - authentication bypass vulnerability (1639)	FreeBSD Local Security Checks
+22147	[GLSA-200608-05] LibVNCServer: Authentication bypass	Gentoo Local Security Checks
+22171	[GLSA-200608-12] x11vnc: Authentication bypass in included LibVNCServer code	Gentoo Local Security Checks
+22212	FreeBSD : x11vnc -- authentication bypass vulnerability (2068)	FreeBSD Local Security Checks
+24107	Fedora 4 2006-557: vnc	Fedora Local Security Checks
+24108	Fedora 5 2006-558: vnc	Fedora Local Security Checks
+24868	[GLSA-200703-19] LTSP: Authentication bypass in included LibVNCServer code	Gentoo Local Security Checks
+24946	MDKSA-2007:080-1: tightvnc	Mandriva Local Security Checks
+25187	[GLSA-200705-10] LibXfont, TightVNC: Multiple vulnerabilities	Gentoo Local Security Checks
+25821	UltraVNC w/ DSM Plugin Detection (2)	Service detection
+26925	VNC Server Unauthenticated Access	Misc.
+27111	SuSE Security Update: LibVNCServer security update (LibVNCServer-1667)	SuSE Local Security Checks
+27481	SuSE Security Update: LibVNCServer security update (xen-1841)	SuSE Local Security Checks
+30103	SuSE Security Update: xorg-x11 security update (xorg-x11-Xvnc-4933)	SuSE Local Security Checks
+30104	SuSE Security Update: Security update for xorg-x11-Xvnc (xorg-x11-Xvnc-4939)	SuSE Local Security Checks
+30150	VNCviewer in Listen Mode Detection	Service detection
+33165	SuSE Security Update: Multiple Xorg vulnerabilities reported by iDefense (xorg-x11-Xvnc-5317)	SuSE Local Security Checks
+34461	RealVNC VNC Viewer < 4.1.3/4.4.3 Arbitrary Command Execution	Windows
+35465	Fedora 9 2009-1001: vnc	Fedora Local Security Checks
+35567	[DSA1716] DSA-1716-1 vnc4	Debian Local Security Checks
+35608	UltraVNC Viewer < 1.0.5.4 Multiple Integer Overflows	Windows
+35654	RHSA-2009-0261: vnc	Red Hat Local Security Checks
+35702	TightVNC Viewer < 1.3.10 Multiple Integer Overflows	Windows
+35815	[GLSA-200903-17] Real VNC: User-assisted execution of arbitrary code	Gentoo Local Security Checks
+36322	Fedora 10 2009-0991: vnc	Fedora Local Security Checks
+40158	SuSE 11.0 Security Update: xorg-x11-Xvnc (2008-06-16)	SuSE Local Security Checks
+41192	SuSE9 Security Update: Security update for XFree86-Xvnc (12061)	SuSE Local Security Checks

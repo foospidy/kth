@@ -1,0 +1,331 @@
+10012	Alibaba Web Server 2.0 HTTP Request Overflow DoS	Web Servers
+10016	AN-HTTPd Multiple Test CGIs Arbitrary Command Execution	CGI abuses
+10037	CERN httpd Virtual Web Path Disclosure	Web Servers
+10048	CommuniGate Pro HTTP Configuration Port Remote Overflow	Web Servers
+10058	IBM Lotus Domino HTTP Server Filesystem Setup Disclosure	Web Servers
+10059	IBM Lotus Domino HTTP /cgi-bin Relative URL Request DoS	Web Servers
+10095	Glimpse HTTP aglimpse Arbitrary Command Execution	CGI abuses
+10107	HTTP Server type and version	Web Servers
+10119	Microsoft IIS Malformed HTTP Request Header Remote DoS	Web Servers
+10120	Microsoft IIS perl.exe HTTP Path Disclosure	Web Servers
+10122	OmniHTTPd imagemap.exe CGI Remote Overflow	CGI abuses
+10138	MDaemon WebConfig HTTP Server URL Overflow DoS	Web Servers
+10139	MDaemon WorldClient HTTP Server URL Overflow DoS	Web Servers
+10149	Sun NetBeans Java IDE HTTP Server IP Restriction Bypass Arbitrary File/Directory Access	Web Servers
+10160	Nortel Contivity HTTP Server cgiproc Special Character DoS	Web Servers
+10165	NCDSA HTTPd nph-test-cgi Arbitrary Directory Listing	CGI abuses
+10192	HTTP Proxy CONNECT Request Relaying	Firewalls
+10193	HTTP Proxy Arbitrary Site/Port Relaying	Firewalls
+10194	HTTP Proxy POST Request Relaying	Firewalls
+10195	HTTP Proxy Open Relay Detection	Firewalls
+10285	thttpd 2.04 If-Modified-Since Header Remote Buffer Overflow	Web Servers
+10286	thttpd Double Slash Request Arbitrary File Access	Web Servers
+10295	OmniHTTPd visadmin.exe Malformed URL DoS	CGI abuses
+10387	Cisco IOS HTTP Service GET Request Remote DoS	CISCO
+10470	WebActive HTTP Server active.log Remote Information Disclosure	CGI abuses
+10498	Web Server HTTP Dangerous Method Detection	Web Servers
+10511	mod_perl for Apache HTTP Server /perl/ Directory Listing	Web Servers
+10515	Web Server HTTP Authorization Header Remote Overflow	Web Servers
+10523	thttpd ssi Servlet Encoded Traversal Arbitrary File Access	CGI abuses
+10561	Cisco 600 Series Router HTTP GET DoS	CISCO
+10582	HTTP Protocol Version Detection	Web Servers
+10606	HSWeb HTTP Server /cgi Directory Request Path Disclosure	CGI abuses
+10636	Orange Web Server Malformed HTTP Request Remote DoS	Web Servers
+10637	SEDUM HTTP Server Long HTTP Request Overflow DoS	Web Servers
+10654	Oracle Application Server ndwfn4.so HTTP Request Remote Overflow	Databases
+10657	Microsoft IIS 5.0 Malformed HTTP Printer Request Header Remote Buffer Overflow	Web Servers
+10676	Check Point FireWall-1 HTTP Client Authentication Detection	Firewalls
+10682	Cisco IOS HTTP Server ?/ String Local DoS	CISCO
+10687	Web Server HTTP POST Method Handling Remote Overflow	Web Servers
+10700	Cisco IOS HTTP Configuration Unauthorized Administrative Access	CISCO
+10716	OmniPro HTTPd 2.08 Encoded Space Request Script Source Disclosure	CGI abuses
+10730	Raptor Firewall 6.5 HTTP Proxy Detection	Firewalls
+10758	VNC HTTP Server Detection	Service detection
+10759	Web Server HTTP Header Internal IP Disclosure	Web Servers
+10763	HTTP RPC Endpoint Mapper (http-rpc-epmap) Detection	Windows
+10799	IBM HTTP Server on AS/400 Trailing Slash Source Code Disclosure	CGI abuses
+10963	Compaq Web-enabled Management Software HTTP Server Arbitrary Traffic Proxy	Web Servers
+10967	Shambala Web Server Malformed HTTP GET Request DoS	Web Servers
+11040	HTTP Reverse Proxy Detection	Web Servers
+11061	Web Server HTTP GET Request Version Number Handling Remote Overflow	Web Servers
+11063	LabVIEW Web Server HTTP Get Newline DoS	Web Servers
+11065	Web Server HTTP Method Handling Remote Overflow	Web Servers
+11069	Web Server HTTP User-Agent Header Handling Remote Overflow	Web Servers
+11075	Sun AnswerBook2 Web Server dwhttpd GET Request Remote Format String	Web Servers
+11077	Web Server HTTP Cookie Header Remote Overflow	Web Servers
+11078	Web Server HTTP Header Handling Remote Overflow	Web Servers
+11081	Oracle Application Server Web Cache HTTP Request Overflow	Databases
+11084	Web Server HTTP Header Memory Exhaustion DoS	Web Servers
+11085	Personal Web Sharing Long HTTP Request DoS	Web Servers
+11127	Web Server HTTP 1.0 Header Remote Overflow	Web Servers
+11129	Web Server HTTP 1.1 Header Remote Overflow	Web Servers
+11130	BrowseGate HTTP MIME Headers Remote Overflow	Web Servers
+11141	SMC 2652W AP Malformed HTTP Request Remote DoS	Web Servers
+11149	HTTP login page	Settings
+11155	LiteServe HTTP Service Malformed URL Decoding Remote DoS	Web Servers
+11181	IBM WebSphere HTTP Request Header Remote Overflow	Web Servers
+11183	Null httpd Content-Length Header Handling Remote Overflow	Web Servers
+11213	HTTP TRACE / TRACK Methods Allowed	Web Servers
+11218	Apache httpd / Tomcat '/server-status' Information Disclosure	Web Servers
+11235	Web Server HTTP OPTIONS Method URL Handling Remote Overflow	Web Servers
+11285	Cisco Catalyst Switches Embeded HTTP Server Long HTTP Request DoS (CSCdy26428)	CISCO
+11305	HTTP Proxy Open gopher:// Request Relaying	Firewalls
+11409	ePolicy Orchestrator HTTP GET Request Remote Format String	Web Servers
+11544	Monkey HTTP Daemon (monkeyd) PostMethod() Function Remote Overflow	Web Servers
+11555	AN HTTPd count.pl Traversal Arbitrary File Overwrite	CGI abuses
+11576	thttpd Host Header Traversal Arbitrary File Access	Web Servers
+11645	WsMp3 Daemon (WsMp3d) HTTP Traversal Arbitrary File Execution/Access	Web Servers
+11715	Avirt Multiple Product HTTP Proxy Overflow	Web Servers
+11720	Secure HyperText Transfer Protocol (S-HTTP) Detection	Service detection
+11725	Behold! Software counter.exe Malformed HTTP Request Counter Log DoS	CGI abuses
+11734	ArGoSoft Mail Server HTTP Daemon GET Request Saturation DoS	Web Servers
+11801	HTTP Method Remote Format String	Web Servers
+11809	mod_mylo for Apache mylo_log Logging Function HTTP GET Overflow	Web Servers
+11825	Polycom ViaVideo Web Server Incomplete HTTP Connection Saturation Remote DoS	Web Servers
+11894	TinyWeb cgi-bin Crafted HTTP GET Request DoS	Web Servers
+11924	Monkey HTTP Daemon (monkeyd) Post_Method Function Crafted Content-Length Header DoS	Web Servers
+12030	Gallery HTTP Global Variables File Inclusion	CGI abuses
+12036	Finjan SurfinGate Proxy FHTTP Command Admin Functions Authentication Bypass	Firewalls
+12073	Sami HTTP Server 1.0.4 GET Request Remote Overflow	Web Servers
+12100	Apache mod_ssl Plain HTTP Request DoS	Web Servers
+12201	Web Server HTTP Basic Authorization Header Remote Overflow DoS	Web Servers
+12210	Helix RealServer HTTP GET Request DoS	Denial of Service
+12450	RHSA-2004-015: httpd	Red Hat Local Security Checks
+12473	RHSA-2004-084: httpd	Red Hat Local Security Checks
+12545	FreeBSD : Remote Denial of Service of HTTP server and client (57)	FreeBSD Local Security Checks
+12581	FreeBSD : mplayer heap overflow in http requests (120)	FreeBSD Local Security Checks
+12591	FreeBSD : Pavuk HTTP Location header overflow (137)	FreeBSD Local Security Checks
+12636	RHSA-2004-342: httpd	Red Hat Local Security Checks
+13660	Samba SWAT HTTP Basic Auth base64 Overflow	Web Servers
+13662	Fedora Core 1 2003-004: httpd	Fedora Local Security Checks
+13696	Fedora Core 1 2004-117: httpd	Fedora Local Security Checks
+13734	Fedora Core 1 2004-203: httpd	Fedora Local Security Checks
+13735	Fedora Core 2 2004-204: httpd	Fedora Local Security Checks
+13812	SuSE-SA:2003:044: thttpd	SuSE Local Security Checks
+13841	Xitami testssi.ssi HTTP Header XSS	CGI abuses : XSS
+14229	thttpd 2.0.7 Directory Traversal (Windows)	Web Servers
+14279	Kerio MailServer < 6.0.1 Embedded HTTP Server Unspecified Issue	Web Servers
+14624	RHSA-2004-349: httpd	Red Hat Local Security Checks
+14639	DasBlog Activity / Event Viewer Multiple HTTP Header XSS	CGI abuses : XSS
+14640	Cerbere HTTP Proxy Server Host: Header Remote DoS	Firewalls
+14654	MailEnable HTTPMail Service Authorization Header Handling Remote DoS	CGI abuses
+14655	MailEnable HTTPMail Service Content-Length Header Overflow	CGI abuses
+14656	MailEnable Professional HTTPMail GET Request Remote Overflow	CGI abuses
+14718	Cisco VPN 3000 Concentrator Multiple Service Banner System Information Disclosure (CSCdu35577 HTTP Check)	CISCO
+14736	RHSA-2004-463: httpd	Red Hat Local Security Checks
+14774	[GLSA-200409-23] SnipSnap: HTTP response splitting	Gentoo Local Security Checks
+14807	Fedora Core 2 2004-313: httpd	Fedora Local Security Checks
+14838	MyServer HTTP POST Request Remote Overflow DoS	Web Servers
+14843	Icecast HTTP Header Processing Remote Overflow	Web Servers
+15233	[DSA396] DSA-396-1 thttpd	Debian Local Security Checks
+15397	Icecast HTTP Basic Authorization Remote Overflow DoS	Web Servers
+15401	Icecast MP3 Client HTTP GET Request Remote Overflow	CGI abuses
+15443	WordPress wp-login.php HTTP Response Splitting	CGI abuses
+15473	[GLSA-200410-12] WordPress: HTTP response splitting and XSS vulnerabilities	Gentoo Local Security Checks
+15502	FreeBSD : icecast -- HTTP header overflow (69)	FreeBSD Local Security Checks
+15543	Serendipity Multiple Script HTTP Response Splitting	CGI abuses
+15553	OmniHTTPd Pro Long POST Request DoS	Web Servers
+15588	Web Server SSL Port HTTP Traffic Detection	Web Servers
+15640	HTTP URI Handling Format String	Web Servers
+15641	HTTP Header Name Remote Format String	Web Servers
+15642	HTTP Header Value Remote Format String	Web Servers
+15700	RHSA-2004-562: httpd	Red Hat Local Security Checks
+15710	Ruby cgi.rb Malformed HTTP Request CPU Utilization DoS	CGI abuses
+15734	Fedora Core 2 2004-420: httpd	Fedora Local Security Checks
+15735	Fedora Core 3 2004-421: httpd	Fedora Local Security Checks
+15774	CCProxy Logging Compoent HTTP GET Request Remote Overflow	Web Servers
+15837	[GLSA-200411-35] phpWebSite: HTTP response splitting vulnerability	Gentoo Local Security Checks
+15934	OpenText FirstClass HTTP Daemon /Search Large Request Remote DoS	Web Servers
+16276	phpPgAds dest Parameter HTTP Response Splitting	CGI abuses
+16313	RaidenHTTPD Crafted Request Arbitrary File Access	Web Servers
+16468	Sami HTTP Server Multiple Remote Vulnerabilities	Web Servers
+16472	[GLSA-200502-21] lighttpd: Script source disclosure	Gentoo Local Security Checks
+16475	lighttpd Null Byte Request CGI Script Source Code Disclosure	Web Servers
+17150	OpenVMS WASD HTTP Server Multiple Vulnerabilities	Web Servers
+17154	HTTP Proxy CONNECT Loop DoS	Web Servers
+17230	CERN httpd Double Slash Protected Webpage Bypass	Web Servers
+17231	CERN httpd CGI Name Handling Remote Overflow	Web Servers
+17243	RaidenHTTPD < 1.1.34 Multiple Remote Vulnerabilities	Web Servers
+17348	Jetty < 4.2.19 HTTP Server HttpRequest.java Content-Length Handling Remote Overflow DoS	Web Servers
+17596	Phorum search.php location Parameter HTTP Response Splitting	CGI abuses
+17609	Invision Power Board HTTP POST Request IFRAME Tag XSS	CGI abuses : XSS
+17611	Trillian Multiple HTTP Responses Buffer Overflow Vulnerabilities	Windows
+17997	Compaq WBEM HTTP Server Remote Overflow	Web Servers
+18031	[GLSA-200504-09] Axel: Vulnerability in HTTP redirection handling	Gentoo Local Security Checks
+18059	Monkey HTTP Daemon (monkeyd) < 0.9.1 Multiple Vulnerabilities	CGI abuses
+18123	MailEnable HTTPMail Service Authorization Header Remote Overflow	CGI abuses
+18220	GeoHttpServer Unauthorized Image Access Vulnerability	Web Servers
+18302	Fusion News comments.php X-Forwarded-For HTTP Header Arbitrary Code Injection	CGI abuses
+18424	MiniShare Webserver HTTP GET Request Remote Overflow	Web Servers
+18491	ISA Server 2000 May Send Basic Credentials Over an External HTTP Connection (821724)	Windows : Microsoft Bulletins
+18525	osCommerce application_top.php Multiple Parameter HTTP Response Splitting	CGI abuses : XSS
+18846	FreeBSD : gallery -- remote code injection via HTTP_POST_VARS (1363)	FreeBSD Local Security Checks
+18930	FreeBSD : squid -- HTTP response splitting cache pollution attack (1670)	FreeBSD Local Security Checks
+18991	FreeBSD : opera -- XMLHttpRequest security bypass (1887)	FreeBSD Local Security Checks
+19089	FreeBSD : squid -- possible cache-poisoning via malformed HTTP responses (2184)	FreeBSD Local Security Checks
+19104	FreeBSD : lighttpd -- script source disclosure vulnerability (2223)	FreeBSD Local Security Checks
+19108	FreeBSD : squid -- correct handling of oversized HTTP reply headers (2232)	FreeBSD Local Security Checks
+19296	RHSA-2005-582: httpd	Red Hat Local Security Checks
+19346	FreeBSD : apache -- http request smuggling (1770)	FreeBSD Local Security Checks
+19374	Fedora Core 3 2005-638: httpd	Fedora Local Security Checks
+19375	Fedora Core 4 2005-639: httpd	Fedora Local Security Checks
+19673	RHSA-2005-608: httpd	Red Hat Local Security Checks
+19727	Fedora Core 3 2005-848: httpd	Fedora Local Security Checks
+19728	Fedora Core 4 2005-849: httpd	Fedora Local Security Checks
+19756	CuteNews flood.db.php Client-IP HTTP Header Arbitrary Code Injection	CGI abuses
+19774	Land Down Under HTTP Referer Header SQL Injection	CGI abuses
+19943	Guppy Multiple HTTP Header XSS	CGI abuses : XSS
+20016	GFI MailSecurity HTTP Management Interface Request Header Overflow	Windows
+20225	Kerio WinRoute Firewall HTTP/HTTPS Management Detection	Firewalls
+20391	WinProxy < 6.1a HTTP Proxy Multiple Vulnerabilities	Firewalls
+20398	RHSA-2006-0159: httpd	Red Hat Local Security Checks
+20757	Fedora Core 4 2006-052: httpd	Fedora Local Security Checks
+21015	RaidenHTTPD Crafted Request Script Source Disclosure	Web Servers
+21092	Dwarf HTTP Server < 1.3.3 Multiple Remote Vulnerabilities (XSS, Disc)	CGI abuses
+21155	lighttpd on Windows Crafted Filename Request Script Source Disclosure	Web Servers
+21344	SSA-2006-129-01 Apache httpd 	Slackware Local Security Checks
+21346	SSA-2006-130-01 Apache httpd redux 	Slackware Local Security Checks
+21496	FreeBSD : clamav -- Freshclam HTTP Header Buffer Overflow Vulnerability (2161)	FreeBSD Local Security Checks
+21509	FreeBSD : phpmyadmin -- HTTP Response Splitting vulnerability (2257)	FreeBSD Local Security Checks
+21666	[GLSA-200606-05] Pound: HTTP request smuggling	Gentoo Local Security Checks
+21677	Rendezvous < 7.5.1 HTTP Admin Interface Remote Overflow	Gain a shell remotely
+22055	MyBB HTTP Header CLIENT-IP Field SQL Injection	CGI abuses
+22089	Invision Power Board classes/class_session.php CLIENT_IP HTTP Header SQL Injection	CGI abuses
+22152	SSA-2006-209-01 Apache httpd 	Slackware Local Security Checks
+22224	RHSA-2006-0619: httpd	Red Hat Local Security Checks
+22272	Fuji Xerox Printing Systems (FXPS) Print Engine Crafted Request HTTP Authentication Bypass	CGI abuses
+22315	DokuWiki doku.php X-FORWARDED-FOR HTTP Header Arbitrary Code Injection	CGI abuses
+22317	RaidenHTTPD check.php SoftParserFileXml Parameter Remote File Inclusion	CGI abuses
+22494	ePolicy Orchestrator HTTP /spipe/pkg/ Source Header Remote Overflow	Web Servers
+22749	[DSA883] DSA-883-1 thttpd	Debian Local Security Checks
+22903	Novell eDirectory iMonitor HTTP Protocol Stack (httpstk) Host HTTP Header Remote Overflow	CGI abuses
+22937	[DSA1205] DSA-1205-2 thttpd	Debian Local Security Checks
+23820	Modicon PLC Embedded HTTP Server	SCADA
+23822	Modicon PLC HTTP Server Default Username/Password	SCADA
+23869	Flash Player HTTP Header CRLF Injection (APSB06-18)	Windows
+24161	Fedora 4 2006-862: httpd	Fedora Local Security Checks
+24162	Fedora 5 2006-863: httpd	Fedora Local Security Checks
+24260	HyperText Transfer Protocol (HTTP) Information	Web Servers
+24277	WinProxy < 6.1r1c HTTP CONNECT Request Remote Overflow	Windows
+24278	ColdFusion Web Server User-Agent HTTP Header Error Message XSS	CGI abuses : XSS
+24313	[GLSA-200701-28] thttpd: Unauthenticated remote file access	Gentoo Local Security Checks
+25049	FreeBSD : lighttpd -- DOS when access files with mtime 0 (1692)	FreeBSD Local Security Checks
+25052	FreeBSD : lighttpd -- Remote DOS in CRLF parsing (2315)	FreeBSD Local Security Checks
+25184	[GLSA-200705-07] Lighttpd: Two Denials of Service	Gentoo Local Security Checks
+25247	OS Identification : HTTP	General
+25465	[DSA1303] DSA-1303-1 lighttpd	Debian Local Security Checks
+25609	RHSA-2007-0534: httpd	Red Hat Local Security Checks
+25610	RHSA-2007-0556: httpd	Red Hat Local Security Checks
+25622	RHSA-2007-0533: httpd	Red Hat Local Security Checks
+25659	Fedora 5 2007-617: httpd	Fedora Local Security Checks
+25716	Fedora 6 2007-615: httpd	Fedora Local Security Checks
+25725	RHSA-2007-0662: httpd	Red Hat Local Security Checks
+25788	FreeBSD : lighttpd -- multiple vulnerabilities (2507)	FreeBSD Local Security Checks
+25917	[GLSA-200708-11] Lighttpd: Multiple vulnerabilities	Gentoo Local Security Checks
+25962	[DSA1362] DSA-1362-2 lighttpd	Debian Local Security Checks
+26013	Office Viewer Component ActiveX (officeviewer.ocx) HttpDownloadFile Method Traversal Arbitrary File Overwrite	Windows
+26037	FreeBSD : lighttpd -- FastCGI header overrun in mod_fastcgi (1659)	FreeBSD Local Security Checks
+26057	lighttpd mod_fastcgi HTTP Request Header Remote Overflow	Web Servers
+26058	lighttpd Status Module Remote Information Disclosure	Web Servers
+26114	Fedora 6 2007-707: httpd	Fedora Local Security Checks
+26198	EDraw Office Viewer ActiveX (officeviewer.ocx) HttpDownloadFileToTempDir Method Overflow	Windows
+26214	[GLSA-200709-16] Lighttpd: Buffer overflow	Gentoo Local Security Checks
+26915	DriveLock DriveLock.exe HTTP Request Processing Remote Overflow	Windows
+27333	SuSE Security Update: libsoup: HTTP header parsing code can cause denial-of-service (libsoup-2503)	SuSE Local Security Checks
+27339	SuSE Security Update: lighttpd security update (lighttpd-3090)	SuSE Local Security Checks
+27340	SuSE Security Update: lighttpd: security update (lighttpd-3985)	SuSE Local Security Checks
+27341	SuSE Security Update: lighttpd: This update fixes a buffer overflow in the fcgi_env_add() function. (lighttpd-4532)	SuSE Local Security Checks
+27448	SuSE Security Update: Evasion attack in http_inspect preprocessor. (snort-1598)	SuSE Local Security Checks
+27675	Fedora 7 2007-0704: httpd	Fedora Local Security Checks
+27709	Fedora 7 2007-1299: lighttpd	Fedora Local Security Checks
+27752	Fedora 7 2007-2132: lighttpd	Fedora Local Security Checks
+27758	Fedora 7 2007-2214: httpd	Fedora Local Security Checks
+27834	RHSA-2007-0746: httpd	Red Hat Local Security Checks
+28240	RHSA-2007-0747: httpd	Red Hat Local Security Checks
+28356	SuSE Security Update: fix possible buffer overflows in check_http and check_snmp (nagios-plugins-4621)	SuSE Local Security Checks
+29726	PeerCast servhs.cpp handshakeHTTP Function SOURCE Request Remote Overflow	Peer-To-Peer File Sharing
+29728	RaidenHTTPD workspace.php ulang Parameter Local File Inclusion	CGI abuses
+29975	RHSA-2008-0005: httpd	Red Hat Local Security Checks
+29976	RHSA-2008-0006: httpd	Red Hat Local Security Checks
+29977	RHSA-2008-0008: httpd	Red Hat Local Security Checks
+30021	BitDefender Update Server HTTP Request Traversal Arbitrary File Access	CGI abuses
+30253	ExtremeZ-IP File and Print Server Zidget/HTTP Server Traversal Arbitrary File Access	CGI abuses
+31052	IBM Tivoli Provisioning Manager OS Deployment < 5.1.0.3 Interim Fix 3 HTTP Server Logging Functionality Remote Overflow	Web Servers
+31094	3Proxy HTTP Proxy Crafted Transparent Request Remote Overflow	Firewalls
+31099	SSA-2008-045-01 httpd 	Slackware Local Security Checks
+31103	Fedora 8 2008-1695: httpd	Fedora Local Security Checks
+31105	Fedora 7 2008-1711: httpd	Fedora Local Security Checks
+31116	Dokeos main/inc/lib/events.lib.inc.php Referer HTTP Header SQL Injection	CGI abuses
+31360	[DSA1513] DSA-1513-1 lighttpd	Debian Local Security Checks
+31371	Fedora 7 2008-2262: lighttpd	Fedora Local Security Checks
+31372	Fedora 8 2008-2278: lighttpd	Fedora Local Security Checks
+31385	[GLSA-200803-10] lighttpd: Multiple vulnerabilities	Gentoo Local Security Checks
+31592	[DSA1521] DSA-1521-1 lighttpd	Debian Local Security Checks
+31642	VLC Media Player network/httpd.c httpd_FileCallBack Function Connection Parameter Format String	Gain a shell remotely
+31775	SuSE Security Update: lighttpd security update (lighttpd-5107)	SuSE Local Security Checks
+31810	[DSA1540] DSA-1540-1 lighttpd	Debian Local Security Checks
+31863	Novell eDirectory Host Environment Service (dhost.exe) HTTP Connection Header DoS	Denial of Service
+31953	FreeBSD : lighttpd -- OpenSSL Error Queue Denial of Service Vulnerability (1409)	FreeBSD Local Security Checks
+31955	[GLSA-200804-08] lighttpd: Multiple vulnerabilities	Gentoo Local Security Checks
+32031	Firefly Media Server ws_getpostvars Function Content-Length Header HTTP Request Handling Overflow	Gain a shell remotely
+32094	Fedora 7 2008-3343: lighttpd	Fedora Local Security Checks
+32100	Fedora 8 2008-3376: lighttpd	Fedora Local Security Checks
+32129	SuSE Security Update: lighttpd security update (lighttpd-5216)	SuSE Local Security Checks
+32317	DatsoGallery Component for Joomla! sub_votepic.php User-Agent HTTP Header SQL Injection	CGI abuses
+32386	Fedora 9 2008-4119: lighttpd	Fedora Local Security Checks
+33088	SuSE Security Update: openwsman: vulnerability in http parser of shttpd (openwsman-5241)	SuSE Local Security Checks
+33108	CA Secure Content Manager HTTP Gateway Service FTP Vulnerabilities	Windows
+33140	CA Secure Content Manager HTTP Gateway Service Detection	Service detection
+33507	[DSA1609] DSA-1609-1 lighttpd	Debian Local Security Checks
+33747	SSA-2008-210-02 httpd 	Slackware Local Security Checks
+33839	Fedora 8 2008-6314: httpd	Fedora Local Security Checks
+33840	Fedora 9 2008-6393: httpd	Fedora Local Security Checks
+34310	FreeBSD : lighttpd -- multiple vulnerabilities (2501)	FreeBSD Local Security Checks
+34332	lighttpd < 1.4.20 Multiple Vulnerabilities	Web Servers
+34353	[DSA1645] DSA-1645-1 lighttpd	Debian Local Security Checks
+34473	HTTP CONNECT Proxy Detection	Service detection
+34489	CCProxy < 6.62 HTTP Proxy CONNECT Request Handling Remote Overflow	Web Servers
+34490	Trend Micro OfficeScan HTTP Request Remote Buffer Overflow	Windows
+34496	FreeBSD : wordpress -- snoopy '_httpsrequest()' shell command execution vulnerability (1576)	FreeBSD Local Security Checks
+34751	RHSA-2008-0967: httpd	Red Hat Local Security Checks
+34812	SuSE Security Update: lighttpd: fixed CVE-2008-4298, CVE-2008-4359 and CVE-2008-4360 (lighttpd-5785)	SuSE Local Security Checks
+35021	[GLSA-200812-04] lighttpd: Multiple vulnerabilities	Gentoo Local Security Checks
+35322	HTTP Backdoor Detection	Service detection
+35620	Squid < 2.7.STABLE6 / 3.0.STABLE13 / 3.1.0.5 HTTP Version Number Request Remote DoS	Firewalls
+35661	SquirrelMail HTTPS Session Cookie Secure Flag Weakness	CGI abuses
+35665	Fedora 9 2008-11923: lighttpd	Fedora Local Security Checks
+35696	FreeBSD : varnish -- Varnish HTTP Request Parsing Denial of Service (2217)	FreeBSD Local Security Checks
+35760	Novell eDirectory < 8.8 SP3 FTF3 iMonitor HTTP Accept-Language Header Overflow	Web Servers
+36151	MS09-013: Vulnerabilities in Windows HTTP Services Could Allow Remote Code Execution (960803)	Windows : Microsoft Bulletins
+36333	FreeBSD : icecast -- HTTP header overflow (1854)	FreeBSD Local Security Checks
+36618	FreeBSD : Pavuk HTTP Location header overflow (1874)	FreeBSD Local Security Checks
+36865	FreeBSD : Remote Denial of Service of HTTP server and client (1430)	FreeBSD Local Security Checks
+38945	RHSA-2009-1075: httpd	Red Hat Local Security Checks
+39006	lighttpd PHP File Trailing Slash Request Source Disclosure	Web Servers
+39420	MikroTik RouterOS with Blank Password (HTTP)	Web Servers
+39432	RHSA-2009-1108: httpd	Red Hat Local Security Checks
+39463	HTTP Server Cookies Set	Web Servers
+39770	RHSA-2009-1148: httpd	Red Hat Local Security Checks
+40061	SuSE 11.0 Security Update: lighttpd (2008-11-14)	SuSE Local Security Checks
+40334	Ruby on Rails HTTP Digest Authentication Bypass	CGI abuses
+40353	DD-WRT HTTP Daemon Metacharacter Injection Remote Code Execution	Web Servers
+40405	Web Server Detection (HTTP/1.1)	Service detection
+40406	CGI Generic Tests HTTP Errors	CGI abuses
+40459	SSA-2009-214-01 httpd 	Slackware Local Security Checks
+40543	RHSA-2009-1205: httpd	Red Hat Local Security Checks
+40833	Fedora 11 2009-8812: httpd	Fedora Local Security Checks
+41608	nginx HTTP Request Multiple Vulnerabilities	Web Servers
+42426	CGI Generic SQL Injection Vulnerability (HTTP Cookies)	CGI abuses
+42427	CGI Generic SQL Injection Vulnerability (HTTP Headers)	CGI abuses
+42469	RHSA-2009-1579: httpd	Red Hat Local Security Checks
+42470	RHSA-2009-1580: httpd	Red Hat Local Security Checks
+42893	HTTP cookies import	Settings
+42896	Xerver HTTP Response Splitting	Web Servers
+42972	SuSE 11.0 Security Update: lighttpd (2009-11-23)	SuSE Local Security Checks
+42974	SuSE 11.1 Security Update: lighttpd (2009-11-23)	SuSE Local Security Checks
+43090	Fedora 10 2009-12604: httpd	Fedora Local Security Checks
+43111	HTTP methods per directory	Web Servers
+43329	Fedora 12 2009-12606: httpd	Fedora Local Security Checks
+43827	Snitz Forums 2000 active.asp HTTP X-Forwarded-For Header SQL Injection	CGI abuses
+44046	WS_FTP Pro HTTP Server Response Format String	Windows
+44120	SSA-2010-024-01 httpd 	Slackware Local Security Checks

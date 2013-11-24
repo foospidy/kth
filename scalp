@@ -1,0 +1,40 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd $DIR;
+
+source etc/kth.cfg
+
+for s in `cat $SERVICES_FILE | awk '{ print $1 }'`;
+do
+	if [ -f data/$s-targets.txt ]
+	then
+		cat data/$s-targets.txt | grep -e "/open/" | awk '{ print $2" "$5}' | sed -e "s/^\(..*\) \(..*\)\/open\/\(..*\)\/\/\(..*\)\/\/..*$/INSERT IGNORE INTO target VALUES \('\1',\2,'\3','\4');/" >> tmp/scalp.sql;
+	fi
+done;
+
+mysql -u $DBUSER $DBNAME < tmp/scalp.sql;
+mysql -u $DBUSER $DBNAME -e "select service, count(*) from target group by service;";
+mysql -u $DBUSER $DBNAME --skip-column-names -e "select service, count(*) from target group by service;" > tmp/index.tmp;
+
+# custom output ##########
+
+cat tmp/index.tmp | awk '{ print "<a href=\"javascript:runCmd(\x27cd kth/"$1".html\x27);\">"$1"</a><br>" }' > $SCALP_HTML_OUT/index.html;
+
+for s in `cat tmp/index.tmp | awk '{ print $1 }'`;
+do
+        if [ -f data/$s-results.txt ]
+        then   
+                #cat data/$s-results.txt | grep -e "^Host" | awk '{ print "<a href=\"#"$2"\">"$2"</a> [<a href=\"http://ip-address-lookup-v4.com/lookup.php?host=ip-address-lookup-v4.com&ip="$2"\" target=\"_new\">whois</a>]<br>" }' > tmp/$s.tmp;
+		echo "[ <a href=\"javascript:runCmd('cd kth/');\">kth</a> ]<br><br>" > $SCALP_HTML_OUT/$s.html;
+		echo "$s <br>" >> $SCALP_HTML_OUT/$s.html;
+		#cat tmp/$s.tmp >> $SCALP_HTML_OUT/$s.html;
+		#echo '<br><hr><br>' >> $SCALP_HTML_OUT/$s.html;
+		echo '<pre>' >> $SCALP_HTML_OUT/$s.html;
+		cat data/$s-results.txt | awk '{ if($1=="Host") { print "<a name=\""$2"\"><div style=\"font-weight:bold;font-size:12px;\">"$0"</div></a>[<a href=\"http://ip-address-lookup-v4.com/lookup.php?host=ip-address-lookup-v4.com&ip="$2"\" target=\"_new\">whois</a>]<br>"; } else { print $0; } }' >> $SCALP_HTML_OUT/$s.html;
+		echo '</pre>' >> $SCALP_HTML_OUT/$s.html;
+	else
+		echo "No results. <a href=\"javascript:runCmd('cd kth/');\">Back to index.</a>" > $SCALP_HTML_OUT/$s.html;
+        fi
+done;

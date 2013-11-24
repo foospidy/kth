@@ -1,0 +1,43 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd $DIR;
+
+source etc/kth.cfg
+
+# remove tmp file
+
+rm -f tmp/services.tmp;
+
+for i in `cat $SERVICES_FILE | awk '{ print $1"__"$2 }'`;
+do
+	name=`echo $i | sed -e "s/__..*$//g"`;
+	port=`echo $i | sed -e "s/^..*__//g"`;
+
+	echo Updating $name $port...;
+
+	if [ -f data/$name-nessus-plugins.txt ]
+	then
+		# append entry for $name
+		echo -n "$name	$port	" >> tmp/services.tmp;
+
+		# append plugin IDs to entry for $name
+		for id in `cat data/$name-nessus-plugins.txt | grep -v Local | awk '{ print $1 }'`; do echo -n $id"," >> tmp/services.tmp; done;
+
+		# append empty line
+		echo " " >> tmp/services.tmp;
+
+		# copy tmp file to services file
+		cp tmp/services.tmp $SERVICES_FILE;
+	else
+		echo No nessus plugins file for $name;
+	fi
+done;
+
+echo Updating GeoIP info...;
+cd tmp;
+`which curl` $GEOIP_DB_URL > $GEOIP_FILE;
+`which unzip` -o $GEOIP_FILE;
+mv $GEOIP_FILE ../data/;
+cd ..;

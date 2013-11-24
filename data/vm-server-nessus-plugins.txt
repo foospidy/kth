@@ -1,0 +1,22 @@
+16459	[GLSA-200502-18] VMware Workstation: Untrusted library search path	Gentoo Local Security Checks
+20094	VMware Virtual Machine Detection	General
+20301	VMware ESX/GSX Server detection	Service detection
+20414	[GLSA-200601-04] VMware Workstation: Vulnerability in NAT networking	Gentoo Local Security Checks
+20729	VMware vmnat.exe/vmnet-natd Multiple FTP Command Remote Overflow	Windows
+25119	VMware Workstation < 5.5.4 Build 44386 Multiple Vulnerabilities	Windows
+26200	VMware Server Detection (Windows)	Windows
+26201	VMware Workstation Detection	Windows
+26911	VMware Workstation < 5.5.5 and Server < 1.0.4 Multiple Vulnerabilities	Windows
+28250	USN543-1 : VMWare vulnerabilities	Ubuntu Local Security Checks
+28262	[GLSA-200711-23] VMware Workstation and Player: Multiple vulnerabilities	Gentoo Local Security Checks
+31727	VMware ACE detection (Windows)	Windows
+31728	VMware Player detection (Windows)	Windows
+31729	VMware Products Multiple Vulnerabilities (VMSA-2008-0005)	Windows
+32503	VMware Products Multiple Vulnerabilities (VMSA-2008-0008)	Windows
+33105	VMware Products Multiple Vulnerabilities (VMSA-2008-0009)	Windows
+33106	VMware VIX API Multiple Buffer Overflow Vulnerabilities	Windows
+34156	VMware Products Multiple Vulnerabilities (VMSA-2008-0014)	Windows
+34818	VMware Products Multiple Vulnerabilities (VMSA-2008-0018/VMSA-2008-0019)	Windows
+36117	VMware Products Multiple Vulnerabilities (VMSA-2009-0005/VMSA-2009-0007)	Windows
+41971	VMware Fusion < 2.0.6 (VMSA-2009-0013)	MacOS X Local Security Checks
+42308	VMware Products Privilege Escalation Vulnerability (VMSA-2009-0015)	Windows

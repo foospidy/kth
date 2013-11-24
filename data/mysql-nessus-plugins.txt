@@ -1,0 +1,235 @@
+10343	MySQL Short Check String Authentication Bypass	Databases
+10481	MySQL Unpassworded Account Check	Databases
+10626	MySQL < 3.23.36 Multiple Vulnerabilities	Databases
+10719	MySQL Server Detection	Databases
+10783	PCCS-Mysql User/Password Exposure	CGI abuses
+11192	MySQL < 3.23.54 / 4.0.6 Multiple Vulnerabilities	Databases
+11299	MySQL < 3.23.55 mysql_change_user() Double-free Memory Pointer DoS	Databases
+11378	MySQL datadir/my.cnf Modification Privilege Escalation	Databases
+11842	MySQL sql_acl.cc get_salt_from_password Function Password Handling Remote Overflow	Databases
+12340	RHSA-2002-289: mysql	Red Hat Local Security Checks
+12378	RHSA-2003-094: mysql	Red Hat Local Security Checks
+12583	FreeBSD : MySQL insecure temporary file creation (mysqlbug) (123)	FreeBSD Local Security Checks
+13781	SUSE-SA:2003:003: mysql	SuSE Local Security Checks
+13810	SUSE-SA:2003:042: mysql	SuSE Local Security Checks
+13985	MDKSA-2002:087: MySQL	Mandriva Local Security Checks
+13998	MDKSA-2003:013: MYSQL	Mandriva Local Security Checks
+14041	MDKSA-2003:057: MySQL	Mandriva Local Security Checks
+14076	MDKSA-2003:094: MySQL	Mandriva Local Security Checks
+14133	MDKSA-2004:034: MySQL	Mandriva Local Security Checks
+14319	MySQL < 4.0.21 mysql_real_connect() Function Remote Overflow	Databases
+14339	FreeBSD : mysql -- mysqlhotcopy insecure temporary file creation (125)	FreeBSD Local Security Checks
+14343	MySQL < 4.0.21 mysqlhotcopy Insecure Temporary File Creation	Databases
+14506	[GLSA-200405-20] Insecure Temporary File Creation In MySQL	Gentoo Local Security Checks
+14649	[GLSA-200409-02] MySQL: Insecure temporary file creation in mysqlhotcopy	Gentoo Local Security Checks
+14831	MySQL libmysqlclient Prepared Statements API Overflow	Databases
+14846	FreeBSD : mysql -- heap buffer overflow with prepared statements (124)	FreeBSD Local Security Checks
+14850	[DSA013] DSA-013 MySQL	Debian Local Security Checks
+15049	[DSA212] DSA-212-1 mysql	Debian Local Security Checks
+15140	[DSA303] DSA-303-1 mysql	Debian Local Security Checks
+15218	[DSA381] DSA-381-1 mysql	Debian Local Security Checks
+15320	[DSA483] DSA-483-1 mysql	Debian Local Security Checks
+15377	[DSA540] DSA-540-1 mysql	Debian Local Security Checks
+15449	MySQL < 3.23.59 / 4.0.21 Multiple Vulnerabilities	Databases
+15477	MySQL < 4.0.21 Multiple Vulnerabilities	Databases
+15534	RHSA-2004-569: mysql	Red Hat Local Security Checks
+15536	RHSA-2004-597: mysql	Red Hat Local Security Checks
+15558	[GLSA-200410-22] MySQL: Multiple vulnerabilities	Gentoo Local Security Checks
+15599	MDKSA-2004:119: MySQL	Mandriva Local Security Checks
+15631	RHSA-2004-611: mysql	Red Hat Local Security Checks
+15652	RHSA-2003-282: mysql	Red Hat Local Security Checks
+15660	[DSA562] DSA-562-1 mysql	Debian Local Security Checks
+15930	Fedora Core 2 2004-530: mysql	Fedora Local Security Checks
+16093	MySQL Eventum Multiple Script XSS	CGI abuses : XSS
+16214	[DSA647] DSA-647-1 mysql	Debian Local Security Checks
+16379	MDKSA-2005:036: MySQL	Mandriva Local Security Checks
+16424	[GLSA-200501-33] MySQL: Insecure temporary file creation	Gentoo Local Security Checks
+17313	MySQL < 4.0.24 / 4.1.10a Multiple Vulnerabilities	Databases
+17344	[GLSA-200503-19] MySQL: Multiple vulnerabilities	Gentoo Local Security Checks
+17601	MDKSA-2005:060: MySQL	Mandriva Local Security Checks
+17618	SUSE-SA:2005:019: mysql	SuSE Local Security Checks
+17646	RHSA-2005-334: mysql	Red Hat Local Security Checks
+17981	RHSA-2005-348: mysql	Red Hat Local Security Checks
+18032	MDKSA-2005:070: MySQL	Mandriva Local Security Checks
+18042	[DSA707] DSA-707-1 mysql	Debian Local Security Checks
+18333	Fedora Core 2 2005-305: mysql	Fedora Local Security Checks
+18465	[GLSA-200506-08] GNU shtool, ocaml-mysql: Insecure temporary file creation	Gentoo Local Security Checks
+18817	FreeBSD : mysql -- GRANT access restriction problem (1280)	FreeBSD Local Security Checks
+18823	FreeBSD : mysql -- erroneous access restrictions applied to table renames (1292)	FreeBSD Local Security Checks
+18830	FreeBSD : mysql -- ALTER MERGE denial of service vulnerability (1304)	FreeBSD Local Security Checks
+18882	FreeBSD : mysql -- FTS request denial of service vulnerability (1491)	FreeBSD Local Security Checks
+18956	FreeBSD : mysql-server -- multiple remote vulnerabilities (1754)	FreeBSD Local Security Checks
+19009	FreeBSD : mysql -- mysql_real_connect buffer overflow vulnerability (1935)	FreeBSD Local Security Checks
+19128	FreeBSD : mysql-scripts -- mysqlaccess insecure temporary file creation (2298)	FreeBSD Local Security Checks
+19149	FreeBSD : MySQL authentication bypass / buffer overflow (2386)	FreeBSD Local Security Checks
+19160	FreeBSD : mysql-server -- insecure temporary file creation (2424)	FreeBSD Local Security Checks
+19259	Fedora Core 4 2005-557: mysql	Fedora Local Security Checks
+19416	MySQL User-Defined Function init_syms() Function Overflow	Databases
+19526	[DSA783] DSA-783-1 mysql-dfsg-4.1	Debian Local Security Checks
+19646	Fedora Core 3 2005-304: mysql	Fedora Local Security Checks
+19798	[DSA829] DSA-829-1 mysql	Debian Local Security Checks
+19800	[DSA831] DSA-831-1 mysql-dfsg	Debian Local Security Checks
+19802	[DSA833] DSA-833-2 mysql-dfsg-4.1	Debian Local Security Checks
+19918	MDKSA-2005:163: MySQL	Mandriva Local Security Checks
+19993	RHSA-2005-685: mysql	Red Hat Local Security Checks
+20495	USN109-1 : mysql-dfsg vulnerability	Ubuntu Local Security Checks
+20591	USN180-1 : mysql-dfsg vulnerability	Ubuntu Local Security Checks
+20648	USN32-1 : mysql-dfsg vulnerabilities	Ubuntu Local Security Checks
+20682	USN63-1 : mysql-dfsg vulnerability	Ubuntu Local Security Checks
+20722	USN96-1 : mysql-dfsg vulnerabilities	Ubuntu Local Security Checks
+20760	USN180-2 : mysql-dfsg-4.1 vulnerability	Ubuntu Local Security Checks
+20963	MDKSA-2006:045: MySQL	Mandriva Local Security Checks
+21179	MDKSA-2006:064: MySQL	Mandriva Local Security Checks
+21300	USN274-1 : mysql-dfsg vulnerability	Ubuntu Local Security Checks
+21345	SSA-2006-129-02 mysql 	Slackware Local Security Checks
+21355	[GLSA-200605-13] MySQL: Information leakage	Gentoo Local Security Checks
+21359	MDKSA-2006:084: MySQL	Mandriva Local Security Checks
+21377	USN283-1 : mysql-dfsg-4.1, mysql-dfsg vulnerabilities	Ubuntu Local Security Checks
+21492	FreeBSD : mysql50-server -- COM_TABLE_DUMP arbitrary code execution (2127)	FreeBSD Local Security Checks
+21568	USN274-2 : mysql-dfsg vulnerability	Ubuntu Local Security Checks
+21632	MySQL Anonymous Login Handshake Remote Information Disclosure	Databases
+21633	FreeBSD : MySQL -- Information Disclosure and Buffer Overflow Vulnerabilities (1648)	FreeBSD Local Security Checks
+21634	FreeBSD : MySQL -- SQL-injection security vulnerability (1913)	FreeBSD Local Security Checks
+21639	SSA-2006-155-01 mysql 	Slackware Local Security Checks
+21669	MDKSA-2006:097: MySQL	Mandriva Local Security Checks
+21683	RHSA-2006-0544: mysql	Red Hat Local Security Checks
+21706	[GLSA-200606-13] MySQL: SQL Injection	Gentoo Local Security Checks
+21711	[GLSA-200606-18] PAM-MySQL: Multiple vulnerabilities	Gentoo Local Security Checks
+21755	MDKSA-2006:111: MySQL	Mandriva Local Security Checks
+22167	[GLSA-200608-09] MySQL: Denial of Service	Gentoo Local Security Checks
+22213	FreeBSD : mysql -- format string vulnerability (2509)	FreeBSD Local Security Checks
+22613	[DSA1071] DSA-1071-1 mysql	Debian Local Security Checks
+22615	[DSA1073] DSA-1073-1 mysql-dfsg-4.1	Debian Local Security Checks
+22621	[DSA1079] DSA-1079-1 mysql-dfsg	Debian Local Security Checks
+22634	[DSA1092] DSA-1092-1 mysql-dfsg-4.1	Debian Local Security Checks
+22654	[DSA1112] DSA-1112-1 mysql-dfsg-4.1	Debian Local Security Checks
+22711	[DSA1169] DSA-1169-1 mysql-dfsg-4.1	Debian Local Security Checks
+22923	FreeBSD : mysql -- database 'case-sensitive' privilege escalation (2081)	FreeBSD Local Security Checks
+22924	FreeBSD : mysql -- database suid privilege escalation (2129)	FreeBSD Local Security Checks
+23896	MDKSA-2006:149: MySQL	Mandriva Local Security Checks
+23902	MDKSA-2006:158: MySQL	Mandriva Local Security Checks
+24059	Fedora 6 2006-1297: mysql	Fedora Local Security Checks
+24060	Fedora 5 2006-1298: mysql	Fedora Local Security Checks
+24105	Fedora 5 2006-553: mysql	Fedora Local Security Checks
+24106	Fedora 4 2006-554: mysql	Fedora Local Security Checks
+24127	Fedora 5 2006-702: mysql	Fedora Local Security Checks
+24128	Fedora 4 2006-703: mysql	Fedora Local Security Checks
+24416	SUSE-SA:2006:036: mysql	SuSE Local Security Checks
+24563	MDKSA-2006:177: MySQL	Mandriva Local Security Checks
+24656	SSA-2006-211-01 mysql 	Slackware Local Security Checks
+24905	MySQL Single Row Subselect Remote DoS	Databases
+24951	RHSA-2007-0152: mysql	Red Hat Local Security Checks
+25188	[GLSA-200705-11] MySQL: Two Denial of Service vulnerabilities	Gentoo Local Security Checks
+25198	MySQL Crafted IF Clause Divide-by-zero NULL Dereference DoS	Databases
+25242	MySQL 5.1 < 5.1.18 Multiple Vulnerabilities	Databases
+25596	MDKA-2007:066: perl-DBD-mysql	Mandriva Local Security Checks
+25669	MDKSA-2007:139: MySQL	Mandriva Local Security Checks
+25759	MySQL Community Server 5.0 < 5.0.45 Multiple Vulnerabilities	Databases
+25916	[GLSA-200708-10] MySQL: Denial of Service and information leakage	Gentoo Local Security Checks
+25970	RHSA-2007-0875: mysql	Red Hat Local Security Checks
+26009	MDKSA-2007:177: MySQL	Mandriva Local Security Checks
+27356	SuSE Security Update: mysql security update (mysql-1312)	SuSE Local Security Checks
+27357	SuSE Security Update: SQL command injection fixed. (mysql-1593)	SuSE Local Security Checks
+27358	SuSE Security Update: mysql: This update fixes several security vulnerabilities (mysql-2075)	SuSE Local Security Checks
+27359	SuSE Security Update: mysql: Update for remotely exploitable security bugs (mysql-4375)	SuSE Local Security Checks
+27594	SuSE Security Update: mono-core: Fix BigInteger buffer overflow. (bytefx-data-mysql-4452)	SuSE Local Security Checks
+27595	SuSE Security Update: mono-core: Fix BigInteger buffer overflow. (bytefx-data-mysql-4597)	SuSE Local Security Checks
+27878	USN303-1 : MySQL vulnerability	Ubuntu Local Security Checks
+27881	USN306-1 : MySQL 4.1 vulnerability	Ubuntu Local Security Checks
+27899	USN321-1 : mysql-dfsg-4.1 vulnerability	Ubuntu Local Security Checks
+27917	USN338-1 : MySQL vulnerabilities	Ubuntu Local Security Checks
+28037	USN440-1 : MySQL vulnerability	Ubuntu Local Security Checks
+28133	USN528-1 : MySQL vulnerabilities	Ubuntu Local Security Checks
+28215	Fedora 7 2007-3369: php-pear-MDB2-Driver-mysql	Fedora Local Security Checks
+28216	Fedora 8 2007-3376: php-pear-MDB2-Driver-mysqli	Fedora Local Security Checks
+28264	[GLSA-200711-25] MySQL: Denial of Service	Gentoo Local Security Checks
+28336	[DSA1413] DSA-1413-1 mysql	Debian Local Security Checks
+29251	MySQL Community Server 5.0 < 5.0.51 RENAME TABLE Symlink System Table Overwrite	Databases
+29300	MDKSA-2007:243: MySQL	Mandriva Local Security Checks
+29345	MySQL Community Server < 5.1.23 / 6.0.4 Multiple Vulnerabilities	Databases
+29346	MySQL Enterprise Server 5.0 < 5.0.52 Multiple Vulnerabilities	Databases
+29389	SuSE Security Update: Security update for Mono (bytefx-data-mysql-4453)	SuSE Local Security Checks
+29524	SuSE Security Update: Security update for mysql (mysql-2073)	SuSE Local Security Checks
+29525	SuSE Security Update: Security update for MySQL (mysql-4376)	SuSE Local Security Checks
+29704	SSA-2007-348-01 mysql 	Slackware Local Security Checks
+29712	Fedora 8 2007-4465: mysql	Fedora Local Security Checks
+29714	Fedora 7 2007-4471: mysql	Fedora Local Security Checks
+29737	RHSA-2007-1155: mysql	Red Hat Local Security Checks
+29793	USN559-1 : mysql-dfsg-5.0 vulnerabilities	Ubuntu Local Security Checks
+29860	[DSA1451] DSA-1451-1 mysql-dfsg-5.0	Debian Local Security Checks
+30125	[DSA1478] DSA-1478-1 mysql-dfsg-5.0	Debian Local Security Checks
+30180	SuSE Security Update: mysql: Fix for multiple vulnerabilities. (libmysqlclient-devel-4873)	SuSE Local Security Checks
+30182	SuSE Security Update: Security update for MySQL (mysql-4879)	SuSE Local Security Checks
+31638	USN588-1 : MySQL vulnerabilities	Ubuntu Local Security Checks
+31783	USN588-2 : MySQL regression	Ubuntu Local Security Checks
+31835	[GLSA-200804-04] MySQL: Multiple vulnerabilities	Gentoo Local Security Checks
+32137	MySQL 4.1 < 4.1.24 MyISAM Create Table Privilege Check Bypass	Databases
+32138	MySQL Enterprise Server 5.0 < 5.0.60 MyISAM CREATE TABLE Privilege Check Bypass	Databases
+32425	RHSA-2008-0364: mysql	Red Hat Local Security Checks
+33492	[DSA1608] DSA-1608-1 mysql-dfsg-5.0	Debian Local Security Checks
+33585	RHSA-2008-0768: mysql	Red Hat Local Security Checks
+33885	SuSE Security Update: mysql: Fixes a security problem (libmysqlclient-devel-5341)	SuSE Local Security Checks
+33886	SuSE Security Update: Security update for MySQL (mysql-5338)	SuSE Local Security Checks
+34070	SuSE Security Update: mono-core: Fixes CVE-2008-3422 (bytefx-data-mysql-5558)	SuSE Local Security Checks
+34071	SuSE Security Update: Security update for Mono (bytefx-data-mysql-5560)	SuSE Local Security Checks
+34093	[GLSA-200809-04] MySQL: Privilege bypass	Gentoo Local Security Checks
+34151	FreeBSD : mysql -- MyISAM table privileges security bypass vulnerability (1567)	FreeBSD Local Security Checks
+34159	MySQL Community Server 5.0 < 5.0.67 Multiple Vulnerabilities	Databases
+34160	MySQL 5.1 < 5.1.26 Empty Bit-String Literal Token SQL Statement DoS	Databases
+34161	MySQL 6.0 < 6.0.6 Empty Bit-String Literal Token SQL Statement DoS	Databases
+34162	MySQL Enterprise Server 5.0 < 5.0.66 Empty Bit-String Literal Token SQL Statement DoS	Databases
+34390	FreeBSD : mysql -- command line client input validation vulnerability (1642)	FreeBSD Local Security Checks
+34700	[DSA1662] DSA-1662-1 mysql-dfsg-5.0	Debian Local Security Checks
+34727	MySQL Enterprise Server 5.0 < 5.0.70 Privilege Bypass	Databases
+34765	SuSE Security Update: Security update for MySQL (mysql-5618)	SuSE Local Security Checks
+34985	SuSE Security Update: mysql security update (mysql-5613)	SuSE Local Security Checks
+35248	SuSE Security Update: mysql security update (libmysqlclient-devel-5619)	SuSE Local Security Checks
+35279	FreeBSD : mysql -- MyISAM table privileges security bypass vulnerability for symlinked paths (1848)	FreeBSD Local Security Checks
+35335	FreeBSD : mysql -- remote dos via malformed password packet (1459)	FreeBSD Local Security Checks
+35337	FreeBSD : mysql -- empty bit-string literal denial of service (1781)	FreeBSD Local Security Checks
+35339	FreeBSD : mysql -- privilege escalation and overwrite of the system table information (1986)	FreeBSD Local Security Checks
+35342	FreeBSD : mysql -- renaming of arbitrary tables by authenticated users (2212)	FreeBSD Local Security Checks
+35653	RHSA-2009-0259: mod_auth_mysql	Red Hat Local Security Checks
+35766	MySQL 5.1 < 5.1.32 XPath Expression DoS	Databases
+36020	MySQL 6.0 < 6.0.10 XPath Expression DoS	Databases
+36280	FreeBSD : mysql -- heap buffer overflow with prepared statements (1877)	FreeBSD Local Security Checks
+36399	MDVSA-2008:028: mysql	Mandriva Local Security Checks
+36404	MDVSA-2008:017: mysql	Mandriva Local Security Checks
+36561	MDVSA-2008:150: mysql	Mandriva Local Security Checks
+36943	MDVSA-2009:094: mysql	Mandriva Local Security Checks
+37299	USN671-1 : mysql-dfsg-5.0 vulnerabilities	Ubuntu Local Security Checks
+37407	MDVSA-2008:149: mysql	Mandriva Local Security Checks
+37467	FreeBSD : MySQL insecure temporary file creation (mysqlbug) (1513)	FreeBSD Local Security Checks
+37715	MDVA-2008:018: mysql	Mandriva Local Security Checks
+37724	FreeBSD : mysql -- mysqlhotcopy insecure temporary file creation (1334)	FreeBSD Local Security Checks
+38642	[DSA1783] DSA-1783-1 mysql-dfsg-5.0	Debian Local Security Checks
+38754	MDVA-2009:106: mysql	Mandriva Local Security Checks
+39386	MDVA-2009:109: mysql	Mandriva Local Security Checks
+39925	SuSE 11.0 Security Update: bytefx-data-mysql (2008-08-28)	SuSE Local Security Checks
+40026	SuSE 11.0 Security Update: libmysqlclient-devel (2008-09-19)	SuSE Local Security Checks
+40397	MDVSA-2009:159: mysql	Mandriva Local Security Checks
+40464	MDVSA-2009:189-1: apache-mod_auth_mysql	Mandriva Local Security Checks
+40784	SuSE 11.0 Security Update: libmysqlclient-devel (2009-07-16)	SuSE Local Security Checks
+40790	SuSE 11.1 Security Update: libmysqlclient-devel (2009-07-16)	SuSE Local Security Checks
+40882	SuSE 11.0 Security Update: bytefx-data-mysql (2009-07-15)	SuSE Local Security Checks
+40884	SuSE 11.1 Security Update: bytefx-data-mysql (2009-07-21)	SuSE Local Security Checks
+40886	Zmanda Recovery Manager for MySQL socket-server.pl MYSQL_BINPATH Variable Command Execution	CGI abuses
+41184	SuSE9 Security Update: Security update for MySQL (12044)	SuSE Local Security Checks
+41217	SuSE9 Security Update: Security update for MySQL (12175)	SuSE Local Security Checks
+41243	SuSE9 Security Update: Security update for MySQL (12256)	SuSE Local Security Checks
+41313	SuSE9 Security Update: Security update for MySQL (12456)	SuSE Local Security Checks
+41371	SuSE Security Update: bytefx-data-mysql (2009-07-15)	SuSE Local Security Checks
+41421	SuSE Security Update: libmysqlclient-devel (2009-07-16)	SuSE Local Security Checks
+41481	SuSE Security Update: Security update for Mono (bytefx-data-mysql-6353)	SuSE Local Security Checks
+41560	SuSE Security Update: Security update for MySQL (mysql-6446)	SuSE Local Security Checks
+41992	SuSE Security Update: mono security update (bytefx-data-mysql-6365)	SuSE Local Security Checks
+42015	SuSE Security Update: mysql security update (libmysqlclient-devel-6360)	SuSE Local Security Checks
+42445	Fedora 10 2009-10582: ocaml-mysql	Fedora Local Security Checks
+42449	Fedora 11 2009-10701: ocaml-mysql	Fedora Local Security Checks
+42899	MySQL 5.0 < 5.0.88 Multiple Vulnerabilities	Databases
+42900	MySQL 5.1 < 5.1.41 Multiple Vulnerabilities	Databases
+43045	MDVSA-2009:326: mysql	Mandriva Local Security Checks
+43113	Fedora 10 2009-12180: mysql	Fedora Local Security Checks
+43374	Fedora 12 2009-13466: mysql	Fedora Local Security Checks
+43375	Fedora 11 2009-13504: mysql	Fedora Local Security Checks
+44043	MDVSA-2010:011: mysql	Mandriva Local Security Checks

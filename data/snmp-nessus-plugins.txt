@@ -1,0 +1,102 @@
+10264	SNMP Agent Default Community Names	SNMP
+10266	SNMP Zero Length UDP Packet Remote DoS	SNMP
+10546	Microsoft Windows LAN Manager SNMP LanMan Users Disclosure	SNMP
+10547	Microsoft Windows LAN Manager SNMP LanMan Services Disclosure	SNMP
+10548	Microsoft Windows LAN Manager SNMP LanMan Shares Disclosure	SNMP
+10550	SNMP Query Running Process List Disclosure	SNMP
+10551	SNMP Request Network Interfaces Enumeration	SNMP
+10659	Solaris snmpXdmid Long Indication Event Overflow	Gain a shell remotely
+10800	SNMP Query System Information Disclosure	SNMP
+10857	Multiple Vendor Malformed SNMP Message-Handling DoS	SNMP
+10858	Multiple Vendor Malformed SNMP Trap Handling DoS	SNMP
+10865	MS02-006: Malformed SNMP Management Request Remote Overflow (314147)	Windows : Microsoft Bulletins
+10969	SNMP Request Cisco Router Information Disclosure	SNMP
+10987	Cisco Malformed SNMP Message Handling DoS (CSCdw67458)	CISCO
+11317	HP JetDirect Device SNMP Request Cleartext Admin Credential Disclosure	SNMP
+11490	D-Link DSL Broadband Modem SNMP Cleartext ISP Credential Disclosure	SNMP
+11868	SMB Registry : SNMP Registry Key Permission Weakness Local Privilege Escalation	Windows
+12066	APC SmartSlot Web/SNMP Management Card Default Password	Misc.
+13922	MDKSA-2002:014: ucd-snmp	Mandriva Local Security Checks
+14097	MDKSA-2003:115: net-snmp	Mandriva Local Security Checks
+14274	Nessus SNMP Scanner	Port scanners
+14948	[DSA111] DSA-111-1 ucd-snmp	Debian Local Security Checks
+15463	Squid SNMP Module asn_parse_header() Function Remote DoS	Firewalls
+15497	FreeBSD : squid -- SNMP module denial-of-service vulnerability (184)	FreeBSD Local Security Checks
+18382	[GLSA-200505-18] Net-SNMP: fixproc insecure temporary file creation	Gentoo Local Security Checks
+18909	FreeBSD : net-snmp -- fixproc insecure temporary file creation (1596)	FreeBSD Local Security Checks
+19085	FreeBSD : net-snmp -- remote DoS vulnerability (2173)	FreeBSD Local Security Checks
+19150	FreeBSD : gnu-radius -- SNMP-related denial-of-service (2390)	FreeBSD Local Security Checks
+19190	Fedora Core 4 2005-561: net-snmp	Fedora Local Security Checks
+19197	Fedora Core 3 2005-562: net-snmp	Fedora Local Security Checks
+19670	[GLSA-200509-05] Net-SNMP: Insecure RPATH	Gentoo Local Security Checks
+19762	SNMP settings	Settings
+19763	SNMP Query Installed Software Disclosure	SNMP
+19894	MDKSA-2005:137: ucd-snmp	Mandriva Local Security Checks
+20603	USN190-1 : net-snmp vulnerability	Ubuntu Local Security Checks
+20604	USN190-2 : ucd-snmp vulnerability	Ubuntu Local Security Checks
+20819	MDKSA-2006:025: net-snmp	Mandriva Local Security Checks
+22415	Netopia Router Crafted SNMP Request Remote Admin Password Disclosure	Misc.
+22555	[DSA1013] DSA-1013-1 snmptrapfmt	Debian Local Security Checks
+22739	[DSA873] DSA-873-1 net-snmp	Debian Local Security Checks
+23837	MS06-074: Vulnerability in SNMP Could Allow Remote Code Execution (926247)	Windows : Microsoft Bulletins
+24737	Cisco Multiple Products Network Analysis Module (NAM) SNMP Spoofing Remote Code Execution	CISCO
+25246	OS Identification : SNMP	General
+25422	SNMPc Management Server Detection	SNMP
+25423	SNMPc Management Server Default Credentials	Misc.
+25424	SNMPc Management Server Login Packet Remote DoS	Windows
+27841	SNMP GETBULK Large max-repetitions Remote DoS	SNMP
+28054	USN456-1 : net-snmp vulnerability	Ubuntu Local Security Checks
+28194	FreeBSD : net-snmp -- denial of service via GETBULK request (2021)	FreeBSD Local Security Checks
+28275	MDKSA-2007:225: net-snmp	Mandriva Local Security Checks
+28303	Fedora 7 2007-3019: net-snmp	Fedora Local Security Checks
+28320	[GLSA-200711-31] Net-SNMP: Denial of Service	Gentoo Local Security Checks
+28356	SuSE Security Update: fix possible buffer overflows in check_http and check_snmp (nagios-plugins-4621)	SuSE Local Security Checks
+29528	SuSE Security Update: Security update for net-snmp (net-snmp-4755)	SuSE Local Security Checks
+29727	CUPS SNMP Back End (backend/snmp.c) asn1_get_string Function Crafted SNMP Response Remote Overflow	Misc.
+29882	SuSE Security Update: net-snmp: Fix for denial-of-service. (net-snmp-4753)	SuSE Local Security Checks
+29883	SuSE Security Update: net-snmp: Fix for denial-of-service. (net-snmp-4759)	SuSE Local Security Checks
+29920	USN564-1 : Net-SNMP vulnerability	Ubuntu Local Security Checks
+30223	[DSA1483] DSA-1483-1 net-snmp	Debian Local Security Checks
+32081	SNMPc < 7.1.1 UDP Packet Handling Buffer Overflow	Windows
+33146	Fedora 9 2008-5215: net-snmp	Fedora Local Security Checks
+33147	Fedora 8 2008-5218: net-snmp	Fedora Local Security Checks
+33148	Fedora 7 2008-5224: net-snmp	Fedora Local Security Checks
+33752	SSA-2008-210-07 net-snmp 	Slackware Local Security Checks
+33786	SuSE Security Update: net-snmp security update (libsnmp15-5418)	SuSE Local Security Checks
+33787	SuSE Security Update: Security update for net-snmp (net-snmp-5422)	SuSE Local Security Checks
+33832	[GLSA-200808-02] Net-SNMP: Multiple vulnerabilities	Gentoo Local Security Checks
+34022	SNMP Query Routing Information Disclosure	SNMP
+34396	ASG-Sentry SNMP Agent Detection	SNMP
+34703	Fedora 8 2008-9362: net-snmp	Fedora Local Security Checks
+34704	Fedora 9 2008-9367: net-snmp	Fedora Local Security Checks
+34720	[DSA1663] DSA-1663-1 net-snmp	Debian Local Security Checks
+34770	FreeBSD : net-snmp -- DoS for SNMP agent via crafted GETBULK request (2349)	FreeBSD Local Security Checks
+34783	SSA-2008-320-02 net-snmp 	Slackware Local Security Checks
+35027	SuSE Security Update: net-snmp security update (libsnmp15-5808)	SuSE Local Security Checks
+35296	SNMP Protocol Version Detection	SNMP
+35444	[GLSA-200901-15] Net-SNMP: Denial of Service	Gentoo Local Security Checks
+35460	SuSE Security Update: Security update for net-snmp (net-snmp-5807)	SuSE Local Security Checks
+36251	FreeBSD : squid -- SNMP module denial-of-service vulnerability (1777)	FreeBSD Local Security Checks
+36301	Fedora 10 2009-1769: net-snmp	Fedora Local Security Checks
+36601	MDVSA-2009:056: net-snmp	Mandriva Local Security Checks
+36774	Fedora 10 2008-10451: net-snmp	Fedora Local Security Checks
+36859	MDVSA-2008:225: net-snmp	Mandriva Local Security Checks
+37050	MDVSA-2008:118: net-snmp	Mandriva Local Security Checks
+38099	USN685-1 : net-snmp vulnerabilities	Ubuntu Local Security Checks
+38950	SuSE Security Update: net-snmp: TCP wrapper rules are not handled correctly (libsnmp15-6247)	SuSE Local Security Checks
+40045	SuSE 11.0 Security Update: libsnmp15 (2008-07-06)	SuSE Local Security Checks
+40046	SuSE 11.0 Security Update: libsnmp15 (2008-11-21)	SuSE Local Security Checks
+40047	SuSE 11.0 Security Update: libsnmp15 (2009-05-14)	SuSE Local Security Checks
+40269	SuSE 11.1 Security Update: libsnmp15 (2009-05-14)	SuSE Local Security Checks
+40448	SNMP Supported Protocols Detection	SNMP
+40449	Multiple Vendor HMAC Authentication SNMPv3 Authentication Bypass	SNMP
+41028	SNMP Agent Default Community Name (public)	SNMP
+41178	SuSE9 Security Update: Security update for net-snmp (12022)	SuSE Local Security Checks
+41223	SuSE9 Security Update: Security update for net-snmp (12204)	SuSE Local Security Checks
+41256	SuSE9 Security Update: Security update for net-snmp (12298)	SuSE Local Security Checks
+41306	SuSE9 Security Update: Security update for net-snmp (12441)	SuSE Local Security Checks
+41562	SuSE Security Update: Security update for net-snmp (net-snmp-6248)	SuSE Local Security Checks
+43100	SNMP Query WLAN SSID (Cisco)	SNMP
+44040	MDVA-2010:027: net-snmp	Mandriva Local Security Checks
+44344	OS Identification : SNMP sysObjectID	General
+44403	SuSE 11.2 Security Update: libsnmp15 (2010-02-04)	SuSE Local Security Checks

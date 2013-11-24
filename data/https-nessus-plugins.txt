@@ -1,0 +1,318 @@
+10155	Netscape Enterprise Server SSL Handshake DoS	Web Servers
+10619	MS01-011 / MS01-036: LDAP over SSL Arbitrary User Password Modification (287397 / 299687)	Windows : Microsoft Bulletins
+10863	SSL Certificate Information	General
+10888	Apache mod_ssl i2d_SSL_SESSION Function SSL Client Certificate Overflow	Web Servers
+10918	Apache-SSL < 1.3.23+1.46 i2d_SSL_SESSION Function SSL Client Certificate Overflow	Web Servers
+11039	Apache mod_ssl ssl_compat_directive Function Overflow	Web Servers
+11060	OpenSSL < 0.9.6e / 0.9.7b3 Multiple Remote Vulnerabilities	Gain a shell remotely
+11267	OpenSSL < 0.9.6j / 0.9.7b Multiple Vulnerabilities	Web Servers
+11622	Apache mod_ssl Host: Header XSS	CGI abuses : XSS
+11628	WebLogic SSL Certificate Chain User Spoofing	Web Servers
+11875	OpenSSL ASN.1 Parser Multiple Remote DoS	Misc.
+12046	Apache-SSL SSLVerifyClient SSLFakeBasicAuth Client Certificate Forgery	Web Servers
+12100	Apache mod_ssl Plain HTTP Request DoS	Web Servers
+12110	OpenSSL < 0.9.6m / 0.9.7d Multiple Remote DoS	Web Servers
+12204	MS04-011: Microsoft Windows SSL Library Malformed Message Remote DoS (835732) (uncredentialed check)	Windows
+12255	mod_ssl ssl_util_uuencode_binary Remote Overflow	Web Servers
+12310	RHSA-2002-136: mod_ssl	Red Hat Local Security Checks
+12315	RHSA-2002-157: openssl	Red Hat Local Security Checks
+12316	RHSA-2002-161: openssl	Red Hat Local Security Checks
+12368	RHSA-2003-063: openssl	Red Hat Local Security Checks
+12380	RHSA-2003-102: openssl	Red Hat Local Security Checks
+12425	RHSA-2003-293: openssl	Red Hat Local Security Checks
+12479	RHSA-2004-119: openssl	Red Hat Local Security Checks
+12480	RHSA-2004-120: openssl	Red Hat Local Security Checks
+12524	FreeBSD : Apache-SSL optional client certificate vulnerability (7)	FreeBSD Local Security Checks
+12525	FreeBSD : Apache 2 mod_ssl denial-of-service (12)	FreeBSD Local Security Checks
+12588	FreeBSD : OpenSSL ChangeCipherSpec denial-of-service vulnerability (132)	FreeBSD Local Security Checks
+12617	FreeBSD : Format string vulnerability in SSLtelnet (186)	FreeBSD Local Security Checks
+13651	Apache mod_ssl ssl_engine_log.c mod_proxy Hook Function Remote Format String	Web Servers
+13684	Fedora Core 1 2004-095: openssl	Fedora Local Security Checks
+13783	SUSE-SA:2003:011: openssl	SuSE Local Security Checks
+13794	SUSE-SA:2003:024: openssl	SuSE Local Security Checks
+13811	SUSE-SA:2003:043: openssl	SuSE Local Security Checks
+13825	SuSE-SA:2004:007: openssl	SuSE Local Security Checks
+13880	MDKSA-2001:065: openssl	Mandriva Local Security Checks
+13928	MDKSA-2002:020: mod_ssl	Mandriva Local Security Checks
+13949	MDKSA-2002:046-1: openssl	Mandriva Local Security Checks
+13951	MDKSA-2002:048: mod_ssl	Mandriva Local Security Checks
+13972	MDKSA-2002:072: mod_ssl	Mandriva Local Security Checks
+14005	MDKSA-2003:020: openssl	Mandriva Local Security Checks
+14019	MDKSA-2003:035: openssl	Mandriva Local Security Checks
+14080	MDKSA-2003:098: openssl	Mandriva Local Security Checks
+14122	MDKSA-2004:023: openssl	Mandriva Local Security Checks
+14153	MDKSA-2004:054: mod_ssl	Mandriva Local Security Checks
+14173	MDKSA-2004:075: mod_ssl	Mandriva Local Security Checks
+14361	Netscape NSS Library SSLv2 Challenge Overflow	Gain a shell remotely
+14440	FreeBSD : nss -- exploitable buffer overflow in SSLv2 protocol handler (129)	FreeBSD Local Security Checks
+14454	[GLSA-200403-03] Multiple OpenSSL Vulnerabilities	Gentoo Local Security Checks
+14516	[GLSA-200406-05] Apache: Buffer overflow in mod_ssl	Gentoo Local Security Checks
+14551	[GLSA-200407-18] mod_ssl: Format string vulnerability	Gentoo Local Security Checks
+14668	Mozilla Multiple Browsers CA Certificate SSL Page DoS	Windows
+14698	RHSA-2004-408: mod_ssl	Red Hat Local Security Checks
+14912	[DSA075] DSA-075-1 netkit-telnet-ssl	Debian Local Security Checks
+14957	[DSA120] DSA-120-1 mod_ssl	Debian Local Security Checks
+14969	[DSA132] DSA-132-1 apache-ssl	Debian Local Security Checks
+14972	[DSA135] DSA-135-1 libapache-mod-ssl	Debian Local Security Checks
+14973	[DSA136] DSA-136-1 openssl	Debian Local Security Checks
+15018	[DSA181] DSA-181-1 libapache-mod-ssl	Debian Local Security Checks
+15025	[DSA188] DSA-188-1 apache-ssl	Debian Local Security Checks
+15084	[DSA247] DSA-247-1 courier-ssl	Debian Local Security Checks
+15087	[DSA250] DSA-250-1 w3mmee-ssl	Debian Local Security Checks
+15090	[DSA253] DSA-253-1 openssl	Debian Local Security Checks
+15125	[DSA288] DSA-288-1 openssl	Debian Local Security Checks
+15230	[DSA393] DSA-393-1 openssl	Debian Local Security Checks
+15231	[DSA394] DSA-394-1 openssl095	Debian Local Security Checks
+15302	[DSA465] DSA-465-1 openssl	Debian Local Security Checks
+15366	[DSA529] DSA-529-1 netkit-telnet-ssl	Debian Local Security Checks
+15369	[DSA532] DSA-532-2 libapache-mod-ssl	Debian Local Security Checks
+15509	FreeBSD : apache13-modssl -- format string vulnerability in proxy support (8)	FreeBSD Local Security Checks
+15545	[GLSA-200410-21] Apache 2, mod_ssl: Bypass of SSLCipherSuite directive	Gentoo Local Security Checks
+15575	FreeBSD : apache2 -- SSL remote DoS (16)	FreeBSD Local Security Checks
+15576	FreeBSD : mod_ssl -- SSLCipherSuite bypass (112)	FreeBSD Local Security Checks
+15588	Web Server SSL Port HTTP Traffic Detection	Web Servers
+15602	MDKSA-2004:122: mod_ssl/apache2-mod_ssl	Mandriva Local Security Checks
+15649	[GLSA-200411-15] OpenSSL, Groff: Insecure tempfile handling	Gentoo Local Security Checks
+15667	[DSA569] DSA-569-1 netkit-telnet-ssl	Debian Local Security Checks
+15893	[DSA603] DSA-603-1 openssl	Debian Local Security Checks
+15901	SSL Certificate Expiry	General
+15920	MDKSA-2004:147: openssl	Mandriva Local Security Checks
+16047	[DSA616] DSA-616-1 netkit-telnet-ssl	Debian Local Security Checks
+17641	[DSA699] DSA-699-1 netkit-telnet-ssl	Debian Local Security Checks
+18409	RHSA-2005-476: openssl	Red Hat Local Security Checks
+18434	MDKSA-2005:096: openssl	Mandriva Local Security Checks
+18715	SSA-2003-141-05 mod_ssl RSA blinding fixes 	Slackware Local Security Checks
+18740	SSA-2003-273-01 OpenSSL security update 	Slackware Local Security Checks
+18777	SSA-2004-207-02 new mod_ssl packages 	Slackware Local Security Checks
+18785	SSA-2004-077-01 OpenSSL security update 	Slackware Local Security Checks
+18788	SSA-2004-305-01 apache+mod_ssl 	Slackware Local Security Checks
+18790	SSA-2004-154-01 mod_ssl 	Slackware Local Security Checks
+18793	SSA-2004-299-01 apache, mod_ssl, php 	Slackware Local Security Checks
+18946	FreeBSD : apache+mod_ssl* (1721)	FreeBSD Local Security Checks
+18965	FreeBSD : apache+mod_ssl* (1778)	FreeBSD Local Security Checks
+19056	FreeBSD : apache+mod_ssl* (2092)	FreeBSD Local Security Checks
+19115	FreeBSD : SSLtelnet (2263)	FreeBSD Local Security Checks
+19682	[DSA807] DSA-807-1 libapache-mod-ssl	Debian Local Security Checks
+19714	RHSA-2005-773: mod_ssl	Red Hat Local Security Checks
+19811	[GLSA-200509-12] Apache, mod_ssl: Multiple vulnerabilities	Gentoo Local Security Checks
+19862	SSA-2005-251-02 mod_ssl 	Slackware Local Security Checks
+20007	SSL Version 2 (v2) Protocol Detection	Service detection
+20022	Fedora Core 3 2005-985: openssl096b	Fedora Local Security Checks
+20023	Fedora Core 4 2005-986: openssl097a	Fedora Local Security Checks
+20031	[GLSA-200510-11] OpenSSL: SSL 2.0 protocol rollback	Gentoo Local Security Checks
+20039	MDKSA-2005:179: openssl	Mandriva Local Security Checks
+20050	RHSA-2005-800: openssl	Red Hat Local Security Checks
+20064	SUSE-SA:2005:061: openssl	SuSE Local Security Checks
+20114	Fedora Core 3 2005-1042: openssl096b	Fedora Local Security Checks
+20141	RHSA-2005-830: openssl	Red Hat Local Security Checks
+20146	RHSA-2005-829: openssl	Red Hat Local Security Checks
+20198	[GLSA-200511-11] linux-ftpd-ssl: Remote buffer overflow	Gentoo Local Security Checks
+20386	Apache mod_ssl ssl_hook_Access Error Handling DoS	Web Servers
+20500	USN113-1 : libnet-ssleay-perl vulnerability	Ubuntu Local Security Checks
+20587	USN177-1 : apache2, libapache-mod-ssl vulnerabilities	Ubuntu Local Security Checks
+20589	USN179-1 : openssl weak default configuration	Ubuntu Local Security Checks
+20620	USN204-1 : openssl vulnerability	Ubuntu Local Security Checks
+20639	USN24-1 : openssl script vulnerability	Ubuntu Local Security Checks
+20817	MDKSA-2006:023: perl-Net_SSLeay	Mandriva Local Security Checks
+21427	FreeBSD : squid -- Denial Of Service Vulnerability in sslConnectTimeout (1669)	FreeBSD Local Security Checks
+21435	FreeBSD : openssl -- potential SSL 2.0 rollback (1742)	FreeBSD Local Security Checks
+21643	SSL Cipher Suites Supported	General
+22327	[GLSA-200609-05] OpenSSL, AMD64 x86 emulation base libraries: RSA signature forgery	Gentoo Local Security Checks
+22331	RHSA-2006-0661: openssl	Red Hat Local Security Checks
+22348	SSA-2006-257-02 openssl 	Slackware Local Security Checks
+22467	SSA-2006-272-01 openssl 	Slackware Local Security Checks
+22472	RHSA-2006-0695: openssl	Red Hat Local Security Checks
+22619	[DSA1077] DSA-1077-1 lynx-ssl	Debian Local Security Checks
+22715	[DSA1173] DSA-1173-1 openssl	Debian Local Security Checks
+22716	[DSA1174] DSA-1174-1 openssl096	Debian Local Security Checks
+22727	[DSA1185] DSA-1185-2 openssl	Debian Local Security Checks
+22741	[DSA875] DSA-875-1 openssl094	Debian Local Security Checks
+22742	[DSA876] DSA-876-1 lynx-ssl	Debian Local Security Checks
+22747	[DSA881] DSA-881-1 openssl096	Debian Local Security Checks
+22748	[DSA882] DSA-882-1 openssl095	Debian Local Security Checks
+22754	[DSA888] DSA-888-1 openssl	Debian Local Security Checks
+22762	[DSA896] DSA-896-1 linux-ftpd-ssl	Debian Local Security Checks
+22881	[DSA1195] DSA-1195-1 openssl096	Debian Local Security Checks
+22914	[GLSA-200610-11] OpenSSL: Multiple vulnerabilities	Gentoo Local Security Checks
+23863	[GLSA-200612-11] AMD64 x86 emulation base libraries: OpenSSL multiple vulnerabilities	Gentoo Local Security Checks
+23905	MDKSA-2006:161: openssl	Mandriva Local Security Checks
+23951	FreeBSD : openssl -- Incorrect PKCS#1 v1.5 padding validation in crypto(3) (1310)	FreeBSD Local Security Checks
+24028	Fedora 5 2006-1004: openssl	Fedora Local Security Checks
+24176	Fedora 5 2006-953: openssl	Fedora Local Security Checks
+24433	SUSE-SA:2006:055: openssl,mozilla-nss	SuSE Local Security Checks
+24436	SUSE-SA:2006:058: openssl	SuSE Local Security Checks
+24558	MDKSA-2006:172-1: openssl	Mandriva Local Security Checks
+24719	FreeBSD : OpenSSL -- Multiple problems in crypto(3) (1348)	FreeBSD Local Security Checks
+24901	CUPS Incomplete SSL Negotiation Remote DoS	Misc.
+25512	FreeBSD : cups -- Incomplete SSL Negotiation Denial of Service (1573)	FreeBSD Local Security Checks
+25637	XEROX WorkCentre Multiple OpenSSL Vulnerabilities (XRX07-001)	Misc.
+25911	Fedora 6 2007-661: openssl	Fedora Local Security Checks
+26209	[DSA1379] DSA-1379-1 openssl	Debian Local Security Checks
+26928	SSL Weak Cipher Suites Supported	General
+26946	[GLSA-200710-06] OpenSSL: Multiple vulnerabilities	Gentoo Local Security Checks
+26950	MDKSA-2007:193: openssl	Mandriva Local Security Checks
+27052	RHSA-2007-0964: openssl	Red Hat Local Security Checks
+27061	Fedora 6 2007-725: openssl	Fedora Local Security Checks
+27187	SuSE Security Update: compat-openssl097g: Fix for a buffer overflow and a DoS-condition. (compat-openssl097g-2171)	SuSE Local Security Checks
+27328	SuSE Security Update: openssl: This update fixes a buffer overflow. (libopenssl-devel-4476)	SuSE Local Security Checks
+27367	SuSE Security Update: openssl: fixes a bug that allowed the forgery of some special RSA signatures (openssl-2069)	SuSE Local Security Checks
+27368	SuSE Security Update: openssl: Fix for a buffer overflow and a DoS-condition. (openssl-2140)	SuSE Local Security Checks
+27369	SuSE Security Update: Security update for OpenSSL (openssl-2162)	SuSE Local Security Checks
+27370	SuSE Security Update: Security update for OpenSSL (openssl-2349)	SuSE Local Security Checks
+27409	SuSE Security Update: This update fixes a possible SSL man-in-the-middle attack (python-wbem-2692)	SuSE Local Security Checks
+27531	SuSE Security Update: openssl security update (libopenssl-devel-4560)	SuSE Local Security Checks
+27563	RHSA-2007-0813: openssl	Red Hat Local Security Checks
+27592	[GLSA-200710-30] OpenSSL: Remote execution of arbitrary code	Gentoo Local Security Checks
+27618	SonicWALL SSL-VPN NetExtender NELaunchCtrl ActiveX Control Multiple Overflows	Windows
+27716	Fedora 7 2007-1444: openssl	Fedora Local Security Checks
+27777	Fedora 7 2007-2530: openssl	Fedora Local Security Checks
+27918	USN339-1 : OpenSSL vulnerability	Ubuntu Local Security Checks
+27933	USN353-1 : openssl vulnerabilities	Ubuntu Local Security Checks
+27934	USN353-2 : OpenSSL vulnerability	Ubuntu Local Security Checks
+28127	USN522-1 : OpenSSL vulnerabilities	Ubuntu Local Security Checks
+28140	USN534-1 : OpenSSL vulnerability	Ubuntu Local Security Checks
+28243	RHSA-2007-1003: openssl	Red Hat Local Security Checks
+28300	[DSA1411] DSA-1411-1 libopenssl-ruby	Debian Local Security Checks
+28328	SuSE Security Update: ruby: Improve SSL certificate validation (ruby-4703)	SuSE Local Security Checks
+29234	MDKSA-2007:237: openssl	Mandriva Local Security Checks
+29405	SuSE Security Update: Security update for compat-openssl097g (compat-openssl097g-2163)	SuSE Local Security Checks
+29541	SuSE Security Update: Security update for openssl (openssl-2082)	SuSE Local Security Checks
+29542	SuSE Security Update: Security update for OpenSSL (openssl-2141)	SuSE Local Security Checks
+29543	SuSE Security Update: Security update for OpenSSL (openssl-2175)	SuSE Local Security Checks
+29544	SuSE Security Update: Security update for OpenSSL (openssl-4477)	SuSE Local Security Checks
+29545	SuSE Security Update: Security update for OpenSSL (openssl-4559)	SuSE Local Security Checks
+31391	SuSE Security Update: compat-openssl097g: Fixed buffer overflow in SSL_get_shared_ciphers (compat-openssl097g-5054)	SuSE Local Security Checks
+31392	SuSE Security Update: Security update for compat-openssl097g (compat-openssl097g-5055)	SuSE Local Security Checks
+31636	[GLSA-200803-30] ssl-cert eclass: Certificate disclosure	Gentoo Local Security Checks
+31705	SSL Anonymous Cipher Suites Supported	Service detection
+31738	Apache-SSL ExpandCert() Function Certificate Handling Arbitrary Environment Variables Manipulation	Web Servers
+31953	FreeBSD : lighttpd -- OpenSSL Error Queue Denial of Service Vulnerability (1409)	FreeBSD Local Security Checks
+32305	[DSA1571] DSA-1571-1 openssl	Debian Local Security Checks
+32314	Debian OpenSSH/OpenSSL Package Random Number Generator Weakness	Gain a shell remotely
+32321	Debian OpenSSH/OpenSSL Package Random Number Generator Weakness (SSL check)	Gain a shell remotely
+32358	USN612-4 : ssl-cert vulnerability	Ubuntu Local Security Checks
+32431	USN612-8 : openssl-blacklist update	Ubuntu Local Security Checks
+32443	ThinkVantage System Update < 3.14 SSL Certificate Issuer Spoofing	Windows
+32484	Fedora 9 2008-4723: openssl	Fedora Local Security Checks
+33198	USN612-9 : openssl-blacklist update	Ubuntu Local Security Checks
+33244	[GLSA-200806-08] OpenSSL: Denial of Service	Gentoo Local Security Checks
+33254	USN612-11 : openssl-blacklist update	Ubuntu Local Security Checks
+33389	USN620-1 : OpenSSL vulnerabilities	Ubuntu Local Security Checks
+33753	SSA-2008-210-08 openssl 	Slackware Local Security Checks
+35291	SSL Certificate Signed using Weak Hashing Algorithm	General
+35297	SSL Service Requests Client Certificate	Service detection
+35316	RHSA-2009-0004: openssl	Red Hat Local Security Checks
+35364	[DSA1701] DSA-1701-1 openssl, openssl097	Debian Local Security Checks
+35376	SSA-2009-014-01 openssl 	Slackware Local Security Checks
+35397	Fedora 9 2009-0325: openssl	Fedora Local Security Checks
+35447	SuSE Security Update: libnasl: missing return value checks for openssl function calls (libnasl-5943)	SuSE Local Security Checks
+35459	SuSE Security Update: OpenSSL incorrect checks for malformed signatures (libopenssl-devel-5951)	SuSE Local Security Checks
+35471	SuSE Security Update: OpenSSL incorrect checks for malformed signatures (compat-openssl097g-5964)	SuSE Local Security Checks
+35673	[GLSA-200902-02] OpenSSL: Certificate validation error	Gentoo Local Security Checks
+35720	Fedora 9 2009-1914: perl-Crypt-OpenSSL-DSA	Fedora Local Security Checks
+36090	[DSA1763] DSA-1763-1 openssl	Debian Local Security Checks
+36096	[GLSA-200904-08] OpenSSL: Denial of Service	Gentoo Local Security Checks
+36104	SSA-2009-098-01 openssl 	Slackware Local Security Checks
+36249	MDKA-2007:028: openssl	Mandriva Local Security Checks
+36300	FreeBSD : Apache 2 mod_ssl denial-of-service (1650)	FreeBSD Local Security Checks
+36344	Fedora 10 2009-0331: openssl	Fedora Local Security Checks
+36382	USN704-1 : openssl vulnerability	Ubuntu Local Security Checks
+36579	FreeBSD : apache13-modssl -- format string vulnerability in proxy support (1392)	FreeBSD Local Security Checks
+36796	Fedora 10 2009-2090: perl-Crypt-OpenSSL-DSA	Fedora Local Security Checks
+36907	USN750-1 : openssl vulnerability	Ubuntu Local Security Checks
+37032	FreeBSD : nss -- exploitable buffer overflow in SSLv2 protocol handler (1437)	FreeBSD Local Security Checks
+37076	FreeBSD : apache2 -- SSL remote DoS (1898)	FreeBSD Local Security Checks
+37137	FreeBSD : Apache-SSL optional client certificate vulnerability (1865)	FreeBSD Local Security Checks
+37282	MDVSA-2009:087: openssl	Mandriva Local Security Checks
+37800	FreeBSD : OpenSSL ChangeCipherSpec denial-of-service vulnerability (1793)	FreeBSD Local Security Checks
+37839	MDVSA-2009:001: openssl	Mandriva Local Security Checks
+37846	FreeBSD : mod_ssl -- SSLCipherSuite bypass (1615)	FreeBSD Local Security Checks
+37882	MDVSA-2008:107: openssl	Mandriva Local Security Checks
+37904	MDVA-2009:051: perl-Crypt-SSLeay	Mandriva Local Security Checks
+38643	SuSE Security Update: openssl security update (compat-openssl097g-6175)	SuSE Local Security Checks
+38646	SuSE Security Update: openssl security update (libopenssl-devel-6173)	SuSE Local Security Checks
+38706	FreeBSD : FreeBSD -- remotely exploitable crash in OpenSSL (2539)	FreeBSD Local Security Checks
+38735	ISC BIND 9 EVP_VerifyFinal() / DSA_do_verify() SSL/TLS Signature Validation Weakness	DNS
+38864	MDVSA-2009:120: openssl	Mandriva Local Security Checks
+38923	SuSE Security Update: openssl: Fixed three remote denial of service problems, (libopenssl-devel-6268)	SuSE Local Security Checks
+38966	FreeBSD : openssl -- denial of service in DTLS implementation (5129)	FreeBSD Local Security Checks
+39445	SuSE Security Update: OpenSSL DTLS remote DoS fixed (CVE-2009-1386 and CVE-2009-1387). (libopenssl-devel-6291)	SuSE Local Security Checks
+39474	Fedora 10 2009-5412: openssl	Fedora Local Security Checks
+39475	Fedora 9 2009-5423: openssl	Fedora Local Security Checks
+39476	Fedora 11 2009-5452: openssl	Fedora Local Security Checks
+39534	USN792-1 : openssl vulnerabilities	Ubuntu Local Security Checks
+39854	Fedora 11 2009-7435: perl-IO-Socket-SSL	Fedora Local Security Checks
+39855	Fedora 10 2009-7544: perl-IO-Socket-SSL	Fedora Local Security Checks
+39937	SuSE 11.0 Security Update: compat-openssl097g (2009-01-27)	SuSE Local Security Checks
+39938	SuSE 11.0 Security Update: compat-openssl097g (2009-04-16)	SuSE Local Security Checks
+40032	SuSE 11.0 Security Update: libopenssl-devel (2009-01-21)	SuSE Local Security Checks
+40033	SuSE 11.0 Security Update: libopenssl-devel (2009-04-15)	SuSE Local Security Checks
+40034	SuSE 11.0 Security Update: libopenssl-devel (2009-05-22)	SuSE Local Security Checks
+40035	SuSE 11.0 Security Update: libopenssl-devel (2009-06-09)	SuSE Local Security Checks
+40203	SuSE 11.1 Security Update: compat-openssl097g (2009-02-04)	SuSE Local Security Checks
+40204	SuSE 11.1 Security Update: compat-openssl097g (2009-04-16)	SuSE Local Security Checks
+40259	SuSE 11.1 Security Update: libopenssl-devel (2009-01-21)	SuSE Local Security Checks
+40260	SuSE 11.1 Security Update: libopenssl-devel (2009-04-15)	SuSE Local Security Checks
+40261	SuSE 11.1 Security Update: libopenssl-devel (2009-05-22)	SuSE Local Security Checks
+40262	SuSE 11.1 Security Update: libopenssl-devel (2009-06-09)	SuSE Local Security Checks
+40571	FreeBSD : fetchmail -- improper SSL certificate subject verification (5156)	FreeBSD Local Security Checks
+40659	FreeBSD : GnuTLS -- improper SSL certificate verification (5158)	FreeBSD Local Security Checks
+40664	Mozilla Thunderbird < 2.0.0.23 Certificate Authority (CA) Common Name Null Byte Handling SSL MiTM Weakness	Windows
+40905	SuSE 11.1 Security Update: perl-IO-Socket-SSL (2009-09-01)	SuSE Local Security Checks
+40981	USN830-1 : openssl vulnerability	Ubuntu Local Security Checks
+41030	MDVSA-2009:238: openssl	Mandriva Local Security Checks
+41155	SuSE9 Security Update: Security update for OpenSSL (11843)	SuSE Local Security Checks
+41271	SuSE9 Security Update: Security update for openssl (12341)	SuSE Local Security Checks
+41293	SuSE9 Security Update: Security update for OpenSSL (12397)	SuSE Local Security Checks
+41376	SuSE Security Update: compat-openssl097g (2009-04-16)	SuSE Local Security Checks
+41423	SuSE Security Update: libopenssl-devel (2009-04-15)	SuSE Local Security Checks
+41424	SuSE Security Update: libopenssl-devel (2009-05-22)	SuSE Local Security Checks
+41443	SuSE Security Update: openssl (2009-06-10)	SuSE Local Security Checks
+41449	SuSE Security Update: perl-IO-Socket-SSL (2009-09-01)	SuSE Local Security Checks
+41490	SuSE Security Update: Security update for compat-openssl097g (compat-openssl097g-5957)	SuSE Local Security Checks
+41491	SuSE Security Update: Security update for compat-openssl097g (compat-openssl097g-6170)	SuSE Local Security Checks
+41570	SuSE Security Update: Security update for openssl (openssl-5949)	SuSE Local Security Checks
+41571	SuSE Security Update: Security update for OpenSSL (openssl-6179)	SuSE Local Security Checks
+41572	SuSE Security Update: Security update for OpenSSL (openssl-6267)	SuSE Local Security Checks
+41573	SuSE Security Update: Security update for OpenSSL (openssl-6296)	SuSE Local Security Checks
+41950	MDVSA-2009:178: perl-IO-Socket-SSL	Mandriva Local Security Checks
+41960	MDVSA-2009:252-1: perl-IO-Socket-SSL	Mandriva Local Security Checks
+41994	SuSE Security Update: curl fix for embedded zero in SSL certificate subject name (curl-6411)	SuSE Local Security Checks
+41998	SuSE Security Update: fetchmail: fix for security issue regarding SSL cert validatin (fetchmail-6410)	SuSE Local Security Checks
+42011	SuSE Security Update: libcurl2: fix for embedded zero in SSL certificate subject name (libcurl2-6404)	SuSE Local Security Checks
+42012	SuSE Security Update: libcurl3 fix for embedded zero in SSL certificate subject name (libcurl3-6401)	SuSE Local Security Checks
+42014	SuSE Security Update: openldap2: incorrectly handling of \0 character in SSL certificate (libldap-2_4-2-6488)	SuSE Local Security Checks
+42023	SuSE Security Update: mutt: incorrectly handling of \0 character in SSL certificate (mutt-6487)	SuSE Local Security Checks
+42029	SuSE Security Update: opera: Update to version 10 to fix XML denial of service and SSL tampering problem (opera-6473)	SuSE Local Security Checks
+42038	SuSE Security Update: wget: security update for 0 in SSL certificate subject name (wget-6427)	SuSE Local Security Checks
+42053	SSL Certificate Null Character Spoofing Weakness	General
+42062	MDVSA-2009:258: openssl	Mandriva Local Security Checks
+42476	sslh Detection	Service detection
+42796	CISCO ASA SSL VPN Detection	Service detection
+42826	SSA-2009-320-01 openssl 	Slackware Local Security Checks
+42829	SuSE Security Update: compat-openssl097g (2009-11-13)	SuSE Local Security Checks
+42830	SuSE Security Update: libopenssl-devel (2009-11-12)	SuSE Local Security Checks
+42836	SuSE9 Security Update: Security update for OpenSSL (12550)	SuSE Local Security Checks
+42837	SuSE 11.0 Security Update: compat-openssl097g (2009-11-13)	SuSE Local Security Checks
+42838	SuSE 11.1 Security Update: compat-openssl097g (2009-11-13)	SuSE Local Security Checks
+42839	SuSE 11.2 Security Update: compat-openssl097g (2009-11-13)	SuSE Local Security Checks
+42840	SuSE Security Update: Security update for OpenSSL (compat-openssl097g-6656)	SuSE Local Security Checks
+42841	SuSE Security Update: Security update for OpenSSL (openssl-6654)	SuSE Local Security Checks
+42852	SuSE 11.0 Security Update: libopenssl-devel (2009-11-12)	SuSE Local Security Checks
+42854	SuSE 11.1 Security Update: libopenssl-devel (2009-11-12)	SuSE Local Security Checks
+42856	SuSE 11.2 Security Update: libopenssl-devel (2009-11-13)	SuSE Local Security Checks
+42873	SSL Medium Strength Cipher Suites Supported	General
+42880	SSL / TLS Renegotiation Handshakes MiTM Plaintext Data Injection	General
+42968	[GLSA-200912-01] OpenSSL: Multiple vulnerabilities	Gentoo Local Security Checks
+42980	SSL Certificate Expiry - Future Validity	General
+42981	SSL Certificate Expiry - Future Expiry	General
+42996	MDVSA-2009:310: openssl	Mandriva Local Security Checks
+43637	Sendmail < 8.14.4 SSL Certificate NULL Character Spoofing	SMTP problems
+43898	USN884-1 : openssl vulnerability	Ubuntu Local Security Checks
+44063	RHSA-2010-0054: openssl	Red Hat Local Security Checks
+44103	MDVSA-2010:022: openssl	Mandriva Local Security Checks
+44125	SuSE 11.0 Security Update: openssl-CVE-2009-4355.patch (2010-01-15)	SuSE Local Security Checks
+44127	SuSE 11.1 Security Update: openssl-CVE-2009-4355.patch (2010-01-20)	SuSE Local Security Checks
+44129	SuSE 11.2 Security Update: openssl-CVE-2009-4355.patch (2010-01-15)	SuSE Local Security Checks
+44131	SuSE Security Update: openssl-CVE-2009-4355.patch (2010-01-15)	SuSE Local Security Checks
+44132	SuSE Security Update: Security update for OpenSSL (openssl-CVE-2009-4355.patch-6784)	SuSE Local Security Checks

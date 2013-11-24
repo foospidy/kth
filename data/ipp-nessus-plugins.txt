@@ -1,0 +1,240 @@
+11199	CUPS < 1.1.18 Multiple Vulnerabilities	Misc.
+11483	apcnisd / apcupsd Detection	Service detection
+11484	APC < 3.8.0 apcupsd Multiple Vulnerabilities	Gain a shell remotely
+11754	CUPS Printer List Disclosure	Misc.
+13780	SUSE-SA:2003:002: cups	SuSE Local Security Checks
+13792	SUSE-SA:2003:022: apcupsd	SuSE Local Security Checks
+13797	SUSE-SA:2003:028: cups	SuSE Local Security Checks
+13867	MDKSA-2001:048: cups	Mandriva Local Security Checks
+13923	MDKSA-2002:015: cups	Mandriva Local Security Checks
+13986	MDKSA-2003:001: cups	Mandriva Local Security Checks
+14003	MDKSA-2003:018: apcupsd	Mandriva Local Security Checks
+14045	MDKSA-2003:062: cups	Mandriva Local Security Checks
+14086	MDKSA-2003:104: cups	Mandriva Local Security Checks
+14730	SUSE-SA:2004:031: cups	SuSE Local Security Checks
+14737	RHSA-2004-449: cups	Red Hat Local Security Checks
+14753	MDKSA-2004:097: cups	Mandriva Local Security Checks
+14763	FreeBSD : cups -- print queue browser denial-of-service (27)	FreeBSD Local Security Checks
+14780	[GLSA-200409-25] CUPS: Denial of service vulnerability	Gentoo Local Security Checks
+14839	Fedora Core 2 2004-275: cups	Fedora Local Security Checks
+14947	[DSA110] DSA-110-1 cups	Debian Local Security Checks
+15069	[DSA232] DSA-232-1 cupsys	Debian Local Security Checks
+15114	[DSA277] DSA-277-1 apcupsd	Debian Local Security Checks
+15154	[DSA317] DSA-317-1 cupsys	Debian Local Security Checks
+15382	[DSA545] DSA-545-1 cupsys	Debian Local Security Checks
+15422	Fedora Core 2 2004-331: cups	Fedora Local Security Checks
+15444	[GLSA-200410-06] CUPS: Leakage of sensitive information	Gentoo Local Security Checks
+15499	FreeBSD : CUPS -- local information disclosure (28)	FreeBSD Local Security Checks
+15539	[GLSA-200410-20] Xpdf, CUPS: Multiple integer overflows	Gentoo Local Security Checks
+15551	MDKSA-2004:116: cups	Mandriva Local Security Checks
+15569	SUSE-SA:2004:039: xpdf, gpdf, kdegraphics3-pdf, pdftohtml, cups	SuSE Local Security Checks
+15578	Fedora Core 2 2004-337: cups	Fedora Local Security Checks
+15630	RHSA-2004-543: cups	Red Hat Local Security Checks
+15664	[DSA566] DSA-566-1 cupsys	Debian Local Security Checks
+15671	[DSA573] DSA-573-1 cupsys	Debian Local Security Checks
+15900	CUPS Internet Printing Protocol (IPP) Implementation Empty UDP Datagram Remote DoS	Misc.
+16052	Fedora Core 3 2004-575: cups	Fedora Local Security Checks
+16055	Fedora Core 2 2004-574: cups	Fedora Local Security Checks
+16067	[GLSA-200412-25] CUPS: Multiple vulnerabilities	Gentoo Local Security Checks
+16074	[DSA621] DSA-621-1 cupsys	Debian Local Security Checks
+16081	MDKSA-2004:164: cups	Mandriva Local Security Checks
+16141	CUPS < 1.1.23 Multiple Vulnerabilities	Misc.
+16146	RHSA-2005-013: cups	Red Hat Local Security Checks
+16184	MDKSA-2005:008: cups	Mandriva Local Security Checks
+16212	[DSA645] DSA-645-1 cupsys	Debian Local Security Checks
+16255	MDKSA-2005:018: cups	Mandriva Local Security Checks
+16297	RHSA-2005-049: cups	Red Hat Local Security Checks
+16351	Fedora Core 2 2005-122: cups	Fedora Local Security Checks
+16352	Fedora Core 3 2005-123: cups	Fedora Local Security Checks
+16421	[GLSA-200501-30] CUPS: Stack overflow in included Xpdf code	Gentoo Local Security Checks
+17149	RHSA-2005-132: cups	Red Hat Local Security Checks
+17174	RHSA-2005-053: cups	Red Hat Local Security Checks
+18721	SSA-2003-149-01 CUPS DoS vulnerability fixed 	Slackware Local Security Checks
+18752	SSA-2004-266-01 CUPS DoS 	Slackware Local Security Checks
+18916	FreeBSD : cups-base -- HPGL buffer overflow vulnerability (1612)	FreeBSD Local Security Checks
+18990	FreeBSD : cups-lpr -- lppasswd multiple vulnerabilities (1882)	FreeBSD Local Security Checks
+19045	FreeBSD : cups-base -- CUPS server remote DoS vulnerability (2052)	FreeBSD Local Security Checks
+19213	RHSA-2005-571: cups	Red Hat Local Security Checks
+19412	RHSA-2005-706: cups	Red Hat Local Security Checks
+19467	Fedora Core 4 2005-732: cups	Fedora Local Security Checks
+19468	Fedora Core 3 2005-733: cups	Fedora Local Security Checks
+19834	RHSA-2005-772: cups	Red Hat Local Security Checks
+19870	Fedora Core 3 2005-908: cups	Fedora Local Security Checks
+19895	MDKSA-2005:138-1: cups	Mandriva Local Security Checks
+19920	MDKSA-2005:165: cups	Mandriva Local Security Checks
+20307	Fedora Core 3 2005-1141: cups	Fedora Local Security Checks
+20308	Fedora Core 4 2005-1142: cups	Fedora Local Security Checks
+20328	[GLSA-200512-08] Xpdf, GPdf, CUPS, Poppler: Multiple vulnerabilities	Gentoo Local Security Checks
+20365	RHSA-2005-878: cups	Red Hat Local Security Checks
+20396	Fedora Core 3 2005-000: cups	Fedora Local Security Checks
+20476	MDKSA-2006:010: cups	Mandriva Local Security Checks
+20481	RHSA-2006-0163: cups	Red Hat Local Security Checks
+20596	USN185-1 : cupsys vulnerability	Ubuntu Local Security Checks
+20668	USN50-1 : cupsys vulnerabilities	Ubuntu Local Security Checks
+20683	USN64-1 : xpdf, cupsys vulnerabilities	Ubuntu Local Security Checks
+20770	USN227-1 : xpdf/cupsys/tetex-bin/kdegraphics/koffice vulnerabilities	Ubuntu Local Security Checks
+20781	USN236-1 : xpdf, poppler, cupsys, tetex-bin vulnerabilities	Ubuntu Local Security Checks
+21234	USN270-1 : kdegraphics, koffice, xpdf, cupsys, poppler, tetex-bin vulnerabilities	Ubuntu Local Security Checks
+22816	[DSA950] DSA-950-1 cupsys	Debian Local Security Checks
+24052	Fedora 6 2006-1220: cups	Fedora Local Security Checks
+24473	MDKA-2005:047: apcupsd	Mandriva Local Security Checks
+24513	MDKA-2006:036: cups	Mandriva Local Security Checks
+24820	Fedora 5 2007-1219: cups	Fedora Local Security Checks
+24901	CUPS Incomplete SSL Negotiation Remote DoS	Misc.
+24933	[GLSA-200703-28] CUPS: Denial of Service	Gentoo Local Security Checks
+25064	MDKSA-2007:086: cups	Mandriva Local Security Checks
+25065	RHSA-2007-0123: cups	Red Hat Local Security Checks
+25512	FreeBSD : cups -- Incomplete SSL Negotiation Denial of Service (1573)	FreeBSD Local Security Checks
+25815	RHSA-2007-0720: cups	Red Hat Local Security Checks
+25910	Fedora 6 2007-644: cups	Fedora Local Security Checks
+25923	MDKSA-2007:165: cups	Mandriva Local Security Checks
+27191	SuSE Security Update: cups: This update fixes a vulnerability which occurs while processing a special PDF file. (cups-2527)	SuSE Local Security Checks
+27192	SuSE Security Update: cups security update (cups-3136)	SuSE Local Security Checks
+27193	SuSE Security Update: cups security update (cups-3715)	SuSE Local Security Checks
+27194	SuSE Security Update: cups security update (cups-4044)	SuSE Local Security Checks
+27602	RHSA-2007-1020: cups	Red Hat Local Security Checks
+27605	SuSE Security Update: cups security update (cups-4598)	SuSE Local Security Checks
+27608	CUPS cups/ipp.c ippReadIO Function IPP Tag Handling Overflow	Misc.
+27609	SSA-2007-305-01 cups 	Slackware Local Security Checks
+27615	MDKSA-2007:204-1: cups	Mandriva Local Security Checks
+27638	Fedora 6 2007-740: cups	Fedora Local Security Checks
+27720	Fedora 7 2007-1541: cups	Fedora Local Security Checks
+27797	Fedora 7 2007-2715: cups	Fedora Local Security Checks
+27822	Fedora 8 2007-2982: cups	Fedora Local Security Checks
+27835	RHSA-2007-1021: cups	Red Hat Local Security Checks
+27836	RHSA-2007-1023: cups	Red Hat Local Security Checks
+27845	FreeBSD : cups -- off-by-one buffer overflow (1995)	FreeBSD Local Security Checks
+28146	USN539-1 : CUPS vulnerability	Ubuntu Local Security Checks
+28162	Fedora 7 2007-3100: cups	Fedora Local Security Checks
+28199	[GLSA-200711-16] CUPS: Memory corruption	Gentoo Local Security Checks
+28203	SuSE Security Update: cups security update (cups-4668)	SuSE Local Security Checks
+28234	Fedora 6 2007-746: cups	Fedora Local Security Checks
+28253	[DSA1407] DSA-1407-1 cupsys	Debian Local Security Checks
+28276	MDKSA-2007:228: cups	Mandriva Local Security Checks
+29409	SuSE Security Update: Security update for cups (cups-2528)	SuSE Local Security Checks
+29410	SuSE Security Update: Security update for CUPS (cups-3137)	SuSE Local Security Checks
+29411	SuSE Security Update: Security update for cups (cups-3716)	SuSE Local Security Checks
+29412	SuSE Security Update: Security update for cups (cups-4043)	SuSE Local Security Checks
+29413	SuSE Security Update: Security update for Cups (cups-4667)	SuSE Local Security Checks
+29727	CUPS SNMP Back End (backend/snmp.c) asn1_get_string Function Crafted SNMP Response Remote Overflow	Misc.
+29734	[GLSA-200712-14] CUPS: Multiple vulnerabilities	Gentoo Local Security Checks
+29803	[DSA1437] DSA-1437-1 cupsys	Debian Local Security Checks
+29913	SuSE Security Update: Security update for cups (cups-4805)	SuSE Local Security Checks
+29914	SuSE Security Update: cups: Fixing two security vulnerabilities. (cups-4806)	SuSE Local Security Checks
+29919	USN563-1 : CUPS vulnerabilities	Ubuntu Local Security Checks
+31131	CUPS < 1.3.6 process_browse_data() Function Double Free DoS	Misc.
+31163	RHSA-2008-0157: cups	Red Hat Local Security Checks
+31173	Fedora 8 2008-1901: cups	Fedora Local Security Checks
+31178	Fedora 7 2008-1976: cups	Fedora Local Security Checks
+31185	RHSA-2008-0153: cups	Red Hat Local Security Checks
+31186	RHSA-2008-0161: cups	Red Hat Local Security Checks
+31393	SuSE Security Update: Security update for cups (cups-5063)	SuSE Local Security Checks
+31394	SuSE Security Update: cups: Fix for three security issues. (cups-5064)	SuSE Local Security Checks
+31621	SuSE Security Update: cups: fixed heap-overflow (cups-5076)	SuSE Local Security Checks
+31663	[DSA1530] DSA-1530-1 cupsys	Debian Local Security Checks
+31730	CUPS < 1.3.7 Multiple Vulnerabilities (Overflow, Info Disc)	Misc.
+31740	SSA-2008-094-01 cups 	Slackware Local Security Checks
+31752	[GLSA-200804-01] CUPS: Multiple vulnerabilities	Gentoo Local Security Checks
+31754	RHSA-2008-0192: cups	Red Hat Local Security Checks
+31756	RHSA-2008-0206: cups	Red Hat Local Security Checks
+31769	SuSE Security Update: Security update for CUPS (cups-5115)	SuSE Local Security Checks
+31770	SuSE Security Update: cups security update (cups-5117)	SuSE Local Security Checks
+31785	USN598-1 : CUPS vulnerabilities	Ubuntu Local Security Checks
+31814	Fedora 8 2008-2131: cups	Fedora Local Security Checks
+31816	Fedora 7 2008-2897: cups	Fedora Local Security Checks
+32016	[GLSA-200804-23] CUPS: Integer overflow vulnerability	Gentoo Local Security Checks
+32186	USN606-1 : CUPS vulnerability	Ubuntu Local Security Checks
+32197	Fedora 7 2008-3449: cups	Fedora Local Security Checks
+32207	Fedora 8 2008-3586: cups	Fedora Local Security Checks
+32331	Fedora 9 2008-3756: cups	Fedora Local Security Checks
+33096	RHSA-2008-0498: cups	Red Hat Local Security Checks
+33158	SuSE Security Update: Security update for cups (cups-5201)	SuSE Local Security Checks
+33159	SuSE Security Update: cups security update (cups-5202)	SuSE Local Security Checks
+33577	CUPS < 1.3.8 PNG File Handling Multiple Overflows	Misc.
+33774	[DSA1625] DSA-1625-1 cupsys	Debian Local Security Checks
+34276	SuSE Security Update: Security update for Bluetooth utilities (bluez-cups-5437)	SuSE Local Security Checks
+34358	SuSE Security Update: cups security update (cups-5652)	SuSE Local Security Checks
+34359	SuSE Security Update: Security update for CUPS (cups-5653)	SuSE Local Security Checks
+34384	RHSA-2008-0937: cups	Red Hat Local Security Checks
+34385	CUPS < 1.3.9 Multiple Vulnerabilities	Misc.
+34391	FreeBSD : cups -- multiple vulnerabilities (2299)	FreeBSD Local Security Checks
+34424	Fedora 8 2008-8801: cups	Fedora Local Security Checks
+34425	Fedora 9 2008-8844: cups	Fedora Local Security Checks
+34449	[DSA1656] DSA-1656-1 cupsys	Debian Local Security Checks
+34719	SSA-2008-312-01 cups 	Slackware Local Security Checks
+34980	FreeBSD : cups -- potential buffer overflow in PNG reading code (1963)	FreeBSD Local Security Checks
+35011	[DSA1677] DSA-1677-1 cupsys	Debian Local Security Checks
+35078	Fedora 8 2008-10911: cups	Fedora Local Security Checks
+35079	Fedora 9 2008-10917: cups	Fedora Local Security Checks
+35086	[GLSA-200812-11] CUPS: Multiple vulnerabilities	Gentoo Local Security Checks
+35182	RHSA-2008-1028: cups	Red Hat Local Security Checks
+35183	RHSA-2008-1029: cups	Red Hat Local Security Checks
+35368	SuSE Security Update: cups security update (cups-5838)	SuSE Local Security Checks
+35722	RHSA-2009-0308: cups	Red Hat Local Security Checks
+36016	SuSE Security Update: bluez new dbus configuration (bluez-cups-6118)	SuSE Local Security Checks
+36173	[DSA1773] DSA-1773-1 cups	Debian Local Security Checks
+36178	RHSA-2009-0428: cups	Red Hat Local Security Checks
+36179	RHSA-2009-0429: cups	Red Hat Local Security Checks
+36183	CUPS < 1.3.10 Multiple Vulnerabilities	Misc.
+36209	Fedora 9 2009-3753: cups	Fedora Local Security Checks
+36362	FreeBSD : CUPS -- local information disclosure (1526)	FreeBSD Local Security Checks
+36414	MDVSA-2009:028: cups	Mandriva Local Security Checks
+36759	MDVSA-2008:170: cups	Mandriva Local Security Checks
+36840	MDVSA-2008:211: cups	Mandriva Local Security Checks
+36860	RHSA-2007-1022: cups	Red Hat Local Security Checks
+37075	Fedora 10 2009-3769: cups	Fedora Local Security Checks
+37103	MDVSA-2009:027: cups	Mandriva Local Security Checks
+37194	MDVSA-2008:051: cups	Mandriva Local Security Checks
+37420	MDVSA-2008:081: cups	Mandriva Local Security Checks
+37571	MDVSA-2008:036: cups	Mandriva Local Security Checks
+37713	FreeBSD : cups -- print queue browser denial-of-service (1299)	FreeBSD Local Security Checks
+37836	USN656-1 : cupsys vulnerabilities	Ubuntu Local Security Checks
+37844	SuSE Security Update: cups security update (cups-6172)	SuSE Local Security Checks
+37978	USN760-1 : cups, cupsys vulnerability	Ubuntu Local Security Checks
+38122	Fedora 10 2008-10895: cups	Fedora Local Security Checks
+38132	USN707-1 : cups, cupsys vulnerabilities	Ubuntu Local Security Checks
+38161	[GLSA-200904-20] CUPS: Multiple vulnerabilities	Gentoo Local Security Checks
+38166	SSA-2009-116-01 cups 	Slackware Local Security Checks
+38705	FreeBSD : cups -- remote code execution and DNS rebinding (2538)	FreeBSD Local Security Checks
+38992	[DSA1811] DSA-1811-1 cups, cupsys	Debian Local Security Checks
+39306	RHSA-2009-1082: cups	Red Hat Local Security Checks
+39307	RHSA-2009-1083: cups	Red Hat Local Security Checks
+39311	USN780-1 : cups, cupsys vulnerability	Ubuntu Local Security Checks
+39389	SuSE Security Update: cups: Fixed multiple integer overflows in 'pdftops' filter (CVE-2009-0791) and a ipp DoS (CVE-2009-0949). (cups-6285)	SuSE Local Security Checks
+39941	SuSE 11.0 Security Update: cups (2008-10-02)	SuSE Local Security Checks
+39942	SuSE 11.0 Security Update: cups (2008-11-21)	SuSE Local Security Checks
+39943	SuSE 11.0 Security Update: cups (2008-12-03)	SuSE Local Security Checks
+39944	SuSE 11.0 Security Update: cups (2009-04-16)	SuSE Local Security Checks
+40207	SuSE 11.1 Security Update: cups (2009-04-16)	SuSE Local Security Checks
+41166	SuSE9 Security Update: Security update for Cups (11965)	SuSE Local Security Checks
+41175	SuSE9 Security Update: Security update for cups (12016)	SuSE Local Security Checks
+41201	SuSE9 Security Update: Security update for cups (12099)	SuSE Local Security Checks
+41203	SuSE9 Security Update: Security update for CUPS (12117)	SuSE Local Security Checks
+41211	SuSE9 Security Update: Security update for cups (12150)	SuSE Local Security Checks
+41247	SuSE9 Security Update: Security update for CUPS (12261)	SuSE Local Security Checks
+41261	SuSE9 Security Update: Security update for Cups (12317)	SuSE Local Security Checks
+41292	SuSE9 Security Update: Security update for CUPS (12396)	SuSE Local Security Checks
+41304	SuSE9 Security Update: Security update for CUPS (12434)	SuSE Local Security Checks
+41377	SuSE Security Update: cups (2009-04-16)	SuSE Local Security Checks
+41492	SuSE Security Update: Security update for CUPS (cups-5296)	SuSE Local Security Checks
+41493	SuSE Security Update: Security update for Cups (cups-5845)	SuSE Local Security Checks
+41494	SuSE Security Update: Security update for CUPS (cups-6174)	SuSE Local Security Checks
+41495	SuSE Security Update: Security update for CUPS (cups-6279)	SuSE Local Security Checks
+42165	RHSA-2009-1513: cups	Red Hat Local Security Checks
+42181	MDVSA-2009:282-1: cups	Mandriva Local Security Checks
+42466	USN856-1 : cups, cupsys vulnerability	Ubuntu Local Security Checks
+42468	CUPS < 1.4.2 kerberos Parameter XSS	CGI abuses : XSS
+42471	SuSE 11.0 Security Update: cups (2009-11-04)	SuSE Local Security Checks
+42472	SuSE 11.1 Security Update: cups (2009-11-04)	SuSE Local Security Checks
+42473	SuSE Security Update: cups (2009-11-04)	SuSE Local Security Checks
+42815	SuSE Security Update: cups security update (cups-6565)	SuSE Local Security Checks
+42850	RHSA-2009-1595: cups	Red Hat Local Security Checks
+42935	Fedora 11 2009-10891: cups	Fedora Local Security Checks
+42936	Fedora 12 2009-11314: cups	Fedora Local Security Checks
+42965	Fedora 10 2009-11062: cups	Fedora Local Security Checks
+43009	Fedora 10 2009-12652: cups	Fedora Local Security Checks
+43107	SuSE 11.2 Security Update: cups (2009-12-04)	SuSE Local Security Checks
+43389	SuSE Security Update: Security update for CUPS (cups-6720)	SuSE Local Security Checks
+43598	SuSE9 Security Update: Security update for cups, cups-client, cups-devel, cups-libs (12561)	SuSE Local Security Checks
+43600	SuSE 11.0 Security Update: cups (2009-12-10)	SuSE Local Security Checks
+43601	SuSE 11.1 Security Update: cups (2009-12-10)	SuSE Local Security Checks

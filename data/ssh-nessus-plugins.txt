@@ -1,0 +1,174 @@
+10267	SSH Server Type and Version Information	Service detection
+10268	SSH CBC/CFB Data Stream Injection	Misc.
+10269	SSH RSAREF Library Multiple Functions Local Overflow	Misc.
+10439	OpenSSH < 2.1.1 UseLogin Local Privilege Escalation	Misc.
+10472	SSH with Kerberos NFS Share Ticket Disclosure	Misc.
+10607	SSH CRC-32 Compensation Attack Remote Overflow	Misc.
+10608	OpenSSH 2.3.1 SSHv2 Public Key Authentication Bypass	Misc.
+10708	SSH 3.0.0 Locked Account Remote Authentication Bypass	Misc.
+10771	OpenSSH 2.5.x - 2.9.x Multiple Key Type ACL Bypass	Misc.
+10802	OpenSSH < 3.0.2 Multiple Flaws	Misc.
+10823	OpenSSH UseLogin Environment Variable Local Command Execution	Misc.
+10881	SSH Protocol Versions Supported	General
+10882	SSH Protocol Version 1 Session Key Retrieval	General
+10883	OpenSSH < 3.1 Channel Code Off by One Remote Privilege Escalation	Gain a shell remotely
+10921	RemotelyAnywhere SSH Detection	Backdoors
+10954	OpenSSH Kerberos TGT/AFS Token Passing Remote Overflow	Gain a shell remotely
+10965	SSH 3 AllowedAuthentications Remote Bypass	Misc.
+10972	Cisco Devices Multiple SSH Information Disclosure Vulnerabilities	CISCO
+11031	OpenSSH < 3.4 Multiple Remote Overflows	Gain a shell remotely
+11169	SSH Secure Shell without PTY setsid() Function Privilege Escalation	Misc.
+11195	SSH Multiple Remote Vulnerabilities	Misc.
+11339	sshd scp Traversal Arbitrary File Overwrite	Gain a shell remotely
+11340	SSH ssh-keygen with Secure-RPC SUN-DES-1 Phrase Recovery	Misc.
+11341	SSH1 SSH Daemon Logging Failure	Gain a shell remotely
+11343	OpenSSH Client Unauthorized X11 Remote Forwarding	Misc.
+11381	Cisco IOS SSH Large Packet CPU Consumption DoS (CSCdw33027)	CISCO
+11382	Cisco Catalyst SSH Large Packet CPU Consumption DoS (CSCdv85279, CSCdw59394)	CISCO
+11383	Cisco SSH2 Server/Client Malformed Packet Remote DoS (CSCdz60229, CSCdy87221, CSCdu75477)	CISCO
+11574	OpenSSH w/ PAM Multiple Timing Attack Weaknesses	Misc.
+11712	OpenSSH < 3.6.2 Reverse DNS Lookup Bypass	Misc.
+11821	Dropbear SSH Server Username Remote Format String	Misc.
+11837	OpenSSH < 3.7.1 Multiple Vulnerabilities	Gain a shell remotely
+11848	OpenSSH < 3.7.1p2 Multiple Remote Vulnerabilities	Gain a shell remotely
+12099	F-Secure SSH Password Authentication Policy Evasion	Gain a shell remotely
+12309	RHSA-2002-131: openssh	Red Hat Local Security Checks
+12407	RHSA-2003-224: openssh	Red Hat Local Security Checks
+12421	RHSA-2003-280: openssh	Red Hat Local Security Checks
+13806	SUSE-SA:2003:038: openssh	SuSE Local Security Checks
+13807	SUSE-SA:2003:039: openssh (second release)	SuSE Local Security Checks
+13894	MDKSA-2001:081: openssh	Mandriva Local Security Checks
+13905	MDKSA-2001:092: openssh	Mandriva Local Security Checks
+13927	MDKSA-2002:019: openssh	Mandriva Local Security Checks
+13944	MDKSA-2002:040-1: openssh	Mandriva Local Security Checks
+14072	MDKSA-2003:090-1: openssh	Mandriva Local Security Checks
+14234	Dropbear SSH Server DSS Verification Failure Remote Privilege Escalation	Gain a shell remotely
+14272	netstat portscanner (SSH)	Port scanners
+14273	SSH settings	Settings
+14776	MDKSA-2001:033-2: openssh	Mandriva Local Security Checks
+14814	FreeBSD : rssh -- file name disclosure bug (165)	FreeBSD Local Security Checks
+14862	[DSA025] DSA-025-2 openssh	Debian Local Security Checks
+14864	[DSA027] DSA-027-1 OpenSSH	Debian Local Security Checks
+14923	[DSA086] DSA-086-1 ssh-nonfree	Debian Local Security Checks
+14928	[DSA091] DSA-091-1 ssh	Debian Local Security Checks
+14956	[DSA119] DSA-119-1 ssh	Debian Local Security Checks
+14971	[DSA134] DSA-134-4 ssh	Debian Local Security Checks
+15219	[DSA382] DSA-382-3 ssh	Debian Local Security Checks
+15220	[DSA383] DSA-383-2 ssh-krb5	Debian Local Security Checks
+15577	FreeBSD : rssh -- format string vulnerability (166)	FreeBSD Local Security Checks
+15580	[GLSA-200410-28] rssh: Format string vulnerability	Gentoo Local Security Checks
+15809	FreeBSD : putty -- buffer overflow vulnerability in ssh2 support (159)	FreeBSD Local Security Checks
+15822	SecureCRT SSH-1 Protocol Version String Remote Overflow	Windows
+15903	[GLSA-200412-01] rssh, scponly: Unrestricted command execution	Gentoo Local Security Checks
+17607	Non administrators can shut down Windows XP SP1 thru TSShutdn.exe (889323)	Windows : Microsoft Bulletins
+18310	RHSA-2005-106: openssh	Red Hat Local Security Checks
+18423	RHSA-2005-481: openssh	Red Hat Local Security Checks
+18700	SSA-18700 OpenSSH security problem fixed	Slackware Local Security Checks
+18727	SSA-2003-260-01 OpenSSH updated again 	Slackware Local Security Checks
+18728	SSA-2003-266-01 OpenSSH security problem fixed	Slackware Local Security Checks
+18730	SSA-2003-259-01 OpenSSH Security Advisory 	Slackware Local Security Checks
+19165	FreeBSD : rssh & scponly -- arbitrary command execution (2437)	FreeBSD Local Security Checks
+19592	OpenSSH GSSAPI Credential Disclosure Vulnerability	Misc.
+19731	Fedora Core 3 2005-858: openssh	Fedora Local Security Checks
+19732	Fedora Core 4 2005-860: openssh	Fedora Local Security Checks
+19830	RHSA-2005-550: openssh	Red Hat Local Security Checks
+19990	RHSA-2005-527: openssh	Red Hat Local Security Checks
+20316	SSH Tectia Server Host Authentication Authorization Bypass Vulnerability	Misc.
+20356	[GLSA-200512-15] rssh: Privilege escalation	Gentoo Local Security Checks
+20426	MDKSA-2005:172: openssh	Mandriva Local Security Checks
+20626	USN209-1 : openssh vulnerability	Ubuntu Local Security Checks
+20650	USN34-1 : openssh information leakage	Ubuntu Local Security Checks
+20802	Fedora Core 4 2006-056: openssh	Fedora Local Security Checks
+20875	MDKSA-2006:034: openssh	Mandriva Local Security Checks
+20923	SUSE-SA:2006:008: openssh	SuSE Local Security Checks
+20927	SSH Tectia Server SFTP Filename Logging Format String	Misc.
+20953	[GLSA-200602-11] OpenSSH, Dropbear: Insecure use of system() call	Gentoo Local Security Checks
+21023	Dropbear SSH Authorization-pending Connection Saturation DoS	Denial of Service
+21030	RHSA-2006-0044: openssh	Red Hat Local Security Checks
+21063	USN255-1 : openssh vulnerability	Ubuntu Local Security Checks
+21431	FreeBSD : SSH.COM SFTP server -- format string vulnerability (1707)	FreeBSD Local Security Checks
+21525	FreeBSD : rssh -- privilege escalation vulnerability (2376)	FreeBSD Local Security Checks
+21580	freeSSHd Key Exchange Algorithm String Remote Overflow	Gain a shell remotely
+21589	FortressSSH SSH_MSG_KEXINIT Logging Remote Overflow	Misc.
+22084	RHSA-2006-0298: openssh	Red Hat Local Security Checks
+22464	[GLSA-200609-17] OpenSSH: Denial of Service	Gentoo Local Security Checks
+22466	OpenSSH < 4.4 Multiple GSSAPI Vulnerabilities	Misc.
+22468	SSA-2006-272-02 openssh 	Slackware Local Security Checks
+22473	RHSA-2006-0697: openssh	Red Hat Local Security Checks
+22474	RHSA-2006-0698: openssh	Red Hat Local Security Checks
+22488	FreeBSD : openssh -- multiple vulnerabilities (1542)	FreeBSD Local Security Checks
+22651	[DSA1109] DSA-1109-1 rssh	Debian Local Security Checks
+22731	[DSA1189] DSA-1189-1 openssh-krb5	Debian Local Security Checks
+22869	Software Enumeration (SSH)	General
+23661	[DSA1212] DSA-1212-1 openssh	Debian Local Security Checks
+23671	[GLSA-200611-06] OpenSSH: Multiple Denial of Service vulnerabilities	Gentoo Local Security Checks
+23683	RHSA-2006-0738: openssh	Red Hat Local Security Checks
+24029	Fedora 5 2006-1011: openssh	Fedora Local Security Checks
+24050	Fedora 5 2006-1214: openssh	Fedora Local Security Checks
+24051	Fedora 6 2006-1215: openssh	Fedora Local Security Checks
+24440	SUSE-SA:2006:062: openssh	SuSE Local Security Checks
+24565	MDKSA-2006:179: openssh	Mandriva Local Security Checks
+24589	MDKSA-2006:204: openssh	Mandriva Local Security Checks
+24830	[GLSA-200703-13] SSH Communications Security's Secure Shell Server: SFTP privilege escalation	Gentoo Local Security Checks
+24925	Fedora 6 2007-394: openssh	Fedora Local Security Checks
+24926	Fedora 5 2007-395: openssh	Fedora Local Security Checks
+25143	RHSA-2007-0257: openssh	Red Hat Local Security Checks
+25202	Enumerate IPv6 Interfaces via SSH	General
+25203	Enumerate IPv4 Interfaces via SSH	General
+25287	OS Identification : SSH	General
+26053	SSA-2007-255-01 openssh 	Slackware Local Security Checks
+27058	Fedora 6 2007-715: openssh	Fedora Local Security Checks
+27365	SuSE Security Update: openssh: Security update for security problems solved in OpenSSH 4.4 (openssh-2183)	SuSE Local Security Checks
+27366	SuSE Security Update: openssh: Security fix for CVE-2006-5794 (openssh-2256)	SuSE Local Security Checks
+27382	SuSE Security Update: pam_ssh: Update to fix crash caused when using cron (pam_ssh-3024)	SuSE Local Security Checks
+27589	SuSE Security Update: openssh: This update fixes a bug in ssh's cookie and signal handling code. (openssh-4579)	SuSE Local Security Checks
+27612	[GLSA-200711-02] OpenSSH: Security bypass	Gentoo Local Security Checks
+27735	Fedora 7 2007-1793: pam_ssh	Fedora Local Security Checks
+27829	RHSA-2007-0540: openssh	Red Hat Local Security Checks
+27935	USN355-1 : openssh vulnerabilities	Ubuntu Local Security Checks
+28237	RHSA-2007-0703: openssh	Red Hat Local Security Checks
+29233	MDKSA-2007:236: openssh	Mandriva Local Security Checks
+29341	MDKA-2007:127: openssh-askpass-qt	Mandriva Local Security Checks
+29538	SuSE Security Update: Security update for OpenSSH (openssh-2184)	SuSE Local Security Checks
+29539	SuSE Security Update: Security update for OpenSSH (openssh-2257)	SuSE Local Security Checks
+29540	SuSE Security Update: Security update for OpenSSH (openssh-4580)	SuSE Local Security Checks
+29922	USN566-1 : OpenSSH vulnerability	Ubuntu Local Security Checks
+31421	SSH (SSF Derivative) Detection	Service detection
+31737	OpenSSH X11 Forwarding Session Hijacking	Misc.
+31784	USN597-1 : OpenSSH vulnerability	Ubuntu Local Security Checks
+31801	SSA-2008-095-01 openssh 	Slackware Local Security Checks
+31834	[GLSA-200804-03] OpenSSH: Privilege escalation	Gentoo Local Security Checks
+31841	SuSE Security Update: Security update for OpenSSH (openssh-5122)	SuSE Local Security Checks
+31842	SuSE Security Update: openssh security update (openssh-5148)	SuSE Local Security Checks
+31843	SuSE Security Update: openssh security update (openssh-5149)	SuSE Local Security Checks
+32314	Debian OpenSSH/OpenSSL Package Random Number Generator Weakness	Gain a shell remotely
+32320	Remote host has weak Debian OpenSSH Keys in ~/.ssh/authorized_keys	Gain a shell remotely
+32321	Debian OpenSSH/OpenSSL Package Random Number Generator Weakness (SSL check)	Gain a shell remotely
+32359	USN612-5 : OpenSSH update	Ubuntu Local Security Checks
+32377	[DSA1576] DSA-1576-1 openssh	Debian Local Security Checks
+32430	USN612-7 : OpenSSH update	Ubuntu Local Security Checks
+33276	Enumerate MAC Addresses via SSH	General
+34030	Remote host has a compromised Red Hat OpenSSH package intalled	Red Hat Local Security Checks
+34034	RHSA-2008-0855: openssh	Red Hat Local Security Checks
+34098	BIOS version (SSH)	General
+34223	[DSA1638] DSA-1638-1 openssh	Debian Local Security Checks
+34321	SuSE Security Update: Security update for OpenSSH (openssh-5627)	SuSE Local Security Checks
+34769	Dropbear SSH Server svr_ses.childpidsize Remote Overflow	Misc.
+36276	MDVSA-2008:098: openssh	Mandriva Local Security Checks
+36855	USN649-1 : openssh vulnerabilities	Ubuntu Local Security Checks
+36857	FreeBSD : rssh -- file name disclosure bug (2095)	FreeBSD Local Security Checks
+36879	MDVSA-2008:078: openssh	Mandriva Local Security Checks
+37021	FreeBSD : putty -- buffer overflow vulnerability in ssh2 support (1397)	FreeBSD Local Security Checks
+37369	FreeBSD : rssh -- format string vulnerability (1431)	FreeBSD Local Security Checks
+37752	MDVA-2009:037: php-ssh2	Mandriva Local Security Checks
+38197	pam_ssh Login Prompt Remote Username Enumeration	Misc.
+38669	Fedora 10 2009-3500: pam_ssh	Fedora Local Security Checks
+38670	Fedora 9 2009-3627: pam_ssh	Fedora Local Security Checks
+39520	Backported Security Patch Detection (SSH)	General
+40837	RHSA-2009-1287: openssh	Red Hat Local Security Checks
+41158	SuSE9 Security Update: Security update for OpenSSH (11931)	SuSE Local Security Checks
+41205	SuSE9 Security Update: Security update for OpenSSH (12122)	SuSE Local Security Checks
+41244	SuSE9 Security Update: Security update for OpenSSH (12257)	SuSE Local Security Checks
+41951	RHSA-2009-1470: openssh	Red Hat Local Security Checks
+42144	SuSE 11.1 Security Update: libssh (2009-09-23)	SuSE Local Security Checks
+42145	SuSE Security Update: libssh (2009-09-22)	SuSE Local Security Checks

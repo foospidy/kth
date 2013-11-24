@@ -1,0 +1,63 @@
+10961	AirConnect Default Password	Misc.
+11012	Cisco ATA-186 Password Circumvention / Recovery	CISCO
+11156	IRC Daemon Version Detection	Service detection
+11696	IRCXPro Clear Text Passwords Local Disclosure	Windows
+11697	IRCXPro Default Admin Password	CGI abuses
+11783	Multiple Vendor IRC Daemon Debug Format String	Gain a shell remotely
+11797	UnrealIRCd OperServ Raw Channel Join DoS	Misc.
+12297	UnrealIRCd IP Cloaking Weakness Information Disclosure	Misc.
+14253	Multiple IRC Client Non-registered User parse_client_queued Saturation DoS	Denial of Service
+14841	IRC Bot ident Server Detection	Backdoors
+14936	Debian DSA-099-1 : xchat - IRC session hijacking	Debian Local Security Checks
+15128	Debian DSA-291-1 : ircii - buffer overflows	Debian Local Security Checks
+15143	Debian DSA-306-1 : ircii-pana - buffer overflows, integer overflow	Debian Local Security Checks
+15703	BNC IRC Server Incorrect Password Authentication Bypass	Misc.
+16274	ngIRCd < 0.8.2 Lists_MakeMask() Remote Overflow DoS	Gain a shell remotely
+16310	ngIRCd < 0.8.3 Log_Resolver() Format String	Gain a shell remotely
+16431	GLSA-200501-40 : ngIRCd: Buffer overflow	Gentoo Local Security Checks
+18392	IRC Bot Detection	Backdoors
+18871	FreeBSD : ircd-hybrid-ru (1456)	FreeBSD Local Security Checks
+19002	FreeBSD : ngircd -- buffer overflow vulnerability (7f6dd1bd-7d99-11d9-a9e7-0001020eed82)	FreeBSD Local Security Checks
+19100	FreeBSD : ngircd -- format string vulnerability (bc4a7efa-7d9a-11d9-a9e7-0001020eed82)	FreeBSD Local Security Checks
+19153	FreeBSD : gaim -- remote DoS on receiving certain messages over IRC (ec09baa3-a9f5-11d9-a788-0001020eed82)	FreeBSD Local Security Checks
+22594	Debian DSA-1052-1 : cgiirc - buffer overflows	Debian Local Security Checks
+24201	FreeBSD : sircd -- remote reverse DNS buffer overflow (1374b96c-a1c2-11db-9ddc-0011098b2f36)	FreeBSD Local Security Checks
+24311	GLSA-200701-26 : KSirc: Denial of Service vulnerability	Gentoo Local Security Checks
+24544	MDKA-2007:007 : lirc	Mandriva Local Security Checks
+25097	Debian DSA-1280-1 : aircrack-ng - buffer overflow	Debian Local Security Checks
+25104	GLSA-200704-16 : Aircrack-ng: Remote execution of arbitrary code	Gentoo Local Security Checks
+26042	GLSA-200709-02 : KVIrc: Remote arbitrary code execution	Gentoo Local Security Checks
+26940	FreeBSD : jdk/jre -- Applet Caching May Allow Network Access Restrictions to be Circumvented (c93e4d41-75c5-11dc-b903-0016179b2dd5)	FreeBSD Local Security Checks
+27315	SuSE Security Update: kvirc: security update (kvirc-3953)	SuSE Local Security Checks
+27622	FreeBSD : dircproxy -- remote denial of service (a1ef3fc0-8ad0-11dc-9490-0016179b2dd5)	FreeBSD Local Security Checks
+27997	USN-409-1 : ksirc vulnerability	Ubuntu Local Security Checks
+29717	GLSA-200712-12 : IRC Services: Denial of Service	Gentoo Local Security Checks
+30030	FreeBSD : IRC Services-- Denial of Service Vulnerability (e5a9de5f-c6bc-11dc-b9f1-00a0cce0781e)	FreeBSD Local Security Checks
+30118	GLSA-200801-13 : ngIRCd: Denial of Service	Gentoo Local Security Checks
+32210	GLSA-200805-08 : InspIRCd: Denial of Service	Gentoo Local Security Checks
+34238	IRC Bouncer (BNC) Detection	Service detection
+34470	mIRC Detection	Windows
+34471	mIRC PRIVMSG Handling Remote Buffer Overflow	Windows
+36698	MDVA-2008:177 : lirc	Mandriva Local Security Checks
+37347	MDVA-2008:139 : lirc	Mandriva Local Security Checks
+40849	EMC Replication Manager irccd.exe RunProgram Message Handling Arbitrary Command Execution	Gain a shell remotely
+42833	eMule IRC Module / Web Server DecodeBase16 Function Remote Overflow	Peer-To-Peer File Sharing
+44333	FreeBSD : irc-ratbox -- multiple vulnerabilities (192609c8-0c51-11df-82a0-00248c9b4be7)	FreeBSD Local Security Checks
+44844	Debian DSA-1980-1 : ircd-hybrid/ircd-ratbox - integer underflow/denial of service	Debian Local Security Checks
+46882	Unreal IRC Daemon Backdoor Detection	Backdoors
+47016	GLSA-201006-21 : UnrealIRCd: Multiple vulnerabilities	Gentoo Local Security Checks
+47152	Adobe SVG Viewer Circle Transform Remote Code Execution	Windows
+47154	Debian DSA-2065-1 : kvirc - several vulnerabilities	Debian Local Security Checks
+47567	FreeBSD : kvirc -- multiple vulnerabilities (8685d412-8468-11df-8d45-001d7d9eb79a)	FreeBSD Local Security Checks
+47602	SuSE 11.0 Security Update: kvirc (2010-07-02)	SuSE Local Security Checks
+47603	SuSE 11.1 Security Update: kvirc (2010-07-02)	SuSE Local Security Checks
+47604	SuSE 11.2 Security Update: kvirc (2010-07-02)	SuSE Local Security Checks
+48114	MDVA-2010:145 : lirc	Mandriva Local Security Checks
+48221	Debian DSA-2078-1 : kvirc - programming error	Debian Local Security Checks
+48234	SuSE 11.1 Security Update: kvirc (2010-08-02)	SuSE Local Security Checks
+48237	SuSE 11.2 Security Update: kvirc (2010-08-02)	SuSE Local Security Checks
+51945	Debian DSA-2158-1 : cgiirc - cross-site scripting	Debian Local Security Checks
+56478	FreeBSD : sircd -- remote operator privilege escalation vulnerability (e92d8f6b-a1c0-11db-9ddc-0011098b2f36)	FreeBSD Local Security Checks
+58667	Debian DSA-2448-1 : inspircd - buffer overflow	Debian Local Security Checks
+59184	FreeBSD : inspircd -- buffer overflow (f5f00804-a03b-11e1-a284-0023ae8e59f0)	FreeBSD Local Security Checks
+59618	GLSA-201204-02 : InspIRCd: Arbitrary code execution	Gentoo Local Security Checks

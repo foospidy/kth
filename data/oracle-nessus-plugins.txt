@@ -1,0 +1,58 @@
+10171	Oracle Webserver PL/SQL Stored Procedure GET Request DoS	Databases
+10594	Oracle Application Server XSQL Stylesheet Arbitrary Java Code Execution	Databases
+10613	Oracle XSQL query.xsql sql Parameter SQL Injection	Databases
+10654	Oracle Application Server ndwfn4.so HTTP Request Remote Overflow	Databases
+10658	Oracle Database tnslsnr Service Remote Version Disclosure	Databases
+10660	Oracle Database Listener Program (tnslsnr) Service Blank Password	Databases
+10808	Oracle Application Server Web Cache Multiple Remote DoS	Databases
+10840	Oracle 9iAS mod_plsql Help Page Request Remote Overflow	Databases
+10848	Oracle 9iAS DMS / JPM Pages Anonymous Access	Databases
+10849	Oracle 9iAS mod_plsql DAD Admin Interface Access	Databases
+10850	Oracle 9iAS globals.jsa Database Credential Remote Disclosure	Databases
+10851	Oracle 9iAS Java Process Manager /oprocmgr-status Anonymous Process Manipulation	Databases
+10852	Oracle 9iAS _pages Directory Compiled JSP Source Disclosure	Databases
+10853	Oracle 9iAS mod_plsql Multiple Procedures XSS	CGI abuses : XSS
+10854	Oracle 9iAS mod_plsql Encoded Traversal Arbitrary File Access	Databases
+10855	Oracle Applicatoin Server XSQLServlet XSQLConfig.xml Information Disclosure	Databases
+10925	Oracle JSP Apache/Jserv Path Translation Arbitrary JSP File Execution	Databases
+11076	Oracle Web Cache Admin Module Multiple GET Request Method DoS	Databases
+11081	Oracle Application Server Web Cache HTTP Request Overflow	Databases
+11223	Oracle 9iAS soapdocs Directory Remote Information Disclosure	Databases
+11224	Oracle 9iAS XSQLServlet soapConfig.xml Authentication Credentials Disclosure	Databases
+11225	Oracle 9iAS OWA_UTIL Stored Procedures Information Disclosure	Databases
+11226	Oracle 9iAS Nonexistent .jsp File Request Error Message Path Disclosure	Databases
+11227	Oracle 9iAS Default SOAP Configuration Unauthorized Application Deployment	Databases
+11452	Oracle 9iAS PL/SQL Gateway Web Admin Interface Null Authentication	Databases
+11563	Oracle Net Services CREATE DATABASE LINK Query Overflow	Databases
+11918	Oracle 9iAS Multiple Portal Component SQL Injection	Databases
+12047	Oracle Database 9i Multiple Functions Local Overflow	Databases
+12067	Oracle Multiple Products SOAP Message Crafted DTD Remote DoS	Databases
+12112	Oracle 9iAS iSQLplus XSS	CGI abuses : XSS
+12126	Oracle Application Server Web Cache <= 9.0.4.0 Multiple Vulnerabilities	Databases
+14641	Oracle Database Multiple Remote Vulnerabilities (Mar 2005)	Databases
+16209	Oracle Database Multiple Vulnerabilities (CPU Jan 2005)	Databases
+17586	Oracle Enterprise Manager Web Console Detection	Databases
+17614	Oracle Reports Server test.jsp Multiple Parameter XSS	Databases
+17654	Oracle 8i/9i Database Server UTL_FILE Traversal Arbitrary File Manipulation	Databases
+18034	Oracle Database 10g Multiple Remote Vulnerabilities	Databases
+18175	Oracle Application Server 9i Webcache < 9.0.4.0 Multiple Vulnerabilities	Databases
+18181	Oracle Application Server Webcache Requests OHS mod_access Restriction Bypass	Databases
+18204	Oracle 10g DBMS_SCHEDULER Privilege Escalation	Databases
+18205	Oracle Database 9i/10g Fine Grained Auditing (FGA) SELECT Statement Logging Weakness	Databases
+22073	Oracle detection	Service detection
+22074	Oracle Default SID	Databases
+22075	Oracle Default Accounts	Databases
+22076	Oracle settings	Settings
+24276	Default Password (oracle) for 'oracle' Account	Default Unix Accounts
+25951	Oracle JInitiator beans.ocx ActiveX Multiple Buffer Overflows	Windows
+26192	Oracle Listener Program Logging Privilege Escalation (1361722)	Databases
+32479	Oracle Application Server Portal 10g Authentication Bypass	Databases
+33932	Oracle WebLogic Server mod_wl POST Request Remote Overflow	Web Servers
+34781	Oracle WebLogic Server mod_wl Invalid Parameter Remote Overflow (1150354)	Web Servers
+35363	Oracle Secure Backup Administration Server login.php Command Injection Vulnerability	CGI abuses
+35374	Oracle WebLogic Server Plug-in Remote Overflow (1166189)	Web Servers
+40550	Oracle Database Secure Enterprise Search search/query/search search_p_groups Parameter XSS	CGI abuses : XSS
+40989	Oracle Secure Backup Administration Server Authentication Bypass	CGI abuses
+43352	Oracle WebLogic Default Credentials	CGI abuses
+44315	Oracle WebLogic Server Node Manager Detection	Service detection
+44316	Oracle WebLogic Server Node Manager Remote Command Execution	Misc.

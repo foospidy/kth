@@ -1,0 +1,41 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+cd $DIR;
+
+source etc/kth.cfg;
+
+if [ -z ${1} ]
+then
+	echo Service must be specified. Use one of the following known services:
+	cat $SERVICES_FILE | awk '{ print $1 }';
+	exit;
+fi
+
+if [ "all" == "${1}" ]
+then
+        echo "Hunt them all...";
+        for svc in `cat $SERVICES_FILE | awk '{ print $1 }'`
+        do
+                ./thehunter $svc;
+        done
+        exit;
+fi
+
+target_count=`cat data/${1}-targets.txt | grep "/open/" | wc -l`;
+
+if grep -q -w "^${1}" $SERVICES_FILE
+then
+	port=`grep -w ${1} $SERVICES_FILE | awk '{ print $2 }'`;
+	nessus_checks=`grep -w ${1} $SERVICES_FILE | awk '{ print $3 }'`;
+	echo Discovering ${1} kill points on  ${target_count} targets.;
+	for t in `cat data/${1}-targets.txt | grep "/open/" | awk '{ print $2 }' | grep -v Nmap`;
+	do
+		sudo /opt/nessus/bin/nessuscmd -v -V ${t} -i ${nessus_checks} | tee -a data/${1}-results.txt;
+	done
+
+else
+	echo Service unkown. Use one of the following known services:
+	cat $SERVICES_FILE | awk '{ print $1 }'; 
+fi
